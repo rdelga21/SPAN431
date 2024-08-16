@@ -1,0 +1,28 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "The Structure of Spanish"
+  sidebar:
+    style: "docked"
+    contents:
+      - text: "Home"
+        href: index.qmd
+      - section: "Syllabus"
+        contents: 
+        - span431_syllabus.qmd
+        - 431calendar.qmd
+      - section: "Semanas"
+        contents: 
+        - semana1.qmd
+        - semana2.qmd
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+
+
