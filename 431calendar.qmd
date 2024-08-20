@@ -1,27 +1,113 @@
 ---
 title: "Programa del curso"
+editor: 
+  markdown: 
+    wrap: 72
 ---
+
 Este es al programa para el semester.
 
--   Quiero mantenerme flexible en cuanto al programa del curso para poder adaptarlo a las necesidades de la clase. Por lo tanto, el siguiente programa está sujeto a cambios, aunque sirve de guía para el curso.
+-   Quiero mantenerme flexible en cuanto al programa del curso para
+    poder adaptarlo a las necesidades de la clase. Por lo tanto, el
+    siguiente programa está sujeto a cambios, aunque sirve de guía para
+    el curso.
 
-| **Semana** | **Martes**| **Jueves** |**Los Temas** |
-|------------|---------|--------------|-----------|-----------|
-| Semana 1 | August 27 - **no class** | 29| Handout 1 - Introducción histórica; la adquisición |
-| Semana 2 | September - 3 | 5 | Handout 1 - La lengua como parte de nuestros genes; la linguística generativa; la lengua como parte innata; aprendizaje vs. adquisición |
-| Semana 3 | 10 | 12 - **Tarea 1** | Handout 2 - El objeto de estudio; las fuentes de datos; el método científico; los rasgos en la sintaxis |
-| Semana 4 | 17 | 19 - **Tarea 2** | Handout 3 - las categorias sintácticas (o las partes de la oración) |
-| Semana 5 | 24 | 26 - **Tarea 3** | Handout 4 - Introducción a los sintagmas (phrases) and Handout 5 - más sintagmas |
-| Semana 6 | October - 1| 3 - **Tarea 4**| Handout 6 - aún más sintagmas (tiempo y complementante); la elipsis |
-| Semana 7 | 8 | 10 - **Examen 2** | Handout 6 - aún más sintagmas (tiempo y complementante); la elipsis  |
-| Semana 8 | 15 | 17 | Handout TBA |   
-| Semana 9 | 22 | 24 - **Tarea 4**| Handout 7 - la referencia, los determinantes, y los pronombres; Handout 8 - los pronombres reflexivos del español y las reglas estructurales |
-| Semana 10 | 29 | 31 - **Tarea 5**| Handout 9 - la estructura argumental: los argumentos vs. los adjuntos |
-| Semana 11 | November 5 |7 - **Tarea 6**| Handout 10 - la teoría de X' |     
-| Semana 12 | 12 | 14 - **Examen 3** |  Handout 10 - la teoría de X' |
-| Semana 13 | 19| 21 - **Tarea 7** | Handout 11 - Explicando parte de la variación |
-| Semana 14 - **Fall break**| 26 - **Fall break**| 28 - **Tarea 8**| Handout 12 - El movimiento de V a T y de T a C |
-|Semana 15 | December 3 - **Repaso Examen Final** | 5 - **Examen Final** | 
-| Semana 16 | 10 | Reading day - **No Class**
-
-
++----------------+-------------------------+-------------------------+
+| **Semana**     | **Martes**              | **Jueves**              |
++================+=========================+=========================+
+| Semana 1       | August 27\              | 29\                     |
+|                | Introducción al curso   | Las unidades del        |
+|                |                         | análisis morfológico    |
+|                | -   Fábregas (2013):    |                         |
+|                |     17-27               | -   Fabregas (2013):    |
+|                |                         |     35-46               |
+|                |                         |                         |
+|                |                         | -   Pena (1999):        |
+|                |                         |     4312-4318           |
++----------------+-------------------------+-------------------------+
+| Semana 2       | September 3\            | 5\                      |
+|                | La alomorfía y el       | Las estradas léxicas,   |
+|                | análisis morfológico    | la flexión nominal y\   |
+|                |                         | la flexión verbal       |
+|                | -   Fábregas (2013):    |                         |
+|                |     47-51               | -   Fábregas (2013):    |
+|                |                         |     64-69               |
+|                | -   Pena 1999:          |                         |
+|                |     4346-4358           | -   Hualde et al. 2010: |
+|                |                         |     137-149             |
+|                |                         |                         |
+|                |                         | **Ejercicio 1**         |
++----------------+-------------------------+-------------------------+
+| Semana 3       | 10\                     | 12\                     |
+|                | Los verbos irregulares  | La derivación, la       |
+|                | y el grado de los       | composición y otros     |
+|                | adjectivos y la         | procesos morfológicos y |
+|                | derivación (la          | limitaciones del        |
+|                | nominalización)         | análisis morfológico    |
+|                |                         |                         |
+|                | -   Hualde et al.       | -   Hualde et al.       |
+|                |     (2010): 150-155,    |     (2010): 178-196     |
+|                |     163-178             |                         |
+|                |                         | -   Pena (1999):        |
+|                |                         |     4358-4364           |
+|                |                         |                         |
+|                |                         | **Ejercicio 2**         |
++----------------+-------------------------+-------------------------+
+| Semana 4       | 17\                     | 19\                     |
+|                | La estructura interna   | La noción de "palabra"  |
+|                | de la palabra           | y el lugar de la        |
+|                |                         | morfología              |
+|                | -   Fábregas (2013):    |                         |
+|                |     73-105              | -   Pena (1999):        |
+|                |                         |     4327-4329           |
+|                |                         |                         |
+|                |                         | -   Fábregas (2013):    |
+|                |                         |     51-54               |
+|                |                         |                         |
+|                |                         | -   Fábregas (2013):    |
+|                |                         |     27-31               |
++----------------+-------------------------+-------------------------+
+| Semana 5       | 24\                     | 26\                     |
+|                | Morfofonología y        | La flexión y su         |
+|                | morfosintaxis           | análisis                |
+|                |                         |                         |
+|                | -   Fábregas (2013):    | -   Fábregas (2013):    |
+|                |     109-143             |     175-209             |
+|                |                         |                         |
+|                |                         | **Ejercicio 3**         |
++----------------+-------------------------+-------------------------+
+| Semana 6       | October 1\              | 3\                      |
+|                | La derivación y su      | La composición y su     |
+|                | análisis                | análisis                |
+|                |                         |                         |
+|                | -   Fábregas (2013):    | -   Fábregas (2013):    |
+|                |     211-244             |     247-276             |
++----------------+-------------------------+-------------------------+
+| Semana 7       | 8\                      | 10\                     |
+|                | Presentación de         | Presentación de         |
+|                | artículo                | artículo                |
+|                |                         |                         |
+|                | -   Rodrigo             | -   Rodrigo             |
++----------------+-------------------------+-------------------------+
+| Semana 8       | 15\                     | 17\                     |
++----------------+-------------------------+-------------------------+
+| Semana 9       | 22\                     | 24\                     |
++----------------+-------------------------+-------------------------+
+| Semana 10      | 29\                     | 31\                     |
++----------------+-------------------------+-------------------------+
+| Semana 11      | November 5\             | 7\                      |
++----------------+-------------------------+-------------------------+
+| Semana 12      | 12\                     | 14\                     |
++----------------+-------------------------+-------------------------+
+| Semana 14      | 19\                     | 21\                     |
++----------------+-------------------------+-------------------------+
+| **Fall break** | **Fall break**          | **Fall break**          |
++----------------+-------------------------+-------------------------+
+| Semana 15      | December 3\             | 5\                      |
+|                | Presentación del        | Presentación del        |
+|                | trabajo final           | trabajo final           |
++----------------+-------------------------+-------------------------+
+| Semana 16      | 10\                     | 12\                     |
+|                | Presentación del        | **Reading day** (no hay |
+|                | trabajo final           | clase)                  |
++----------------+-------------------------+-------------------------+
