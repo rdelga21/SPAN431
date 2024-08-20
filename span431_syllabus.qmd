@@ -21,33 +21,40 @@ format:
 
 ## Objectivos principales del curso
 
-1.  Estudiar las ideas fundamentales de la lingüística generativa.
+1. Introducir los fenómenos morfológicos del español, principalmente desde una perspectiva formal. 
 
-2.  Estudiar en profundidad los elementos básicos de la oración del español, varias construcciones sintácticas, y las reglas básicas que regulan la estructura de la oración.
+2. Introducir las teorías de la morfología.
+
+3. Explorar estudios de otras areas que se relacionan con la morfología.
 
 ## Materiales del curso
 
-1.  Partes del capítulo 1 y del 4 en **Introducción a la lingüística hispánica (2a edición) editado editado por J.I. Hualde, A. Olarrea, A.M. Escobar, y C.E. Travis, Cambridge: CUP.**
+1.  Los PPT que se usaran en clase.
 
-2.  Los PPT que se usaran en clase.
+2.  Lecturas variadas que estarán disponibles en la página. Las lecturas estarán guardadas en la carpeta de la semana correspondiente. 
 
-3.  Lecturas variadas que estarán disponibles en Canvas. Las lecturas estarán guardadas en la carpeta de la semana correspondiente. 
-
-Es muy importante que hagas las lecturas y que asistas a las clases. Las lecturas complementarán y ayudarán a reforzar el material presentado en clase. En clase, habrá varias oportunidades para hacer preguntas, discutir las lecturas y aclarar dudas.
 
 ## La composición de la nota:
 
-1.  4 exámenes: **50%**
-    -   **Examen 1**: TBA
-    -   **Examen 2**: TBA
-    -   **Examen 3**: TBA
-    -   **Examen 4**: TBA
-    
-2.  8 Tareas: **40%**
-    - Las tareas ayudarán a concretar las conceptos que aprenderemos en clase. También servirán como práctica para los examenes. 
-    - Se les dará la tarea el jueves y se tendrá que entregar el siguiente martes durante la clase. 
+1. Tarea (6): **30%**
+- Estas tareas se entregarán en Moodle
+Cada dos semanas 
+
+2. Presentación de artículo
+- La presentación incluirá	una síntesis del estudio (fenómeno lingüístico, hipótesis, metodología de análisis y conclusión) con anotaciones críticas y dos preguntas finales de reflexión. Tendrá 1 hora para la presentación. 
+
+3. Investigación final: **40%**
+- Sobre un fenomeno morfológico del español.
+- Incluye: 
+    - Abstract del trabajo de 2 páginas (5%)
+    - Análisis crítico de un artículo del trabajo final (10%)
+        - El artículo escogido deber ser aprovado por el profesor
+    - Presentación del trabajo final (10%)
+    - El paper final de &pm;15 páginas, doble espacio (15%)
   
-3. Asistencia y participación: **10%**
+4. Asistencia: **5%**
+
+5. Participación: **5%**
     
 **Life happens clause** - You can invoke the clause on one deadline and get a 3-day extension. No explanation required. To use it, please email me stating that you are invoking the clause and the name of the assignment. Tests are excluded. 
 
