@@ -18,7 +18,7 @@ website:
         - semana1.qmd
       - section: "Readings"
         contents: 
-        - Fabregas(2013).qmd
+        - Fabregas2013.qmd
 
 format:
   html:
