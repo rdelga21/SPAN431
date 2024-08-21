@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "The Structure of Spanish"
+  title: "Morphology"
   sidebar:
     style: "docked"
     contents:
@@ -16,7 +16,6 @@ website:
       - section: "Semanas"
         contents: 
         - semana1.qmd
-        - semana2.qmd
 
 format:
   html:
