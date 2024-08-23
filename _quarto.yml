@@ -16,6 +16,11 @@ website:
       - section: "Semanas"
         contents: 
         - semana1.qmd
+        - semana9.qmd
+        - semana10.qmd
+        - semana11.qmd
+        - semana12.qmd
+        - semana12.qmd
       - section: "Readings"
         contents: 
         - Fabregas2013.qmd
