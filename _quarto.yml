@@ -12,6 +12,13 @@ website:
       - span431_syllabus.qmd
       - 431calendar.qmd
       - Fabregas2013.qmd
+      
+  sidebar: 
+    - title: "Semanas"
+      style: "docked"
+      background: light
+      contents:
+        - semana8.qmd
         
 format:
   html:
