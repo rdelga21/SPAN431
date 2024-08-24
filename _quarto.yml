@@ -3,17 +3,14 @@ project:
   output-dir: docs
 
 website:
-  title: "Morphology"
-  sidebar:
-    style: "docked"
-    contents:
+  navbar:
+    background: primary
+    search: true
+    left:
       - text: "Home"
         href: index.qmd
-      - text: "Syllabus"
-        href: span431_syllabus.qmd
-      - text: "Calendar"
-        href: 431calendar.qmd
-      - text: "Semana 1"
+      - about.qmd 
+      - span431_syllabus.qmd
         
 format:
   html:
