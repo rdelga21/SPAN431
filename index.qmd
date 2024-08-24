@@ -2,4 +2,8 @@
 title: "SPAN431"
 ---
 
-This is the website for the class. test
+This is the website for the class.
+
+# Announcements 
+
+Pleas check here for annoucements.
