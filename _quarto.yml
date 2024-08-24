@@ -11,6 +11,8 @@ website:
         href: index.qmd
       - text: "Syllabus"
         href: span431_syllabus.qmd
+      - text: "Calendar"
+        href: 431calendar.qmd
         
 format:
   html:
