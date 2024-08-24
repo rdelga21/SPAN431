@@ -10,7 +10,8 @@ website:
       - text: "Home"
         href: index.qmd
       - section: "Syllabus"
-        contents: span431_syllabus.qmd
+        contents: 
+        - span431_syllabus.qmd
         
 format:
   html:
