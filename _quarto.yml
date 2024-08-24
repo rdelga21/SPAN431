@@ -13,6 +13,7 @@ website:
         href: span431_syllabus.qmd
       - text: "Calendar"
         href: 431calendar.qmd
+      - text: "Semana 1"
         
 format:
   html:
