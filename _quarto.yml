@@ -9,10 +9,8 @@ website:
     contents:
       - text: "Home"
         href: index.qmd
-      - section: "Syllabus"
-        contents: 
-        - span431_syllabus.qmd
-        - 431calendar.qmd
+      - text: "Syllabus"
+        href: span431_syllabus.qmd
         
 format:
   html:
