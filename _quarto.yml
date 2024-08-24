@@ -11,6 +11,7 @@ website:
         href: index.qmd
       - span431_syllabus.qmd
       - 431calendar.qmd
+      - Fabregas2013.qmd
         
 format:
   html:
