@@ -9,6 +9,7 @@ website:
     contents:
       - text: "Home"
         href: index.qmd
+      - section: "Syllabus"
 
 format:
   html:
