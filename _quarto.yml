@@ -12,6 +12,7 @@ website:
       - section: "Syllabus"
         contents: 
         - span431_syllabus.qmd
+        - 431calendar.qmd
         
 format:
   html:
