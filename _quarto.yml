@@ -11,6 +11,7 @@ website:
         href: index.qmd
       - about.qmd 
       - span431_syllabus.qmd
+      - 431calendar.qmd
         
 format:
   html:
