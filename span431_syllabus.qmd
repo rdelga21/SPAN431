@@ -31,13 +31,13 @@ format:
 
 1.  Los PPT que se usaran en clase.
 
-2.  Las lecturas estarán disponibles en la página, guardadas en la carpeta de la semana correspondiente. 
+2.  Las lecturas estarán disponibles en la página.
 
 
 ## La composición de la nota:
 
 1. Tarea (6): **30%**
-- Estas tareas se entregarán en Moodle
+- Estas tareas se entregarán en Canvas
 - Cada dos semanas 
 
 2. Presentación de uno o dos artículos
@@ -48,7 +48,7 @@ format:
 - Incluye: 
     - Abstract del trabajo de 2 páginas (5%)
     - Análisis crítico de un artículo del trabajo final (10%)
-        - El artículo escogido deber ser aprovado por el profesor
+        - El artículo escogido debe ser aprovado por el profesor
     - Presentación del trabajo final (10%)
     - El paper final de &pm;15 páginas, doble espacio (15%)
   

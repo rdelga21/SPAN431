@@ -16,11 +16,11 @@ El semestre se divide en tres partes:
 
 -   Introducción a la morfología y las unidades de analysis: analizar la
     estructura interna de las palabras; la estuctura de las palabras (su
-    sintaxis)
+    sintaxis) - *Semanas 1-4*
 
--   Las teorías sobre la morfología
+-   Las teorías sobre la morfología - *Semanas 5-6*
 
--   La morfología más extendida – Lecturas primarias
+-   La morfología más extendida – Lecturas - *Semanas 7 - final*
 
 +----------------+----------------------+----------------------+
 | **Semana**     | **Martes**           | **Jueves**           |
