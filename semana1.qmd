@@ -124,3 +124,10 @@ El lenguaje es un sistema que nos permite combinar unidades simples para formar 
 \(11\)
 
 ![](images/semana1fig1.png)
+##
+
+**El léxico**: La lista de unidades que cada lengua tiene para combinar; es una lista arbitraría que asocia una secuencia de sonidos conjuntos de información gramatical y semántica. Es esencialmente lo que se recoge en los diccionarios. 
+
+- Por ejemplo: la lista especifica que el objeto esférico en el cielo que refleja la luz del sol se pronuncia /luna/ en español.
+
+- La arbitrariedad: De una lengua a otro el léxico varía: /mun/ en inglés, /tal/ en coreano, /fengari/ en griego.
