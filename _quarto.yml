@@ -13,7 +13,6 @@ website:
       - 431calendar.qmd
       - Fabregas2013.qmd
       - bd1999.qmd
-      - semana1.qmd
       
 format:
   html:
