@@ -3,4 +3,35 @@ title: "Semana 1"
 format: revealjs
 ---
 
-## Semana 1
+# Presentación 1
+
+## ¿qué es la morfología?
+
+1.  Una introducción a la morfología
+
+-   **Un morfólogo** estudia la forma en que los hablantes construyen e interpretan las palabras de su lengua.
+
+-   **La morfología** investiga las propiedades de las palabras, especialmente.
+
+    -   La información gramatical que contienen las palabras y
+    -   La forma de relacionarse unas con otras por su *forma* y *significado*
+
+## Algunos pronombres de objeto
+
+|              |                |                |
+|--------------|----------------|----------------|
+|              | **1a persona** | **2a persona** |
+| **Singular** | me             | te             |
+| **Plural**   | nos            | os             |
+
+## El sufijo *-dor*
+
+|           |                |
+|-----------|----------------|
+| **Verbo** | **Sustantivo** |
+| trabajar  | trabajador     |
+| gobernar  | gobernador     |
+| afilar    | afilador       |
+| comprar   | comprador      |
+
+-   El morfólogo también se pregunta por qué no \**visitador* vs. *visitante*; y qué pasa con *leñador*, que no contiene verbo.
