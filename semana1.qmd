@@ -16,7 +16,9 @@ format: revealjs
     -   La información gramatical que contienen las palabras y
     -   La forma de relacionarse unas con otras por su *forma* y *significado*
 
-## Algunos pronombres de objeto
+## 
+
+Algunos pronombres de objeto
 
 |              |                |                |
 |--------------|----------------|----------------|
@@ -24,7 +26,9 @@ format: revealjs
 | **Singular** | me             | te             |
 | **Plural**   | nos            | os             |
 
-## El sufijo *-dor*
+## 
+
+El sufijo *-dor*
 
 |           |                |
 |-----------|----------------|
@@ -35,3 +39,88 @@ format: revealjs
 | comprar   | comprador      |
 
 -   El morfólogo también se pregunta por qué no \**visitador* vs. *visitante*; y qué pasa con *leñador*, que no contiene verbo.
+
+## 
+
+**Morfológicamente simple**: Una palabra que no puede dividirse en unidades menores de significado
+
+(1) me, te, nos, os
+
+**Morfológicamente compleja**: Una palabra que puede dividirse en unidades menores de significado.
+
+(2) afilador: afila + dor
+
+## 
+
+**Morfemas**: Una unidad mínima con significado; unidades gramaticales mínimas
+
+(3) 
+
+    a.  estudiante: estudia + nte
+    b.  sordera: sord + era
+    c.  exactituc: exact + itud
+
+## 
+
+-   **Base**: La forma más simple sobre la que se forma la otra palabra
+
+-   **Morfo**: Los segmentos fonémicos de los morfemas, i.e. su forma pronunciada.
+
+    -   Cuando un morfema está representado por más de un morfo, el morfema tiene alomorfos (o más de un exponente).
+
+(4) 
+
+    a.  casa-s vs. león-es → -s/-es (plural)
+    b.  imposible vs. idomable &rarr \[im\] vs. \[in\] (prefijo negativo)
+
+# La morfología vs. la fonología, la semántica y la sintaxis
+
+## 
+
+-   **La fonología**: Investiga los sonidos y cómo se combinan entre sí.
+
+(5) 
+
+    a.  dedo
+    b.  lago vs. gato
+
+(6) 
+
+    a.  trabajador
+    b.  afilador
+
+**La morfofonología**: El estudio del interfaz entre la fonología y la morfología; la aplicación de la fonología al estudio de la palabra.
+
+## 
+
+-   **La semántica**: Investiga el significado de las unidades y sus combinaciones.
+
+(7) 
+
+    a.  gobernar
+    b.  gobernador
+
+(8) 
+
+    a.  naranja
+    b.  naranjo
+
+**La semántica léxica**: El estudio del interfaz entre la semántica y la morfología; la aplicación de la semántica al estudio de la palabra.
+
+## 
+
+-   **La sintaxis**: Investiga las oraciones y como las partes de las oraciones se combinan para formar oraciones.
+
+(9) El gobernador salió en la tele.
+
+**La morfosintaxis**: El estudio del interfaz entre la sintaxis y la morfología; la aplicación de la sintaxis al estudio de la palabra
+
+(10) gobernador → goberna + dor
+
+# La morfología y el léxico
+
+El lenguaje es un sistema que nos permite combinar unidades simples para formar elementos complejos que se materializan mediate sonidos (o gestos) y que contienen un significado determinado.
+
+\(11\)
+
+![](images/semana1fig1.png)
