@@ -5,20 +5,35 @@ format: revealjs
 
 # Presentación 1
 
+## Preguntas
+
+- En parejas:
+
+- ¿Qué es un morfema?
+
+## Preguntas
+
+- ¿Qué quiere decir "smallest meaningful constituent"?
+
+## Pregunta
+
+- How do you define "word"?
+
+
 ## ¿qué es la morfología?
 
 1.  Una introducción a la morfología
 
 -   **Un morfólogo** estudia la forma en que los hablantes construyen e interpretan las palabras de su lengua.
 
--   **La morfología** investiga las propiedades de las palabras, especialmente.
+-   **La morfología** investiga las propiedades de las palabras, especialmente:
 
     -   La información gramatical que contienen las palabras y
     -   La forma de relacionarse unas con otras por su *forma* y *significado*
 
-## 
+## La morfología
 
-Algunos pronombres de objeto
+- Algunos pronombres de objeto
 
 |              |                |                |
 |--------------|----------------|----------------|
@@ -26,9 +41,9 @@ Algunos pronombres de objeto
 | **Singular** | me             | te             |
 | **Plural**   | nos            | os             |
 
-## 
+## La morfología
 
-El sufijo *-dor*
+- El sufijo *-dor*
 
 |           |                |
 |-----------|----------------|
@@ -40,19 +55,27 @@ El sufijo *-dor*
 
 -   El morfólogo también se pregunta por qué no \**visitador* vs. *visitante*; y qué pasa con *leñador*, que no contiene verbo.
 
-## 
+## La morfología
 
-**Morfológicamente simple**: Una palabra que no puede dividirse en unidades menores de significado
+- **Morfológicamente simple**: Una palabra que no puede dividirse en unidades menores de significado
 
 (1) me, te, nos, os
 
-**Morfológicamente compleja**: Una palabra que puede dividirse en unidades menores de significado.
+- **Morfológicamente compleja**: Una palabra que puede dividirse en unidades menores de significado.
 
 (2) afilador: afila + dor
 
-## 
+## Los morfemas
 
-**Morfemas**: Una unidad mínima con significado; unidades gramaticales mínimas
+- ¿Qué es un morfema?
+
+## Los morfemas
+
+- ¿Qué quiere decir una unidad mínima con significado?
+
+## Los morfemas
+
+- **Los morfemas**: Una unidad mínima con significado; unidades gramaticales mínimas
 
 (3) 
 
@@ -60,7 +83,7 @@ El sufijo *-dor*
     b.  sordera: sord + era
     c.  exactituc: exact + itud
 
-## 
+## Las partes
 
 -   **Base**: La forma más simple sobre la que se forma la otra palabra
 
@@ -70,12 +93,12 @@ El sufijo *-dor*
 
 (4) 
 
-    a.  casa-s vs. león-es → -s/-es (plural)
-    b.  imposible vs. idomable &rarr \[im\] vs. \[in\] (prefijo negativo)
+    a.  casa-s vs. león-es **→** -s/-es (plural)
+    b.  imposible vs. indomable **→** \[im\] vs. \[in\] (prefijo negativo)
 
 # La morfología vs. la fonología, la semántica y la sintaxis
 
-## 
+## La fonología
 
 -   **La fonología**: Investiga los sonidos y cómo se combinan entre sí.
 
@@ -91,7 +114,7 @@ El sufijo *-dor*
 
 **La morfofonología**: El estudio del interfaz entre la fonología y la morfología; la aplicación de la fonología al estudio de la palabra.
 
-## 
+## La semántica
 
 -   **La semántica**: Investiga el significado de las unidades y sus combinaciones.
 
@@ -107,27 +130,202 @@ El sufijo *-dor*
 
 **La semántica léxica**: El estudio del interfaz entre la semántica y la morfología; la aplicación de la semántica al estudio de la palabra.
 
-## 
+## La sintaxis
 
 -   **La sintaxis**: Investiga las oraciones y como las partes de las oraciones se combinan para formar oraciones.
 
 (9) El gobernador salió en la tele.
 
-**La morfosintaxis**: El estudio del interfaz entre la sintaxis y la morfología; la aplicación de la sintaxis al estudio de la palabra
+- **La morfosintaxis**: El estudio del interfaz entre la sintaxis y la morfología; la aplicación de la sintaxis al estudio de la palabra
 
 (10) gobernador → goberna + dor
 
 # La morfología y el léxico
 
-El lenguaje es un sistema que nos permite combinar unidades simples para formar elementos complejos que se materializan mediate sonidos (o gestos) y que contienen un significado determinado.
+## El léxico
+
+- El lenguaje es un sistema que nos permite combinar unidades simples para formar elementos complejos que se materializan mediate sonidos (o gestos) y que contienen un significado determinado.
 
 \(11\)
 
 ![](images/semana1fig1.png)
-##
+
+## El léxico
 
 **El léxico**: La lista de unidades que cada lengua tiene para combinar; es una lista arbitraría que asocia una secuencia de sonidos conjuntos de información gramatical y semántica. Es esencialmente lo que se recoge en los diccionarios. 
 
 - Por ejemplo: la lista especifica que el objeto esférico en el cielo que refleja la luz del sol se pronuncia /luna/ en español.
 
 - La arbitrariedad: De una lengua a otro el léxico varía: /mun/ en inglés, /tal/ en coreano, /fengari/ en griego.
+
+## El léxico
+
+| Procedimiento léxico | vs | Pocedimiento morfolgógico |
+|------|------|------|
+| caballo -  yegua    |     | doctor -  doctora     |
+| hombre -  mujer | | niño     -  niña |
+
+# Clases de morfemas: flexión, derivación y composición
+
+## Flexión, derivación y composición
+
+- La palabra trabajador consiste en un **LEXEMA** (trabaja) y un **AFIJO** (-dor).
+
+- ¿Qué es un lexema?
+    - Para entender, es útil pensar sobre la noción palabra, basándonos en la discusión en Matthews (1991: 25-27) y Bermúdez-Otero (2013:4-5)
+    
+## Lexema
+
+(12) a. Yo *encuentro* problemas graves.
+     b. Tu *encuentras* problemas graves.
+     c. *Encontré* problemas graves. 
+     d. *Encontraste* problemas graves.
+     
+- Una noción de palabra: En (12) hay 4 palabras subrayadas. Se distinguen por sus fonemas (sonidos distintos) y/o por las letras distintas. En este sentido se refieren a las formas distintas.
+
+- Otra noción de palabra: En (12) hay una palabra abstracta que puede realizarse/manifestarse en varias formas. Diríamos que en (12) el verbo es el mismo en cada oración: encontrar. 
+
+- NB: En un diccionario, solo encontrarás *encontrar*  
+
+## Lexema
+
+- **Lexema** (definición informal): *la palabra* abstracta que subyace sus posibles formas (flexivas); tiene categoría léxica.
+
+(13) a.	naranja 
+     b.	naranjo
+
+## Lexema vs afijo
+
+- ¿Cómo se difieren los lexemas de los afijos? 
+- Dos propiedades formales:
+    - Posicionamiento
+    - Posibles combinaciones:
+    
+## Posicionamiento
+
+- **Lexema**: Tiene más libertad de posicionamiento: dentro de la palabra, a la izquierda o a la derecha. 
+
+- **Afijo**: Siempre ocupa una posición fija
+
+(14) a.	organiza-dor
+     b.	co-organiza
+
+(15) a.	corre-dor **→** *dor-corre
+     b.	co-habita **→** *habit-co
+     
+## Posibles combinaciones
+
+- **Lexema**: Puede formar una palabra sin necesidad de otros elementos. Es decir, puede formar la base con la que se combina otro lexema para formar una pablara nueva.
+
+- **Afijo**: No puede ser base con la que combina otro afijo.
+
+(16) a.	para-sol
+     b.	hombre-rana
+
+(17) a.	*co-dor
+	 b.	*pre-ista
+	 
+## Lexema + Afijo
+
+- La combinación de un lexema y un afijo puede ser el resultado de **la derivación** o de **la flexión**
+
+- **La derivación**: Con la adición de un afijo, hay un cambio de categoría de la base y/o un cambio sustancial en el significado (léxico).
+
+- **La flexión**: Con la adición de un afijo, no hay cambio de categoría de la base y no hay cambio sustancial en el significado, aunque puede haber cambio de significado gramatical.
+
+## Lexema + Afijo
+
+(18) a. gota **→** gotear			
+     b.	amar **→** amable		
+     c.	crear **→** creación
+     d.	naranja **→** naranjo
+     e.	manzana **→** manzanar
+
+
+(19) a. corre **→** corría
+     b. mesa **→** mesas
+     c. largo **→** larguísimo 
+
+    
+
+## Lexema + lexema
+
+- **La composición**: La combinación de dos (o más) lexemas. 
+
+(20) a.	abrebotellas 
+     b. nochevieja
+     c.	hombre lobo
+    
+## La flexión vs. la derivación
+
+- Cuatro propiedades que distinguen la flexión de la derivación
+
+i. La derivación forma palabras (lexemas) nuevos: *estudiar* **→** *estudiante.* \
+La flexión no; crea formas de una palabra/lexema existente: *copa* **→** *copas*
+
+ii.	La flexión es PRODUCTIVA: se aplica (con raras excepciones) a todas las formas que pertenece a una misma categoría gramatical - forma imperfectiva de los verbos.
+    - La derivación tiene excepciones arbitrarias - afijo -dor \
+\* *estudiador*, \* *visitador*, (*)comedor
+
+
+
+
+
+
+
+## La flexión vs. la derivación
+
+iii. La flexión es sensible al contexto gramatical, e.g. la concordancia.
+        - Las frutas sanas. 
+        
+        La derivación no es sensible al contexto gramatical.
+        
+        - Las discusiones sanas/ \*sansiones
+
+iv.	Los afijos flexivos aparecen en los extremos de una palabra.
+
+	Los afijos derivativos aparecen en una capa más interna a los afijos flexivos.
+    - trabajadores/*trabajaesdor
+    - humedecer **→** humedecía/*humedíaece
+    
+## Nuevas palabras
+
+- La formación de una palabra (=lexema) nuevo
+
+- Convencionalmente, una palabra se considera distinta a otra si se difieren en una de cuatro nociones: 
+    - la categoría léxica: *bruto* **→** *brutal*
+    - la estructura argumental: *ojo* **→** *ojear*
+    - la estructura aspectual: *conocer* **→** *reconocer*
+    - los rasgos característicos/semánticos: *libro* **→** *libreta*
+    
+##
+
+- **Pregunta**: ¿Cuantas palabras/lexemas hay de las subrayadas en (18)?
+
+(18) a.	El *encuentro* fue amistoso.
+     b.	Siempre *encuentro* mis llaves en mi bolsillo.  
+
+## La estructura
+
+- Hay estructura jerárquica dentro de la palabra, tal como hay en la sintaxis.
+
+(19) a.	prefabricaciones 
+     b.	pre+fabric-a-cion-e-s
+     c.	[[[[pre-[[fabric]-a]]-cion]-e]-s]
+
+## La estructura
+
+(20) a.	Tocaron al oso con una rama. **→** una oración: dos significados
+        i.
+        ii. 
+     b.	inutilizable **→** una palabra: dos significados
+        i. 	
+        ii. 
+
+## La siguiente clase
+
+- Hagan los ejercicios de Fábregas 2013 pg. 34: 1, 2 & 3 para discutir en grupo en clase el jueves
+
+- Hacer la lectura
+    - Trae 3 verbos, 3 sustantivos y 3 adjetivos distintos para ejemplificar las nociones de *base*, *raíz* y *tema* *morfológico*
+
