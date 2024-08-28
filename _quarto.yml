@@ -17,7 +17,9 @@ website:
         contents:
         - Fabregas2013.qmd
         - bd1999.qmd
-      
+      - text: Articles
+        href: articles.qmd
+       
 format:
   html:
     theme: cosmo
