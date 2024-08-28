@@ -17,7 +17,7 @@ website:
         contents:
         - Fabregas2013.qmd
         - bd1999.qmd
-      - text: Articles
+      - text: "Articles"
         href: articles.qmd
        
 format:
