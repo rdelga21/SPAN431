@@ -1,0 +1,204 @@
+---
+title: "Las unidades"
+format: revealjs
+---
+
+# Las unidades del análisis morfológico
+
+## La identificación de morfemas
+
+-   ¿Cómo se identifican los morfemas?
+
+-   Tratar de emparejar significados iguales con segmentos iguales
+
+    -   Se comparan las palabras de dos en dos
+    -   Las dos deberían variar por solo un rasgo de significado
+    -   Buscamos emparejamiento entre forma y significado, y su recurrencia
+
+## La identificación de morfemas
+
+Paradigma flexivo parcial de cantar y correr
+
+| Cantar  | Infinitivo           | Vivir      |
+|-------------|----------------------|------------|
+| cantábamos  | **Pretérito imperfecto** | vivíamos   |
+| cantabas    |                      |            |
+| cantaba     |                      |            |
+|             |                      |            |
+| cantaríamos | **Condicional**          | viviríamos |
+| cantarías   |                      | vivirías   |
+| cantarían   |                      | vivirían   |
+
+## La identificación de morfemas
+
+- **Sincretismo**: El mismo morfema expresa más de un significado. *Primera
+y tercera persona* del imperfecto son formas sincréticas.
+
+(1) a. Yo cantaba/vivía en Champaign.
+    b. Ella cantaba/vivía en Champaign.
+
+# La raíz, el tema morfológico, y la base
+    
+## La raíz, el tema morfológico, y la base
+
+- **Raíz**: La parte de la palabra que aporta significado/concepto sobre el
+mundo real; morfo común e irreductible en una familia léxica.
+
+(2) a. crear, creación, creador, creo
+    b. cre-a-r, cre-a-ción, cre-a-dor, cre-o
+    c. raíz: cre-
+
+(3) a. beber, bebedor, bebiendo, bebida
+    b. beb-e-r, beb-e-dor, beb-ie-ndo, beb-ida
+    c. raíz: beb-
+    
+## La raíz, el tema morfológico, y la base
+
+- **Tema (morfológico)**: ("stem" en inglés); lo que queda de una palabra
+cuando los morfemas flexivos se quitan; tiene categoría léxica (o
+sintáctica) (y por lo tanto muchas veces puede aparecer solo).
+
+## La raíz, el tema morfológico, y la base
+
+**Con verbos**:
+
+(4) a. cantar
+    b. Tema: canta
+    c. Raíz: cant-
+    
+(5) a. beber
+    b. Tema: bebe
+    c. Raíz: beb-
+    
+## La raíz, el tema morfológico, y la base
+
+**Categorías sin género flexivo**: 
+
+Sustantivos
+
+(6) a. libros
+    b. Tema: libro
+    c. Raíz: libr-
+
+Algunos adjetivos
+
+(7) a. alegras
+    b. Tema: alegre
+    c. Raíz: alegr-
+    
+## La raíz, el tema morfológico, y la base
+
+**Categorías con género flexivo (o sea por concordancia)**:
+
+(8) a. rojas
+    b. Tema: roj-
+    c. Raíz: roj-
+    
+(9) a. rojizas
+    b. Tema: rojiz-
+    c. Raíz: roj-
+    
+## La raíz, el tema morfológico, y la base
+
+- **Tema** (morfológico): El exponente (morfo) de un lexema   
+
+- **Base**: La unidad (en cualquier nivel de constitución) sobre el que puede
+operar un proceso morfológico.
+
+- **Clase morfológica**: tanto la vocal temática de los verbos, como el
+género de los sustantivos marcan o definen la clase morfológica de la
+palabra
+
+# Temas grecolatinos/neoclásicos
+
+## Temas grecolatinos/neoclásicos
+
+- **Temas** (="stems") que viene etimológicamente del vocabulario dellatín culto o del griego clásico y se portan como las raíces en algunos aspectos, pero no en otros
+
+(10) *fobo, filo, logo, hidro, peda* etc.
+
+## Temas grecolatinos/neoclásicos
+
+- Como las raíces:
+    - i. Denotan conceptos del mundo.
+        - fobo = miedo; hidro = agua; peda - experto/profesor
+    - ii. Tiene libertad de posicionamiento.
+        - logopeda; pedagogo
+        
+## Temas grecolatinos/neoclásicos
+
+- **No** como las raíces:
+    - i. No pueden aparece solos (sin afijo derivativo)
+        - fób-ic-o; pediatra
+    - ii. Pueden formar palabras al combinarse entre sí; las raíces
+necesitan una marca de clase léxica
+        - logopeda; pedagogo **→** parasol; sordomudo
+        
+- **Más ejemplos**: *morfología, pedagogía, filosofía, antropología,
+filántropo, fragante, fragancia, francófilo, insípido*...
+
+# Clase de morfemas por su posicionamiento
+
+## Clase de morfemas por su posicionamiento
+
+- **Prefijo**: Afijo que aparece a la izquierda de la raíz. (Nota: Los prefijos nunca cambian la categoría de la base con que se combinan.)
+
+(11) a. in-útil
+     b. ex-jugador
+     c. des-hacer
+     
+## Clase de morfemas por su posicionamiento
+
+Sufijo: Afijo que aparece a la derecha de la raíz
+
+(12) a. mes-ita
+     b. frut-ero
+     c. regal-an
+     
+## Clase de morfemas por su posicionamiento
+
+- **Infijo**: Afijo que aparece en el interior de la raíz:
+
+(13) a. azucar **→** azuquitar
+     b. lejos **→** lejitos
+     c. Carlos **→** Carlitos
+     d. Massachusetts **→** Massafreakinchusetts
+     
+## Clase de morfemas por su posicionamiento
+
+- **Interfijo**: Afijo que aparece entre dos morfemas
+
+(14) a. ancho **→** en**s**anchar
+     b. gordo **→** engordar
+     
+## Clase de morfemas por su posicionamiento
+
+- **Circunfijo**: Afijo discontinuo una parte del que parece un prefijo y la otra un sufijo.
+
+(15) arbeiten **→** gearbeitet
+
+## Clase de morfemas por su posicionamiento
+
+- **Parasíntesis**: Parece circunfijación en la formación de verbos en español.
+
+(16) a. pluma **→** desplumar
+     b. sucio **→** ensuciar
+     
+## Clase de morfemas por su posicionamiento
+
+- **Morfología templática**: Afijos no continuos.
+
+(17) a. Raíz: k_t_b
+     b. kita:b - lo escrito, libro
+     c. kutub - los escritos, libros
+     d. ka:tib - el que escribe, escritor
+     
+## Clase de morfemas por su posicionamiento
+
+- **Morfología templática**: Afijos no continuos.
+     
+(18) a. Las plantillas ("templates")
+     b. CVCV:C - nombre de resultado, sg.
+     c. CVCVC - nombre de resultado, pl.
+     d. CV:CVC - nombre de agente
+     
