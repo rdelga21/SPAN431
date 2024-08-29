@@ -3,22 +3,7 @@ title: "Semana 1"
 format: revealjs
 ---
 
-# Presentación 1
-
-## Preguntas
-
-- En parejas:
-
-- ¿Qué es un morfema?
-
-## Preguntas
-
-- ¿Qué quiere decir "smallest meaningful constituent"?
-
-## Pregunta
-
-- How do you define "word"?
-
+# Introducción a la morfología
 
 ## ¿qué es la morfología?
 
@@ -67,21 +52,13 @@ format: revealjs
 
 ## Los morfemas
 
-- ¿Qué es un morfema?
-
-## Los morfemas
-
-- ¿Qué quiere decir una unidad mínima con significado?
-
-## Los morfemas
-
 - **Los morfemas**: Una unidad mínima con significado; unidades gramaticales mínimas
 
 (3) 
 
     a.  estudiante: estudia + nte
     b.  sordera: sord + era
-    c.  exactituc: exact + itud
+    c.  exactitud: exact + itud
 
 ## Las partes
 
@@ -160,10 +137,12 @@ format: revealjs
 
 ## El léxico
 
-| Procedimiento léxico | vs | Pocedimiento morfolgógico |
+| Procedimiento léxico | vs | Pocedimiento morfológico |
 |------|------|------|
 | caballo -  yegua    |     | doctor -  doctora     |
 | hombre -  mujer | | niño     -  niña |
+
+- Cómo se vería esto en el modelo?
 
 # Clases de morfemas: flexión, derivación y composición
 
@@ -172,7 +151,7 @@ format: revealjs
 - La palabra trabajador consiste en un **LEXEMA** (trabaja) y un **AFIJO** (-dor).
 
 - ¿Qué es un lexema?
-    - Para entender, es útil pensar sobre la noción palabra, basándonos en la discusión en Matthews (1991: 25-27) y Bermúdez-Otero (2013:4-5)
+    - Para entender, es útil pensar sobre la noción palabra.
     
 ## Lexema
 
@@ -293,25 +272,18 @@ iv.	Los afijos flexivos aparecen en los extremos de una palabra.
 - La formación de una palabra (=lexema) nuevo
 
 - Convencionalmente, una palabra se considera distinta a otra si se difieren en una de cuatro nociones: 
-    - la categoría léxica: *bruto* **→** *brutal*
+    - la categoría léxica: *nación* **→** *nacional*
     - la estructura argumental: *ojo* **→** *ojear*
     - la estructura aspectual: *conocer* **→** *reconocer*
     - los rasgos característicos/semánticos: *libro* **→** *libreta*
-    
-##
-
-- **Pregunta**: ¿Cuantas palabras/lexemas hay de las subrayadas en (18)?
-
-(18) a.	El *encuentro* fue amistoso.
-     b.	Siempre *encuentro* mis llaves en mi bolsillo.  
 
 ## La estructura
 
 - Hay estructura jerárquica dentro de la palabra, tal como hay en la sintaxis.
 
-(19) a.	prefabricaciones 
-     b.	pre+fabric-a-cion-e-s
-     c.	[[[[pre-[[fabric]-a]]-cion]-e]-s]
+(19) a.	rebuscamiento 
+     b.	re-busc-a-miento-s
+     c.	[[[re-[[busc-]-a]]-miento]-s]
 
 ## La estructura
 
