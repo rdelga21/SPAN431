@@ -23,6 +23,7 @@ website:
       - section: "Semana 1"
         contents:
         - semana1.qmd
+        
 format:
   html:
     theme: cosmo
