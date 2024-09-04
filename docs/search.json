@@ -494,7 +494,7 @@
     "href": "w1d2.html#la-identificación-de-morfemas-1",
     "title": "Las unidades",
     "section": "La identificación de morfemas",
-    "text": "La identificación de morfemas\nParadigma flexivo parcial de cantar y correr\n\n\n\nCantar\nInfinitivo\nVivir\n\n\n\n\ncantábamos\nPretérito imperfecto\nvivíamos\n\n\ncantabas\n\n\n\n\ncantaba\n\n\n\n\n\n\n\n\n\ncantaríamos\nCondicional\nviviríamos\n\n\ncantarías\n\nvivirías\n\n\ncantarían\n\nvivirían"
+    "text": "La identificación de morfemas\nParadigma flexivo parcial de cantar y correr\n\nCantar - cantamos - cantó\nComer - comemos - comió"
   },
   {
     "objectID": "w1d2.html#la-identificación-de-morfemas-2",
@@ -550,7 +550,7 @@
     "href": "w1d2.html#la-raíz-el-tema-morfológico-y-la-base-6",
     "title": "Las unidades",
     "section": "La raíz, el tema morfológico, y la base",
-    "text": "La raíz, el tema morfológico, y la base\n\nTema (morfológico): El exponente (morfo) de un lexema\nBase: La unidad (en cualquier nivel de constitución) sobre el que puede operar un proceso morfológico.\nClase morfológica: tanto la vocal temática de los verbos, como el género de los sustantivos marcan o definen la clase morfológica de la palabra"
+    "text": "La raíz, el tema morfológico, y la base\n\nBase: La unidad (en cualquier nivel de constitución) sobre el que puede operar un proceso morfológico.\nClase morfológica: tanto la vocal temática de los verbos, como el género de los sustantivos marcan o definen la clase morfológica de la palabra"
   },
   {
     "objectID": "w1d2.html#temas-grecolatinosneoclásicos-1",
@@ -628,5 +628,117 @@
     "title": "Las unidades",
     "section": "Clase de morfemas por su posicionamiento",
     "text": "Clase de morfemas por su posicionamiento\n\nMorfología templática: Afijos no continuos.\n\n\n\nLas plantillas (“templates”)\nCVCV:C - nombre de resultado, sg.\nCVCVC - nombre de resultado, pl.\nCV:CVC - nombre de agente"
+  },
+  {
+    "objectID": "handout3.html#aspectos-básicos-del-análisis-morfológico",
+    "href": "handout3.html#aspectos-básicos-del-análisis-morfológico",
+    "title": "La alomorfía y el análisis morfológico",
+    "section": "Aspectos básicos del análisis morfológico",
+    "text": "Aspectos básicos del análisis morfológico\n\nEn términos generales, el procedimiento de análisis morfológico es:\n\n\nSegmentar la forma fonémica de una palabra en los segmentos fonémicos mínimos que porten un significado mínimo constante:\n\n\nLos morfos: in-domable; in-necesario; in-saciable\n\n[in] = la negación de la base"
+  },
+  {
+    "objectID": "handout3.html#aspectos-básicos-del-análisis-morfológico-1",
+    "href": "handout3.html#aspectos-básicos-del-análisis-morfológico-1",
+    "title": "La alomorfía y el análisis morfológico",
+    "section": "Aspectos básicos del análisis morfológico",
+    "text": "Aspectos básicos del análisis morfológico\n\n\nAgrupar como alomorfos de un mismo morfema aquellos morfos que expresan un mismo significado\n\nim-perfecto vs. in-necesario:\n\nim/in: la negación de la base"
+  },
+  {
+    "objectID": "handout3.html#aspectos-básicos-del-análisis-morfológico-2",
+    "href": "handout3.html#aspectos-básicos-del-análisis-morfológico-2",
+    "title": "La alomorfía y el análisis morfológico",
+    "section": "Aspectos básicos del análisis morfológico",
+    "text": "Aspectos básicos del análisis morfológico\n\n\nDescribir y organizar de forma sistemática de aquellas diferencias fonémicas que se repitan entre dos o más alomorfos.\n\n\n[im] vs. [in]: el nasal asimila el punto de articulación de la consonante de la base"
+  },
+  {
+    "objectID": "handout3.html#la-segmentación",
+    "href": "handout3.html#la-segmentación",
+    "title": "La alomorfía y el análisis morfológico",
+    "section": "La segmentación",
+    "text": "La segmentación\n\nTratar de emparejar significados iguales con segmentos iguales\n\nSe comparan las palabras de dos en dos\nLas dos deberían variar por un significado mínimo\nSe busca emparejamiento entre forma y significado, y su recurrencia"
+  },
+  {
+    "objectID": "handout3.html#la-segmentación-1",
+    "href": "handout3.html#la-segmentación-1",
+    "title": "La alomorfía y el análisis morfológico",
+    "section": "La segmentación",
+    "text": "La segmentación\n\n\ncantaron / votaron\ncantaban / votaban\ncantasen / votasen\ncantábamos / votábamos\ncantésemos / votásemos\n\n\ntratamiento / tratar\ncasamiento / casar\nseguimiento / seguir\nrendimiento / rendir"
+  },
+  {
+    "objectID": "handout3.html#la-segmentación-2",
+    "href": "handout3.html#la-segmentación-2",
+    "title": "La alomorfía y el análisis morfológico",
+    "section": "La segmentación",
+    "text": "La segmentación\n\nA veces algunos segmentos no son autónomos, sino solo aparecen en contextos muy restringidos: -c- y -ec- ante sufijos apreciativos o -ísimo\n\n\n\njoven / jovencito / jovencísimo\nladrón / ladroncito / landroncísimo\n\n\n\nA veces, algunos segmentos solo aparecen con otro segmento en concreto: -all y -anc antes del aumentativo -ón\n\n\n\ngato / gat-all-ón\nviejo / vej-anc-ón\nbicho / bich-arr-aco\nvivo / viv-ar-acho"
+  },
+  {
+    "objectID": "handout3.html#la-segmentación-3",
+    "href": "handout3.html#la-segmentación-3",
+    "title": "La alomorfía y el análisis morfológico",
+    "section": "La segmentación",
+    "text": "La segmentación\n\nMorfo vacío: Un segmento que no tiene significado (está vació de significado)\n\n-c- en jovencito\n-arr- en bicharraco\n\nMorfo cero: Un significado mínimo que no tiene exponente, o que tiene exponente nulo."
+  },
+  {
+    "objectID": "handout3.html#la-agrupación",
+    "href": "handout3.html#la-agrupación",
+    "title": "La alomorfía y el análisis morfológico",
+    "section": "La agrupación",
+    "text": "La agrupación\n\nSe agrupa bajo un único morfema los morfos con el mismo significado, aunque pueden variar en forma: los alomorfos\nLos alomorfos de un mismo morfema muchas veces están en distribución complementaria: no ocurren en el mismo contexto\nLa alomorfía: Un morfema que se materializa de formas distintas en contextos distintos (aunque expresan la misma información/el mismo significado).\nAlomorfos: Realizaciones particulares del mismo morfema."
+  },
+  {
+    "objectID": "handout3.html#la-agrupación-1",
+    "href": "handout3.html#la-agrupación-1",
+    "title": "La alomorfía y el análisis morfológico",
+    "section": "La agrupación",
+    "text": "La agrupación\n\nHay que determinar\n\n\nLas diferencias fonémicas entre los alomorfos\n\n\nEl contexto que condiciona la apariencia de los alomorfos\n\ncontexto fonológico o contexto morfológico"
+  },
+  {
+    "objectID": "handout3.html#la-agrupación-2",
+    "href": "handout3.html#la-agrupación-2",
+    "title": "La alomorfía y el análisis morfológico",
+    "section": "La agrupación",
+    "text": "La agrupación\n\nContexto fonémico\n\n\ndiente\ndental\n\n\ncien\ncentena\n\n\nescuela\nescolar\n\n\npruebo\nprobamos"
+  },
+  {
+    "objectID": "handout3.html#la-agrupación-3",
+    "href": "handout3.html#la-agrupación-3",
+    "title": "La alomorfía y el análisis morfológico",
+    "section": "La agrupación",
+    "text": "La agrupación\n\nContexto morfológico\n\n\nteníamos\ntuvimos\n\n\ncantábamos\namábamos\npedíamos\ntemíamos"
+  },
+  {
+    "objectID": "handout3.html#la-agrupación-4",
+    "href": "handout3.html#la-agrupación-4",
+    "title": "La alomorfía y el análisis morfológico",
+    "section": "La agrupación",
+    "text": "La agrupación\n\nOtro ejemplo de contexto fonémico:\n\n\nanálogo\nanalogía\nanáloga\nanalógico\n\n\nOtro ejemplo de contexto morfológico:\n\n\namar b. amando c. fundar d. fundando\nvivir f. viviendo g.fundir h. fundiendo\ntemer j. temiendo k. vender l. vendiendo"
+  },
+  {
+    "objectID": "handout3.html#la-agrupación-5",
+    "href": "handout3.html#la-agrupación-5",
+    "title": "La alomorfía y el análisis morfológico",
+    "section": "La agrupación",
+    "text": "La agrupación\n\nNota: No siempre hay distribución complementaria -nza/ncia → acción o efecto de V\n\n\n\nmatar g. existir m. proceder\n\nmatanza h. existencia n. procedencia\nenseñar i. sugerir o. pertenecer\nenseñanza j. sugerencia p. pertenencia\nganar k. tolerar q. resonar\nganancia l. tolerancia r. resonancia"
+  },
+  {
+    "objectID": "handout3.html#la-agrupación-6",
+    "href": "handout3.html#la-agrupación-6",
+    "title": "La alomorfía y el análisis morfológico",
+    "section": "La agrupación",
+    "text": "La agrupación\n\nLa distribución libre: Dos formas que ocurren con libre elección.\n\n\n\nviejito b. viejecito\n\n\nfortísimo b. fuertísimo"
+  },
+  {
+    "objectID": "handout3.html#ción-en-detalle",
+    "href": "handout3.html#ción-en-detalle",
+    "title": "La alomorfía y el análisis morfológico",
+    "section": "-(c)ión en detalle",
+    "text": "-(c)ión en detalle\n\nTenemos el mismo morfema, porque:\n\n\ncontribuyen el mismo significado: acción o efecto de\n\n\nejercen la misma función gramatical: V+(c)ión → N\n\n\n\n\n\n\n\n\n\n\n\n\n\ndividir → divis-ión\ncrear → crea-ción\n\n\nagredir → agres-ión\nprohibir → prohibi-ción\n\n\npersuadir → persuas-ión\nperder → perdi-ción\n\n\ndedicar → dedica-ción\nconsumir → consumi-ción\n\n\nrecibir → recep-ción\ndeducir → deduc-ción\n\n\ndescribir → descrip-ción\nprevenir → preven-ción"
+  },
+  {
+    "objectID": "handout3.html#ción-en-detalle-1",
+    "href": "handout3.html#ción-en-detalle-1",
+    "title": "La alomorfía y el análisis morfológico",
+    "section": "-(c)ión en detalle",
+    "text": "-(c)ión en detalle\n\nFormato de entrada léxica\nCIÓN ↔︎ N, acción o efecto de alomorfos: -ión, ción\n\nión/ s_\nción/ resto de casos “elsewhere”\n\nAlomorfo no marcado: El alomorfo que se usa en el resto de los casos, cuyo contexto de materialización es el más general: ción, no ión\n\nNo requiere condiciones especiales para ser usado\nEl alomorfo que se espera usar con más frecuencia\nEl alomorfo que se usa para representar el morfema más abstracto"
   }
 ]

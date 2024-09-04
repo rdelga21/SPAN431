@@ -23,6 +23,9 @@ website:
       - section: "Semana 1"
         contents:
         - semana1.qmd
+      - section: "Semana 2"
+        - contents: 
+        - w1d2.qmd
 format:
   html:
     theme: cosmo

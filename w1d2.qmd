@@ -19,15 +19,13 @@ format: revealjs
 
 Paradigma flexivo parcial de cantar y correr
 
-| Cantar  | Infinitivo           | Vivir      |
-|-------------|----------------------|------------|
-| cantábamos  | **Pretérito imperfecto** | vivíamos   |
-| cantabas    |                      |            |
-| cantaba     |                      |            |
-|             |                      |            |
-| cantaríamos | **Condicional**          | viviríamos |
-| cantarías   |                      | vivirías   |
-| cantarían   |                      | vivirían   |
+- Cantar
+        - cantamos
+        - cantó
+
+- Comer
+        - comemos
+        - comió
 
 ## La identificación de morfemas
 
@@ -99,8 +97,6 @@ Algunos adjetivos
     c. Raíz: roj-
     
 ## La raíz, el tema morfológico, y la base
-
-- **Tema** (morfológico): El exponente (morfo) de un lexema   
 
 - **Base**: La unidad (en cualquier nivel de constitución) sobre el que puede
 operar un proceso morfológico.

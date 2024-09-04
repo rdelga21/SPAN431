@@ -1,0 +1,183 @@
+---
+title: "La alomorfía y el análisis morfológico"
+format:
+  revealjs:
+    slide-number: true
+---
+
+## Aspectos básicos del análisis morfológico
+
+- En términos generales, el procedimiento de análisis morfológico es:
+    - i. **Segmentar**  la forma fonémica de una palabra en los segmentos
+fonémicos mínimos que porten un significado mínimo constante:
+        - Los morfos: *in-domable; in-necesario; in-saciable*
+            - [in] = la negación de la base
+
+## Aspectos básicos del análisis morfológico
+            
+- ii. **Agrupar** como alomorfos de un mismo morfema aquellos
+morfos que expresan un mismo significado
+        - *im-perfecto* vs. *in-necesario*:
+            - im/in: la negación de la base
+            
+## Aspectos básicos del análisis morfológico
+
+- iii. **Describir y organizar** de forma sistemática de aquellas
+diferencias fonémicas que se repitan entre dos o más alomorfos. 
+    - [im] vs. [in]: el nasal asimila el punto de articulación de la consonante de la base
+    
+## La segmentación
+
+- Tratar de emparejar significados iguales con segmentos iguales
+    - Se comparan las palabras de dos en dos
+    - Las dos deberían variar por un significado mínimo
+    - Se busca emparejamiento entre forma y significado, y
+su recurrencia
+
+## La segmentación
+
+(1) a. cantaron / votaron
+    b. cantaban / votaban
+    c. cantasen / votasen
+    d. cantábamos / votábamos
+    e. cantésemos / votásemos
+
+(2) a. tratamiento / tratar
+    b. casamiento / casar
+    c. seguimiento / seguir
+    d. rendimiento / rendir
+    
+## La segmentación
+
+- A veces algunos segmentos no son autónomos, sino solo aparecen en
+contextos muy restringidos: *-c-* y *-ec-* ante sufijos apreciativos o *-ísimo*
+
+(5) a. joven / jovencito / jovencísimo
+    b. ladrón / ladroncito / landroncísimo
+    
+- A veces, algunos segmentos solo aparecen con otro segmento en
+concreto: *-all* y *-an*c antes del aumentativo *-ón*
+
+(7) a. gato / gat-all-ón
+    b. viejo / vej-anc-ón
+    c. bicho / bich-arr-aco
+    d. vivo / viv-ar-acho
+    
+## La segmentación
+
+- **Morfo vacío**: Un segmento que no tiene significado (está vació de
+significado)
+    - *-c-* en jovencito
+    - *-arr-* en bicharraco
+    
+- **Morfo cero**: Un significado mínimo que no tiene exponente, o que tiene exponente nulo.
+
+## La agrupación 
+
+- Se agrupa bajo un único morfema los morfos con el mismo significado, aunque pueden variar en forma: *los alomorfos*
+
+- Los alomorfos de un mismo morfema muchas veces están en *distribución complementaria*: no ocurren en el mismo contexto 
+
+- **La alomorfía**: Un morfema que se materializa de formas distintas en contextos distintos (aunque expresan la misma información/el mismo significado). 
+
+- **Alomorfos**: Realizaciones particulares del mismo morfema.
+
+## La agrupación 
+
+- Hay que determinar 
+    - i. Las diferencias fonémicas entre los alomorfos
+    - ii. El contexto que condiciona la apariencia de los alomorfos
+		    - contexto fonológico o contexto morfológico
+
+## La agrupación
+
+- Contexto fonémico
+
+
+  
+  (8) a. diente 
+      b. dental
+  (9) a. cien 
+      b. centena
+  (10) a. escuela
+       b. escolar
+  (11) a. pruebo
+       b. probamos
+       
+## La agrupación
+
+- Contexto morfológico
+
+    (12) a. teníamos
+         b. tuvimos
+    (13) a. cantábamos
+         b. amábamos
+         c. pedíamos
+         d. temíamos
+         
+## La agrupación
+
+- Otro ejemplo de contexto fonémico:
+
+    (14) a. análogo
+         b. analogía
+         c. análoga
+         d. analógico
+         
+- Otro ejemplo de contexto morfológico:
+
+    (15) a. amar b. amando c. fundar d. fundando
+         e. vivir f. viviendo g.fundir h. fundiendo
+         i. temer j. temiendo k. vender l. vendiendo
+         
+## La agrupación
+
+- **Nota**: No siempre hay distribución complementaria 
+	*-nza/ncia* **→** acción o efecto de V
+
+(16)	a.	matar		g.	existir		m.	proceder
+      b.	matanza		h.	existencia		n.	procedencia
+      c.	enseñar		i.	sugerir		o.	pertenecer
+      d.	enseñanza		j.	sugerencia		p.	pertenencia
+      e.	ganar		k.	tolerar		q.	resonar	
+      f.	ganancia		l.	tolerancia		r.	resonancia
+      
+## La agrupación
+      
+- **La distribución libre**: Dos formas que ocurren con libre elección.
+
+(17)	a.	viejito	b.	viejecito 
+
+(18)	a.	fortísimo 	b.	 fuertísimo
+
+## -(c)ión en detalle
+
+- Tenemos el mismo morfema, porque: 
+    - i. contribuyen el mismo significado: acción o efecto de
+    - ii. ejercen la misma función gramatical: V+(c)ión **→** N
+
+    (19)
+
+|           |                |
+|-----------|----------------|
+| dividir	**→** divis-ión | crear	**→** crea-ción|
+| agredir	**→** agres-ión  | prohibir	**→** prohibi-ción     |
+| persuadir **→** persuas-ión	  | perder	**→** perdi-ción     |
+| dedicar	**→** dedica-ción     | consumir **→** consumi-ción       |
+| recibir **→** recep-ción   | deducir **→** deduc-ción      |
+| describir	**→** descrip-ción |     prevenir	**→** preven-ción           | 
+
+## -(c)ión en detalle
+
+- Formato de entrada léxica
+
+- CIÓN &harr; N, acción o efecto de alomorfos: -ión, ción
+    - ión/ s_
+    - ción/ resto de casos "elsewhere"
+    
+- **Alomorfo no marcado**: El alomorfo que se usa en el resto de los casos, cuyo contexto de materialización es el más general: ción, no ión
+    - No requiere condiciones especiales para ser usado
+    - El alomorfo que se espera usar con más frecuencia
+    - El alomorfo que se usa para representar el morfema más abstracto
+
+
