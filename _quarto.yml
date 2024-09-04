@@ -17,6 +17,7 @@ website:
         contents:
         - Fabregas2013.qmd
         - bd1999.qmd
+        - hualde2010.qmd
       - section: "Articles"
         contents: 
         - articles.qmd
