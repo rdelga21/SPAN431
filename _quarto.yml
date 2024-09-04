@@ -24,7 +24,7 @@ website:
         contents:
         - semana1.qmd
       - section: "Semana 2"
-        - contents: 
+        contents: 
         - w1d2.qmd
 format:
   html:
