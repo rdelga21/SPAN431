@@ -11,6 +11,7 @@ title: "Articles"
 ## Semana 9 - Child acquisition
 
 - Clahsen, H., Aveledo, F., & Roca, I. (2002). The development of regular and irregular verb inflection in Spanish child language. Journal of child language, 29(3), 591-622.
+    - Franco
 
 - Mariscal, S. (2009). Early acquisition of gender agreement in the Spanish noun phrase: starting small. Journal of Child Language, 36(1), 143-171.
 
@@ -19,6 +20,7 @@ title: "Articles"
 - Escobar, A. M., & Roy, J. (2022). Grammaticalization in the Evidential pathway of the Andean Spanish Present Perfect: Language contact as a trigger for language change. Isogloss, 8(4), 1-38.
 
 - Barnes, S. (2012). ¿ Qué dijistes?: A variationist reanalysis of non-standard-s on second person singular preterit verb forms in Spanish. In Selected Proceedings of the 14th Hispanic Linguistics Symposium (pp. 38-47). Somerville, MA: Cascadilla Proceedings Project.
+    - Alonso
 
 - Escalante, C. (2015). ¿ Qué twiteastes tú? Variation in second person singular preterit–s in Spanish tweets. Entrehojas: Revista de Estudios Hispánicos, 5(1).
 
