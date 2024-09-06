@@ -175,6 +175,8 @@ significado)
     - ión/ s_
     - ción/ resto de casos "elsewhere"
     
+## -(c)ión en detalle
+    
 - **Alomorfo no marcado**: El alomorfo que se usa en el resto de los casos, cuyo contexto de materialización es el más general: ción, no ión
     - No requiere condiciones especiales para ser usado
     - El alomorfo que se espera usar con más frecuencia

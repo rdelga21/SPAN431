@@ -1,0 +1,124 @@
+---
+title: "Las entradas léxicas"
+format: revealjs
+---
+
+## La entrada básica
+
+- La entrada léxica: un emparejamiento de una forma fonémica y un
+significado; también se le añade una categoría (léxica/sintáctica). Son
+tripletes de información.
+
+(1) /león/ &harr; felino, rey de la jungla, 
+N
+
+- Puede haber información gramatical, sin significado, como la Vocal
+Temática de un verbo, como en (2)
+
+(2) /a/ &harr; primera conjugación
+
+## La entrada básica
+
+- **Morfema léxico**: Morfema que contienen significado (sustancial,
+conceptual del mundo), como león en (1).
+
+- **Morfema gramatical**: Morfema que NO contienen significado
+(sustancial, conceptual del mundo), pero sí aporta información
+morfosintáctica, como a en (2).
+
+(3) a. ganador
+    b. ganan
+    c. ganamos
+    
+## ¿Qué más contienen las entradas léxicas?
+
+- Aparte del significado, la fonología y la categoría, todo lo que hay que memorizar sobre una palabra forma para de la entrada léxica, las
+connotaciones, usos únicos/especiales, etc.
+
+## El contexto morfosintáctico del uso
+
+- En muchos casos, hace falta representar el contexto en que se usa.
+
+(4) a. ganaba
+    b. ∅ &harr; 1a sg.
+    c. ∅ &harr; 1a sg.\
+&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;/-ba__
+    d. *yo gana
+    
+## El contexto morfosintáctico del uso
+    
+(5) a. ganábamos
+    b. ganáramos
+    c. ganamos
+    d. ∅ &harr; TAM: pretérito \
+    &nbsp; &nbsp; &nbsp; /-a__mos
+    
+## La información gramatical de la base de un afijo
+
+- Muchos piensan que la categoría de la base con que combina un afijo
+forma parte de la entrada léxica.
+
+- **Subcategorización**: La categoría que requiere de su base el afijo para combinarse.
+
+## La información gramatical de la base de un afijo
+
+(6) a. cazar &rarr; cazador
+    b. jugar &rarr; jugador
+    c. alto/a &rarr; *altador
+    d. mesa &rarr; *mesador
+    
+(7) /dor/ &harr; N, subcategorización: V \
+"agente de X"
+
+## La información gramatical de la base de un afijo
+
+(8) a. aceite
+    b. aceitoso
+    c. amor
+    d. amoroso
+    e. furia
+    f. furioso
+    g. espacio
+    h. espacioso
+    
+## Información puramente morfológico
+
+- La posición relativa a la base/raíz que toma un afijo.
+
+(9) CIÓN &harr; N, subcategorización: V\
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "acción o efecto de"\
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [sufijo]\
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; -ión/s_ \
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; -ción/el resto de casos
+
+(10) /re/ &harr; V, subcategorización: V\
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "hacer X otra vez"\
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [prefijo]\
+
+## Las raíces
+
+- Puede faltar la forma fonémica (morfo cero); puede faltar el significado
+conceptual del mundo (en la vocal temática)
+
+- ¿Puede faltar la información gramatical? Para la Morfología Distribuida
+sí, la información gramatical puede faltar en las raíces.
+
+## Las raíces
+
+(11) /grit/ &harr; "relacionados con sonidos muy fuertes"
+
+(12) a. [[grit]-a]V "producir sonidos muy fuertes"
+     b. [[grit]-o]N "acción o efecto de producir sonidos muy fuertes"
+    
+## Las raíces
+
+(13) a. abrazar
+     b. acomodar
+     c. /braz/ &harr; "relacionado con apéndices del torso"
+     d. /comod/ &harr; "relacionado con el bienestar"
+     
+(14) a. [[braz]-o]N "apéndice del torso"
+     b. [[cómod]-o/a]Adj "propiedad del bienestar "
+
+(15) a. [a-[braz]-a]V "envolver con apéndices del torso"
+     b. [a-[comod]-a]V "lograr el bienestar"

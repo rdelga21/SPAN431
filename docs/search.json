@@ -739,7 +739,7 @@
     "href": "handout3.html#ción-en-detalle-1",
     "title": "La alomorfía y el análisis morfológico",
     "section": "-(c)ión en detalle",
-    "text": "-(c)ión en detalle\n\nFormato de entrada léxica\nCIÓN ↔︎ N, acción o efecto de alomorfos: -ión, ción\n\nión/ s_\nción/ resto de casos “elsewhere”\n\nAlomorfo no marcado: El alomorfo que se usa en el resto de los casos, cuyo contexto de materialización es el más general: ción, no ión\n\nNo requiere condiciones especiales para ser usado\nEl alomorfo que se espera usar con más frecuencia\nEl alomorfo que se usa para representar el morfema más abstracto"
+    "text": "-(c)ión en detalle\n\nFormato de entrada léxica\nCIÓN ↔︎ N, acción o efecto de alomorfos: -ión, ción\n\nión/ s_\nción/ resto de casos “elsewhere”"
   },
   {
     "objectID": "semana1.html",
@@ -754,5 +754,96 @@
     "title": "Hualde et al. (2010)",
     "section": "",
     "text": "It appears you don't have a PDF plugin for this browser.\n    No biggie... you can click here to\n    download the PDF file."
+  },
+  {
+    "objectID": "handout4.html#la-entrada-básica",
+    "href": "handout4.html#la-entrada-básica",
+    "title": "Las entradas léxicas",
+    "section": "La entrada básica",
+    "text": "La entrada básica\n\nLa entrada léxica: un emparejamiento de una forma fonémica y un significado; también se le añade una categoría (léxica/sintáctica). Son tripletes de información.\n\n\n/león/ ↔︎ felino, rey de la jungla, N\n\n\nPuede haber información gramatical, sin significado, como la Vocal Temática de un verbo, como en (2)\n\n\n/a/ ↔︎ primera conjugación"
+  },
+  {
+    "objectID": "handout4.html#la-entrada-básica-1",
+    "href": "handout4.html#la-entrada-básica-1",
+    "title": "Las entradas léxicas",
+    "section": "La entrada básica",
+    "text": "La entrada básica\n\nMorfema léxico: Morfema que contienen significado (sustancial, conceptual del mundo), como león en (1).\nMorfema gramatical: Morfema que NO contienen significado (sustancial, conceptual del mundo), pero sí aporta información morfosintáctica, como a en (2).\n\n\n\nganador\nganan\nganamos"
+  },
+  {
+    "objectID": "handout4.html#qué-más-contienen-las-entradas-léxicas",
+    "href": "handout4.html#qué-más-contienen-las-entradas-léxicas",
+    "title": "Las entradas léxicas",
+    "section": "¿Qué más contienen las entradas léxicas?",
+    "text": "¿Qué más contienen las entradas léxicas?\n\nAparte del significado, la fonología y la categoría, todo lo que hay que memorizar sobre una palabra forma para de la entrada léxica, las connotaciones, usos únicos/especiales, etc."
+  },
+  {
+    "objectID": "handout4.html#el-contexto-morfosintáctico-del-uso",
+    "href": "handout4.html#el-contexto-morfosintáctico-del-uso",
+    "title": "Las entradas léxicas",
+    "section": "El contexto morfosintáctico del uso",
+    "text": "El contexto morfosintáctico del uso\n\nEn muchos casos, hace falta representar el contexto en que se usa.\n\n\n\nganaba\n∅ ↔︎ 1a sg.\n∅ ↔︎ 1a sg.\n        /-ba__\n*yo gana"
+  },
+  {
+    "objectID": "handout4.html#la-información-gramatical-de-la-base-de-un-afijo",
+    "href": "handout4.html#la-información-gramatical-de-la-base-de-un-afijo",
+    "title": "Las entradas léxicas",
+    "section": "La información gramatical de la base de un afijo",
+    "text": "La información gramatical de la base de un afijo\n\nMuchos piensan que la categoría de la base con que combina un afijo forma parte de la entrada léxica.\nSubcategorización: La categoría que requiere de su base el afijo para combinarse."
+  },
+  {
+    "objectID": "handout4.html#la-información-gramatical-de-la-base-de-un-afijo-1",
+    "href": "handout4.html#la-información-gramatical-de-la-base-de-un-afijo-1",
+    "title": "Las entradas léxicas",
+    "section": "La información gramatical de la base de un afijo",
+    "text": "La información gramatical de la base de un afijo\n\n\ncazar → cazador\njugar → jugador\nalto/a → *altador\nmesa → *mesador\n\n/dor/ ↔︎ N, subcategorización: V\n“agente de X”"
+  },
+  {
+    "objectID": "handout4.html#información-puramente-morfológico",
+    "href": "handout4.html#información-puramente-morfológico",
+    "title": "Las entradas léxicas",
+    "section": "Información puramente morfológico",
+    "text": "Información puramente morfológico\n\nLa posición relativa a la base/raíz que toma un afijo.\n\n\nCIÓN ↔︎ N, subcategorización: V\n            “acción o efecto de”\n            [sufijo]\n            -ión/s_\n            -ción/el resto de casos\n/re/ ↔︎ V, subcategorización: V\n            “hacer X otra vez”\n            [prefijo]"
+  },
+  {
+    "objectID": "handout4.html#las-raíces",
+    "href": "handout4.html#las-raíces",
+    "title": "Las entradas léxicas",
+    "section": "Las raíces",
+    "text": "Las raíces\n\nPuede faltar la forma fonémica (morfo cero); puede faltar el significado conceptual del mundo (en la vocal temática)\n¿Puede faltar la información gramatical? Para la Morfología Distribuida sí, la información gramatical puede faltar en las raíces."
+  },
+  {
+    "objectID": "handout4.html#las-raíces-1",
+    "href": "handout4.html#las-raíces-1",
+    "title": "Las entradas léxicas",
+    "section": "Las raíces",
+    "text": "Las raíces\n\n/grit/ ↔︎ “relacionados con sonidos muy fuertes”\n\n[[grit]-a]V “producir sonidos muy fuertes”\n[[grit]-o]N “acción o efecto de producir sonidos muy fuertes”"
+  },
+  {
+    "objectID": "handout4.html#las-raíces-2",
+    "href": "handout4.html#las-raíces-2",
+    "title": "Las entradas léxicas",
+    "section": "Las raíces",
+    "text": "Las raíces\n\n\nabrazar\nacomodar\n/braz/ ↔︎ “relacionado con apéndices del torso”\n/comod/ ↔︎ “relacionado con el bienestar”\n\n\n[[braz]-o]N “apéndice del torso”\n[[cómod]-o/a]Adj “propiedad del bienestar”\n\n\n[a-[braz]-a]V “envolver con apéndices del torso”\n[a-[comod]-a]V “lograr el bienestar”"
+  },
+  {
+    "objectID": "handout4.html#el-contexto-morfosintáctico-del-uso-1",
+    "href": "handout4.html#el-contexto-morfosintáctico-del-uso-1",
+    "title": "Las entradas léxicas",
+    "section": "El contexto morfosintáctico del uso",
+    "text": "El contexto morfosintáctico del uso\n\n\nganábamos\nganáramos\nganamos\n∅ ↔︎ TAM: pretérito\n      /-a__mos"
+  },
+  {
+    "objectID": "handout4.html#la-información-gramatical-de-la-base-de-un-afijo-2",
+    "href": "handout4.html#la-información-gramatical-de-la-base-de-un-afijo-2",
+    "title": "Las entradas léxicas",
+    "section": "La información gramatical de la base de un afijo",
+    "text": "La información gramatical de la base de un afijo\n\n\naceite\naceitoso\namor\namoroso\nfuria\nfurioso\nespacio\nespacioso"
+  },
+  {
+    "objectID": "handout3.html#ción-en-detalle-2",
+    "href": "handout3.html#ción-en-detalle-2",
+    "title": "La alomorfía y el análisis morfológico",
+    "section": "-(c)ión en detalle",
+    "text": "-(c)ión en detalle\n\nAlomorfo no marcado: El alomorfo que se usa en el resto de los casos, cuyo contexto de materialización es el más general: ción, no ión\n\nNo requiere condiciones especiales para ser usado\nEl alomorfo que se espera usar con más frecuencia\nEl alomorfo que se usa para representar el morfema más abstracto"
   }
 ]
