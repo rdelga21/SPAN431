@@ -9,3 +9,13 @@ title: "Hualde et al. (2010)"
     download the PDF file.</a></p>
 </object>
 ```
+
+## Hualde et al. (2010) - pgs. 155-178
+
+```{=html}
+<object data="hualde155178.pdf" type="application/pdf" width="100%" height="100%" style="min-height:100vh;">
+    <p>It appears you don't have a PDF plugin for this browser.
+    No biggie... you can <a href="hualde155178.pdff">click here to
+    download the PDF file.</a></p>
+</object>
+```
