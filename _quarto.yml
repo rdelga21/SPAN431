@@ -29,6 +29,9 @@ website:
         - w1d2.qmd
         - handout3.qmd
         - handout4.qmd
+      - section: "Semana 3"
+        contents:
+        - handout5.qmd
 format:
   html:
     theme: cosmo
