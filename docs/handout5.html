@@ -1,0 +1,1634 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+<script src="site_libs/clipboard/clipboard.min.js"></script>
+<script src="site_libs/quarto-html/tabby.min.js"></script>
+<script src="site_libs/quarto-html/popper.min.js"></script>
+<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
+<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="site_libs/quarto-html/light-border.css" rel="stylesheet">
+<link href="site_libs/quarto-html/quarto-html.min.css" rel="stylesheet" data-mode="light">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles"><meta charset="utf-8">
+  <meta name="generator" content="quarto-1.3.433">
+
+  <title>Spanish Morphology - Presentación 5 - La flexión nominal, adjetival y verbal</title>
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
+  <link rel="stylesheet" href="site_libs/revealjs/dist/reset.css">
+  <link rel="stylesheet" href="site_libs/revealjs/dist/reveal.css">
+  <style>
+    code{white-space: pre-wrap;}
+    span.smallcaps{font-variant: small-caps;}
+    div.columns{display: flex; gap: min(4vw, 1.5em);}
+    div.column{flex: auto; overflow-x: auto;}
+    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+    ul.task-list{list-style: none;}
+    ul.task-list li input[type="checkbox"] {
+      width: 0.8em;
+      margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+      vertical-align: middle;
+    }
+  </style>
+  <link rel="stylesheet" href="site_libs/revealjs/dist/theme/quarto.css">
+  <link href="site_libs/revealjs/plugin/quarto-line-highlight/line-highlight.css" rel="stylesheet">
+  <link href="site_libs/revealjs/plugin/reveal-menu/menu.css" rel="stylesheet">
+  <link href="site_libs/revealjs/plugin/reveal-menu/quarto-menu.css" rel="stylesheet">
+  <link href="site_libs/revealjs/plugin/quarto-support/footer.css" rel="stylesheet">
+  <style type="text/css">
+
+  .callout {
+    margin-top: 1em;
+    margin-bottom: 1em;  
+    border-radius: .25rem;
+  }
+
+  .callout.callout-style-simple { 
+    padding: 0em 0.5em;
+    border-left: solid #acacac .3rem;
+    border-right: solid 1px silver;
+    border-top: solid 1px silver;
+    border-bottom: solid 1px silver;
+    display: flex;
+  }
+
+  .callout.callout-style-default {
+    border-left: solid #acacac .3rem;
+    border-right: solid 1px silver;
+    border-top: solid 1px silver;
+    border-bottom: solid 1px silver;
+  }
+
+  .callout .callout-body-container {
+    flex-grow: 1;
+  }
+
+  .callout.callout-style-simple .callout-body {
+    font-size: 1rem;
+    font-weight: 400;
+  }
+
+  .callout.callout-style-default .callout-body {
+    font-size: 0.9rem;
+    font-weight: 400;
+  }
+
+  .callout.callout-titled.callout-style-simple .callout-body {
+    margin-top: 0.2em;
+  }
+
+  .callout:not(.callout-titled) .callout-body {
+      display: flex;
+  }
+
+  .callout:not(.no-icon).callout-titled.callout-style-simple .callout-content {
+    padding-left: 1.6em;
+  }
+
+  .callout.callout-titled .callout-header {
+    padding-top: 0.2em;
+    margin-bottom: -0.2em;
+  }
+
+  .callout.callout-titled .callout-title  p {
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+  }
+    
+  .callout.callout-titled.callout-style-simple .callout-content  p {
+    margin-top: 0;
+  }
+
+  .callout.callout-titled.callout-style-default .callout-content  p {
+    margin-top: 0.7em;
+  }
+
+  .callout.callout-style-simple div.callout-title {
+    border-bottom: none;
+    font-size: .9rem;
+    font-weight: 600;
+    opacity: 75%;
+  }
+
+  .callout.callout-style-default  div.callout-title {
+    border-bottom: none;
+    font-weight: 600;
+    opacity: 85%;
+    font-size: 0.9rem;
+    padding-left: 0.5em;
+    padding-right: 0.5em;
+  }
+
+  .callout.callout-style-default div.callout-content {
+    padding-left: 0.5em;
+    padding-right: 0.5em;
+  }
+
+  .callout.callout-style-simple .callout-icon::before {
+    height: 1rem;
+    width: 1rem;
+    display: inline-block;
+    content: "";
+    background-repeat: no-repeat;
+    background-size: 1rem 1rem;
+  }
+
+  .callout.callout-style-default .callout-icon::before {
+    height: 0.9rem;
+    width: 0.9rem;
+    display: inline-block;
+    content: "";
+    background-repeat: no-repeat;
+    background-size: 0.9rem 0.9rem;
+  }
+
+  .callout-title {
+    display: flex
+  }
+    
+  .callout-icon::before {
+    margin-top: 1rem;
+    padding-right: .5rem;
+  }
+
+  .callout.no-icon::before {
+    display: none !important;
+  }
+
+  .callout.callout-titled .callout-body > .callout-content > :last-child {
+    margin-bottom: 0.5rem;
+  }
+
+  .callout.callout-titled .callout-icon::before {
+    margin-top: .5rem;
+    padding-right: .5rem;
+  }
+
+  .callout:not(.callout-titled) .callout-icon::before {
+    margin-top: 1rem;
+    padding-right: .5rem;
+  }
+
+  /* Callout Types */
+
+  div.callout-note {
+    border-left-color: #4582ec !important;
+  }
+
+  div.callout-note .callout-icon::before {
+    background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAERlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAA6ABAAMAAAABAAEAAKACAAQAAAABAAAAIKADAAQAAAABAAAAIAAAAACshmLzAAAEU0lEQVRYCcVXTWhcVRQ+586kSUMMxkyaElstCto2SIhitS5Ek8xUKV2poatCcVHtUlFQk8mbaaziwpWgglJwVaquitBOfhQXFlqlzSJpFSpIYyXNjBNiTCck7x2/8/LeNDOZxDuEkgOXe++553zfefee+/OYLOXFk3+1LLrRdiO81yNqZ6K9cG0P3MeFaMIQjXssE8Z1JzLO9ls20MBZX7oG8w9GxB0goaPrW5aNMp1yOZIa7Wv6o2ykpLtmAPs/vrG14Z+6d4jpbSKuhdcSyq9wGMPXjonwmESXrriLzFGOdDBLB8Y6MNYBu0dRokSygMA/mrun8MGFN3behm6VVAwg4WR3i6FvYK1T7MHo9BK7ydH+1uurECoouk5MPRyVSBrBHMYwVobG2aOXM07sWrn5qgB60rc6mcwIDJtQrnrEr44kmy+UO9r0u9O5/YbkS9juQckLed3DyW2XV/qWBBB3ptvI8EUY3I9p/67OW+g967TNr3Sotn3IuVlfMLVnsBwH4fsnebJvyGm5GeIUA3jljERmrv49SizPYuq+z7c2H/jlGC+Ghhupn/hcapqmcudB9jwJ/3jvnvu6vu5lVzF1fXyZuZZ7U8nRmVzytvT+H3kilYvH09mLWrQdwFSsFEsxFVs5fK7A0g8gMZjbif4ACpKbjv7gNGaD8bUrlk8x+KRflttr22JEMRUbTUwwDQScyzPgedQHZT0xnx7ujw2jfVfExwYHwOsDTjLdJ2ebmeQIlJ7neo41s/DrsL3kl+W2lWvAga0tR3zueGr6GL78M3ifH0rGXrBC2aAR8uYcIA5gwV8zIE8onoh8u0Fca/ciF7j1uOzEnqcIm59sEXoGc0+z6+H45V1CvAvHcD7THztu669cnp+L0okAeIc6zjbM/24LgGM1gZk7jnRu1aQWoU9sfUOuhrmtaPIO3YY1KLLWZaEO5TKUbMY5zx8W9UJ6elpLwKXbsaZ4EFl7B4bMtDv0iRipKoDQT2sNQI9b1utXFdYisi+wzZ/ri/1m7QfDgEuvgUUEIJPq3DhX/5DWNqIXDOweC2wvIR90Oq3lDpdMIgD2r0dXvGdsEW5H6x6HLRJYU7C69VefO1x8Gde1ZFSJLfWS1jbCnhtOPxmpfv2LXOA2Xk2tvnwKKPFuZ/oRmwBwqRQDcKNeVQkYcOjtWVBuM/JuYw5b6isojIkYxyYAFn5K7ZBF10fea52y8QltAg6jnMqNHFBmGkQ1j+U43HMi2xMar1Nv0zGsf1s8nUsmUtPOOrbFIR8bHFDMB5zL13Gmr/kGlCkUzedTzzmzsaJXhYawnA3UmARpiYj5ooJZiUoxFRtK3X6pgNPv+IZVPcnwbOl6f+aBaO1CNvPW9n9LmCp01nuSaTRF2YxHqZ8DYQT6WsXT+RD6eUztwYLZ8rM+rcPxamv1VQzFUkzFXvkiVrySGQgJNvXHJAxiU3/NwiC03rSf05VBaPtu/Z7/B8Yn/w7eguloAAAAAElFTkSuQmCC');
+  }
+
+  div.callout-note.callout-style-default .callout-title {
+    background-color: #dae6fb
+  }
+
+  div.callout-important {
+    border-left-color: #d9534f !important;
+  }
+
+  div.callout-important .callout-icon::before {
+    background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAERlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAA6ABAAMAAAABAAEAAKACAAQAAAABAAAAIKADAAQAAAABAAAAIAAAAACshmLzAAAEKklEQVRYCcVXTWhcVRS+575MJym48A+hSRFr00ySRQhURRfd2HYjk2SSTokuBCkU2o0LoSKKraKIBTcuFCoidGFD08nkBzdREbpQ1EDNIv8qSGMFUboImMSZd4/f9zJv8ibJMC8xJQfO3HPPPef7zrvvvnvviIkpC9nsw0UttFunbUhpFzFtarSd6WJkStVMw5xyVqYTvkwfzuf/5FgtkVoB0729j1rjXwThS7Vio+Mo6DNnvLfahoZ+i/o32lULuJ3NNiz7q6+pyAUkJaFF6JwaM2lUJlV0MlnQn5aTRbEu0SEqHUa0A4AdiGuB1kFXRfVyg5d87+Dg4DL6m2TLAub60ilj7A1Ec4odSAc8X95sHh7+ZRPCFo6Fnp7HfU/fBng/hi10CjCnWnJjsxvDNxWw0NfV6Rv5GgP3I3jGWXumdTD/3cbEOP2ZbOZp69yniG3FQ9z1jD7bnBu9Fc2tKGC2q+uAJOQHBDRiZX1x36o7fWBs7J9ownbtO+n0/qWkvW7UPIfc37WgT6ZGR++EOJyeQDSb9UB+DZ1G6DdLDzyS+b/kBCYGsYgJbSQHuThGKRcw5xdeQf8YdNHsc6ePXrlSYMBuSIAFTGAtQo+VuALo4BX83N190NWZWbynBjhOHsmNfFWLeL6v+ynsA58zDvvAC8j5PkbOcXCMg2PZFk3q8MjI7WAG/Dp9AwP7jdGBOOQkAvlFUB+irtm16I1Zw9YBcpGTGXYmk3kQIC/Cds55l+iMI3jqhjAuaoe+am2Jw5GT3Nbz3CkE12NavmzN5+erJW7046n/CH1RO/RVa8lBLozXk9uqykkGAyRXLWlLv5jyp4RFsG5vGVzpDLnIjTWgnRy2Rr+tDKvRc7Y8AyZq10jj8DqXdnIRNtFZb+t/ZRtXcDiVnzpqx8mPcDWxgARUqx0W1QB9MeUZiNrV4qP+Ehc+BpNgATsTX8ozYKL2NtFYAHc84fG7ndxUPr+AR/iQSns7uSUufAymwDOb2+NjK27lEFocm/EE2WpyIy/Hi66MWuMKJn8RvxIcj87IM5Vh9663ziW36kR0HNenXuxmfaD8JC7tfKbrhFr7LiZCrMjrzTeGx+PmkosrkNzW94ObzwocJ7A1HokLolY+AvkTiD/q1H0cN48c5EL8Crkttsa/AXQVDmutfyku0E7jShx49XqV3MFK8IryDhYVbj7Sj2P2eBxwcXoe8T8idsKKPRcnZw1b+slFTubwUwhktrfnAt7J++jwQtLZcm3sr9LQrjRzz6cfMv9aLvgmnAGvpoaGLxM4mAEaLV7iAzQ3oU0IvD5x9ix3yF2RAAuYAOO2f7PEFWCXZ4C9Pb2UsgDeVnFSpbFK7/IWu7TPTvBqzbGdCHOJQSxiEjt6IyZmxQyEJHv6xyQsYk//moVFsN2zP6fRImjfq7/n/wFDguUQFNEwugAAAABJRU5ErkJggg==');
+  }
+
+  div.callout-important.callout-style-default .callout-title {
+    background-color: #f7dddc
+  }
+
+  div.callout-warning {
+    border-left-color: #f0ad4e !important;
+  }
+
+  div.callout-warning .callout-icon::before {
+    background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAERlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAA6ABAAMAAAABAAEAAKACAAQAAAABAAAAIKADAAQAAAABAAAAIAAAAACshmLzAAAETklEQVRYCeVWW2gcVRg+58yaTUnizqbipZeX4uWhBEniBaoUX1Ioze52t7sRq6APio9V9MEaoWlVsFasRq0gltaAPuxms8lu0gcviE/FFOstVbSIxgcv6SU7EZqmdc7v9+9mJtNks51NTUH84ed889/PP+cmxP+d5FIbMJmNbpREu4WUkiTtCicKny0l1pIKmBzovF2S+hIJHX8iEu3hZJ5lNZGqyRrGSIQpq15AzF28jgpeY6yk6GVdrfFqdrD6Iw+QlB8g0YS2g7dyQmXM/IDhBhT0UCiRf59lfqmmDvzRt6kByV/m4JjtzuaujMUM2c5Z2d6JdKrRb3K2q6mA+oYVz8JnDdKPmmNthzkAk/lN63sYPgevrguc72aZX/L9C6x09GYyxBgCX4NlvyGUHOKELlm5rXeR1kchuChJt4SSwyddZRXgvwMGvYo4QSlk3/zkHD8UHxwVJA6zjZZqP8v8kK8OWLnIZtLyCAJagYC4rTGW/9Pqj92N/c+LUaAj27movwbi19tk/whRCIE7Q9vyI6yvRpftAKVTdUjOW40X3h5OXsKCdmFcx0xlLJoSuQngnrJe7Kcjm4OMq9FlC7CMmScQANuNvjfP3PjGXDBaUQmbp296S5L4DrpbrHN1T87ZVEZVCzg1FF0Ft+dKrlLukI+/c9ENo+TvlTDbYFvuKPtQ9+l052rXrgKoWkDAFnvh0wTOmYn8R5f4k/jN/fZiCM1tQx9jQQ4ANhqG4hiL0qIFTGViG9DKB7GYzgubnpofgYRwO+DFjh0Zin2m4b/97EDkXkc+f6xYAPX0KK2I/7fUQuwzuwo/L3AkcjugPNixC8cHf0FyPjWlItmLxWw4Ou9YsQCr5fijMGoD/zpdRy95HRysyXA74MWOnscpO4j2y3HAVisw85hX5+AFBRSHt4ShfLFkIMXTqyKFc46xdzQM6XbAi702a7sy04J0+feReMFKp5q9esYLCqAZYw/k14E/xcLLsFElaornTuJB0svMuJINy8xkIYuL+xPAlWRceH6+HX7THJ0djLUom46zREu7tTkxwmf/FdOZ/sh6Q8qvEAiHpm4PJ4a/doJe0gH1t+aHRgCzOvBvJedEK5OFE5jpm4AGP2a8Dxe3gGJ/pAutug9Gp6he92CsSsWBaEcxGx0FHytmIpuqGkOpldqNYQK8cSoXvd+xLxXADw0kf6UkJNFtdo5MOgaLjiQOQHcn+A6h5NuL2s0qsC2LOM75PcF3yr5STuBSAcGG+meA14K/CI21HcS4LBT6tv0QAh8Dr5l93AhZzG5ZJ4VxAqdZUEl9z7WJ4aN+svMvwHHL21UKTd1mqvChH7/Za5xzXBBKrUcB0TQ+Ulgkfbi/H/YT5EptrGzsEK7tR1B7ln9BBwckYfMiuSqklSznIuoIIOM42MQO+QnduCoFCI0bpkzjCjddHPN/F+2Yu+sd9bKNpVwHhbS3LluK/0zgfwD0xYI5dXuzlQAAAABJRU5ErkJggg==');
+  }
+
+  div.callout-warning.callout-style-default .callout-title {
+    background-color: #fcefdc
+  }
+
+  div.callout-tip {
+    border-left-color: #02b875 !important;
+  }
+
+  div.callout-tip .callout-icon::before {
+    background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAERlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAA6ABAAMAAAABAAEAAKACAAQAAAABAAAAIKADAAQAAAABAAAAIAAAAACshmLzAAADr0lEQVRYCe1XTWgTQRj9ZjZV8a9SPIkKgj8I1bMHsUWrqYLVg4Ue6v9BwZOxSYsIerFao7UiUryIqJcqgtpimhbBXoSCVxUFe9CTiogUrUp2Pt+3aUI2u5vdNh4dmMzOzHvvezuz8xNFM0mjnbXaNu1MvFWRXkXEyE6aYOYJpdW4IXuA4r0fo8qqSMDBU0v1HJUgVieAXxzCsdE/YJTdFcVIZQNMyhruOMJKXYFoLfIfIvVIMWdsrd+Rpd86ZmyzzjJmLStqRn0v8lzkb4rVIXvnpScOJuAn2ACC65FkPzEdEy4TPWRLJ2h7z4cArXzzaOdKlbOvKKX25Wl00jSnrwVxAg3o4dRxhO13RBSdNvH0xSARv3adTXbBdTf64IWO2vH0LT+cv4GR1DJt+DUItaQogeBX/chhbTBxEiZ6gftlDNXTrvT7co4ub5A6gp9HIcHvzTa46OS5fBeP87Qm0fQkr4FsYgVQ7Qg+ZayaDg9jhg1GkWj8RG6lkeSacrrHgDaxdoBiZPg+NXV/KifMuB6//JmYH4CntVEHy/keA6x4h4CU5oFy8GzrBS18cLJMXcljAKB6INjWsRcuZBWVaS3GDrqB7rdapVIeA+isQ57Eev9eCqzqOa81CY05VLd6SamW2wA2H3SiTbnbSxmzfp7WtKZkqy4mdyAlGx7ennghYf8voqp9cLSgKdqNfa6RdRsAAkPwRuJZNbpByn+RrJi1RXTwdi8RQF6ymDwGMAtZ6TVE+4uoKh+MYkcLsT0Hk8eAienbiGdjJHZTpmNjlbFJNKDVAp2fJlYju6IreQxQ08UJDNYdoLSl6AadO+fFuCQqVMB1NJwPm69T04Wv5WhfcWyfXQB+wXRs1pt+nCknRa0LVzSA/2B+a9+zQJadb7IyyV24YAxKp2Jqs3emZTuNnKxsah+uabKbMk7CbTgJx/zIgQYErIeTKRQ9yD9wxVof5YolPHqaWo7TD6tJlh7jQnK5z2n3+fGdggIOx2kaa2YI9QWarc5Ce1ipNWMKeSG4DysFF52KBmTNMmn5HqCFkwy34rDg05gDwgH3bBi+sgFhN/e8QvRn8kbamCOhgrZ9GJhFDgfcMHzFb6BAtjKpFhzTjwv1KCVuxHvCbsSiEz4CANnj84cwHdFXAbAOJ4LTSAawGWFn5tDhLMYz6nWeU2wJfIhmIJBefcd/A5FWQWGgrWzyORZ3Q6HuV+Jf0Bj+BTX69fm1zWgK7By1YTXchFDORywnfQ7GpzOo6S+qECrsx2ifVQAAAABJRU5ErkJggg==');
+  }
+
+  div.callout-tip.callout-style-default .callout-title {
+    background-color: #ccf1e3
+  }
+
+  div.callout-caution {
+    border-left-color: #fd7e14 !important;
+  }
+
+  div.callout-caution .callout-icon::before {
+    background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAERlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAA6ABAAMAAAABAAEAAKACAAQAAAABAAAAIKADAAQAAAABAAAAIAAAAACshmLzAAACV0lEQVRYCdVWzWoUQRCuqp2ICBLJXgITZL1EfQDBW/bkzUMUD7klD+ATSHBEfAIfQO+iXsWDxJsHL96EHAwhgzlkg8nBg25XWb0zIb0zs9muYYWkoKeru+vn664fBqElyZNuyh167NXJ8Ut8McjbmEraKHkd7uAnAFku+VWdb3reSmRV8PKSLfZ0Gjn3a6Xlcq9YGb6tADjn+lUfTXtVmaZ1KwBIvFI11rRXlWlatwIAAv2asaa9mlB9wwygiDX26qaw1yYPzFXg2N1GgG0FMF8Oj+VIx7E/03lHx8UhvYyNZLN7BwSPgekXXLribw7w5/c8EF+DBK5idvDVYtEEwMeYefjjLAdEyQ3M9nfOkgnPTEkYU+sxMq0BxNR6jExrAI31H1rzvLEfRIdgcv1XEdj6QTQAS2wtstEALLG1yEZ3QhH6oDX7ExBSFEkFINXH98NTrme5IOaaA7kIfiu2L8A3qhH9zRbukdCqdsA98TdElyeMe5BI8Rs2xHRIsoTSSVFfCFCWGPn9XHb4cdobRIWABNf0add9jakDjQJpJ1bTXOJXnnRXHRf+dNL1ZV1MBRCXhMbaHqGI1JkKIL7+i8uffuP6wVQAzO7+qVEbF6NbS0LJureYcWXUUhH66nLR5rYmva+2tjRFtojkM2aD76HEGAD3tPtKM309FJg5j/K682ywcWJ3PASCcycH/22u+Bh7Aa0ehM2Fu4z0SAE81HF9RkB21c5bEn4Dzw+/qNOyXr3DCTQDMBOdhi4nAgiFDGCinIa2owCEChUwD8qzd03PG+qdW/4fDzjUMcE1ZpIAAAAASUVORK5CYII=');
+  }
+
+  div.callout-caution.callout-style-default .callout-title {
+    background-color: #ffe5d0
+  }
+
+  </style>
+  <style type="text/css">
+    .reveal div.sourceCode {
+      margin: 0;
+      overflow: auto;
+    }
+    .reveal div.hanging-indent {
+      margin-left: 1em;
+      text-indent: -1em;
+    }
+    .reveal .slide:not(.center) {
+      height: 100%;
+    }
+    .reveal .slide.scrollable {
+      overflow-y: auto;
+    }
+    .reveal .footnotes {
+      height: 100%;
+      overflow-y: auto;
+    }
+    .reveal .slide .absolute {
+      position: absolute;
+      display: block;
+    }
+    .reveal .footnotes ol {
+      counter-reset: ol;
+      list-style-type: none; 
+      margin-left: 0;
+    }
+    .reveal .footnotes ol li:before {
+      counter-increment: ol;
+      content: counter(ol) ". "; 
+    }
+    .reveal .footnotes ol li > p:first-child {
+      display: inline-block;
+    }
+    .reveal .slide ul,
+    .reveal .slide ol {
+      margin-bottom: 0.5em;
+    }
+    .reveal .slide ul li,
+    .reveal .slide ol li {
+      margin-top: 0.4em;
+      margin-bottom: 0.2em;
+    }
+    .reveal .slide ul[role="tablist"] li {
+      margin-bottom: 0;
+    }
+    .reveal .slide ul li > *:first-child,
+    .reveal .slide ol li > *:first-child {
+      margin-block-start: 0;
+    }
+    .reveal .slide ul li > *:last-child,
+    .reveal .slide ol li > *:last-child {
+      margin-block-end: 0;
+    }
+    .reveal .slide .columns:nth-child(3) {
+      margin-block-start: 0.8em;
+    }
+    .reveal blockquote {
+      box-shadow: none;
+    }
+    .reveal .tippy-content>* {
+      margin-top: 0.2em;
+      margin-bottom: 0.7em;
+    }
+    .reveal .tippy-content>*:last-child {
+      margin-bottom: 0.2em;
+    }
+    .reveal .slide > img.stretch.quarto-figure-center,
+    .reveal .slide > img.r-stretch.quarto-figure-center {
+      display: block;
+      margin-left: auto;
+      margin-right: auto; 
+    }
+    .reveal .slide > img.stretch.quarto-figure-left,
+    .reveal .slide > img.r-stretch.quarto-figure-left  {
+      display: block;
+      margin-left: 0;
+      margin-right: auto; 
+    }
+    .reveal .slide > img.stretch.quarto-figure-right,
+    .reveal .slide > img.r-stretch.quarto-figure-right  {
+      display: block;
+      margin-left: auto;
+      margin-right: 0; 
+    }
+  </style>
+</head>
+<body class="quarto-light">
+  <div class="reveal">
+    <div class="slides">
+
+<section id="title-slide" class="quarto-title-block center">
+  <h1 class="title">Presentación 5 - La flexión nominal, adjetival y verbal</h1>
+
+<div class="quarto-title-authors">
+</div>
+
+</section>
+<section id="el-género-de-los-sustantivos" class="slide level2">
+<h2>El género de los sustantivos</h2>
+<ul>
+<li><strong>El género</strong>: una propiedad inherente de los sustantivos que se manifiesta en la concordancia con adjetivos (y determinantes)
+<ul>
+<li><strong>Masculino</strong>: <em>zapato, césped, camión… Juan, hombre, rey, niño</em></li>
+<li><strong>Femenino</strong>: <em>camisa, raíz, pared… María, mujer, reina, niña</em></li>
+</ul></li>
+</ul>
+</section>
+<section id="el-género-de-los-sustantivos-1" class="slide level2">
+<h2>El género de los sustantivos</h2>
+<ul>
+<li><strong>Tres tendencias</strong>:
+<ul>
+<li>Sustantivos acabados en -o son casi todos masculinos. Excepciones: <em>la mano</em>.
+<ul>
+<li>y abreviaciones: <em>la foto(grafía) o la moto(cicleta)</em></li>
+</ul></li>
+<li>Sustantivos acabados en -a son casi todos femeninos. Excepciones: el día, el poeta, el mapa
+<ul>
+<li>y palabras de origen griego acabados en <em>-ma</em>: <em>el drama, el poema, el sintagma, el morfema</em></li>
+<li>y sustantivos con <em>-ista</em> con referente humano: <em>el artista, la artista, la ciclista, el ciclista</em></li>
+</ul></li>
+</ul></li>
+</ul>
+</section>
+<section id="el-género-de-los-sustantivos-2" class="slide level2">
+<h2>El género de los sustantivos</h2>
+<ul>
+<li><strong>Tres tendencias</strong>:
+<ul>
+<li>Sustantivos acabados en -e y consonante (los que no tiene sufijo flexivo): no hay regla:
+<ul>
+<li><em>el coche/la noche; el sol/la sal; el matiz/la nariz</em></li>
+<li>Palabras derivadas acabadas en <em>-ez, -ción, -(i)dad y -tud</em> son femeninas</li>
+</ul></li>
+</ul></li>
+</ul>
+</section>
+<section id="los-pronombres-artículos-y-demostrativos" class="slide level2">
+<h2>Los pronombres, artículos y demostrativos</h2>
+<table>
+<thead>
+<tr class="header">
+<th>Masculino</th>
+<th>Femenino</th>
+<th>Neutro</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>él</td>
+<td>ella</td>
+<td>ello</td>
+</tr>
+<tr class="even">
+<td>lo</td>
+<td>la</td>
+<td>lo</td>
+</tr>
+<tr class="odd">
+<td>el</td>
+<td>la</td>
+<td>lo</td>
+</tr>
+<tr class="even">
+<td>este</td>
+<td>esta</td>
+<td>esto</td>
+</tr>
+<tr class="odd">
+<td>ese</td>
+<td>esa</td>
+<td>eso</td>
+</tr>
+<tr class="even">
+<td>aquel</td>
+<td>aquella</td>
+<td>aquello</td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="los-pronombres-artículos-y-demostrativos-1" class="slide level2">
+<h2>Los pronombres, artículos y demostrativos</h2>
+<ul>
+<li>El neutro se usa para referir a ideas o conceptos, y a oraciones:
+<ul>
+<li>Eso es.<br>
+</li>
+<li>Lo que digas.</li>
+</ul></li>
+</ul>
+</section>
+<section id="los-pronombres-artículos-y-demostrativos-2" class="slide level2">
+<h2>Los pronombres, artículos y demostrativos</h2>
+<ul>
+<li>Con adjetivos: <em>lo bueno de esto es</em>….</li>
+<li>Con exclamativas:
+<ul>
+<li>¡Lo contentos que estaban todos!
+<ul>
+<li>Ya verás lo antipática que es María</li>
+</ul></li>
+</ul></li>
+</ul>
+</section>
+<section id="el-género-no-marcado-del-masculino" class="slide level2">
+<h2>El género no marcado del masculino</h2>
+<ul>
+<li>Con palabras que no tienen género, como las preposiciones y las conjunciones, se ve concordancia masculina
+<ul>
+<li>no vengas con tantos peros</li>
+<li>tienes que añadir un “con”</li>
+</ul></li>
+<li>Se usa el masculino en nominalizaciones de verbos/oraciones
+<ul>
+<li>Me encanta el cantar de los pájaros.</li>
+<li>El que me lo digas tu hace gracia.</li>
+</ul></li>
+</ul>
+</section>
+<section id="el-género-no-marcado-del-masculino-1" class="slide level2">
+<h2>El género no marcado del masculino</h2>
+<ul>
+<li>En concordancia con palabras femeninas y masculinas, se usa las formas masculinas por defecto.
+<ul>
+<li>La mesa y el vaso largos</li>
+</ul></li>
+<li>Tradicionalmente, se usa el masculino para referirse a grupos de personas cuando hay por lo menos un varón.</li>
+</ul>
+</section>
+<section id="el-género-de-los-adjetivos" class="slide level2">
+<h2>El género de los adjetivos</h2>
+<ul>
+<li><p>No tienen género inherente. Concuerda en género con el sustantivo que modifican.</p></li>
+<li><p><strong>Dos grupos importantes</strong>:</p>
+<ul>
+<li>los que acaban en -o (masculino) o -a (femenino):
+<ul>
+<li>frío/fría; guapo/guapa</li>
+</ul></li>
+<li>los que acaban en -e o consonante (sin vocal flexiva) son iguales para masculino y femenino:
+<ul>
+<li>la casa grande/el carro grande; el libro azul/la mesa azul, etc.</li>
+</ul></li>
+</ul></li>
+</ul>
+</section>
+<section id="el-número" class="slide level2">
+<h2>El número</h2>
+<ul>
+<li>La regla simplificada es:
+<ul>
+<li>a las palabras acabadas en vocal se le añade -s
+<ul>
+<li>manos, tazas, cantantes</li>
+</ul></li>
+<li>a las palabras acabadas en consonante se le añade -es
+<ul>
+<li>arboles, jardines, profesores</li>
+</ul></li>
+</ul></li>
+</ul>
+</section>
+<section id="el-número-1" class="slide level2">
+<h2>El número</h2>
+<ul>
+<li>Palabras acabadas en -s
+<ul>
+<li>lunes, miércoles, análisis, brindis, virus, mes, autobús</li>
+</ul></li>
+<li>Variación: palabras acabadas en -u/-i
+<ul>
+<li>israelí, hindú, rubí, tribu, taxi, menú</li>
+</ul></li>
+<li>Variación: palabras acabadas en consonante
+<ul>
+<li>robot, chef, bulldog, clip, fan (cf.&nbsp;pan)</li>
+<li>club, album, bol (cf.&nbsp;sol)</li>
+</ul></li>
+</ul>
+</section>
+<section id="la-flexión-verbal" class="slide level2">
+<h2>La flexión verbal</h2>
+<table>
+<thead>
+<tr class="header">
+<th>Palabra</th>
+<th>Raíz</th>
+<th>VT</th>
+<th>TAM</th>
+<th>Número/Persona</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>ganar</td>
+<td>gan</td>
+<td>a</td>
+<td>r</td>
+<td>∅</td>
+</tr>
+<tr class="even">
+<td>ganaríamos</td>
+<td>gan</td>
+<td>a</td>
+<td>ria</td>
+<td>mos</td>
+</tr>
+<tr class="odd">
+<td>ganarían</td>
+<td>gan</td>
+<td>a</td>
+<td>ria</td>
+<td>n</td>
+</tr>
+<tr class="even">
+<td>ganaría</td>
+<td>gan</td>
+<td>a</td>
+<td>ria</td>
+<td>∅</td>
+</tr>
+<tr class="odd">
+<td>ganaremos</td>
+<td>gan</td>
+<td>a</td>
+<td>re</td>
+<td>mos</td>
+</tr>
+<tr class="even">
+<td>ganáramos</td>
+<td>gan</td>
+<td>a</td>
+<td>ra</td>
+<td>mos</td>
+</tr>
+<tr class="odd">
+<td>ganarán</td>
+<td>gan</td>
+<td>a</td>
+<td>ra</td>
+<td>n</td>
+</tr>
+<tr class="even">
+<td>ganará</td>
+<td>gan</td>
+<td>a</td>
+<td>ra</td>
+<td>∅</td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="la-flexión-verbal-1" class="slide level2">
+<h2>La flexión verbal</h2>
+<table>
+<thead>
+<tr class="header">
+<th>Palabra</th>
+<th>Raíz</th>
+<th>VT</th>
+<th>TAM</th>
+<th>Número/Persona</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>beber</td>
+<td>beb</td>
+<td>e</td>
+<td>r</td>
+<td>∅</td>
+</tr>
+<tr class="even">
+<td>beberemos</td>
+<td>beb</td>
+<td>e</td>
+<td>re</td>
+<td>mos</td>
+</tr>
+<tr class="odd">
+<td>beberán</td>
+<td>beb</td>
+<td>e</td>
+<td>ra</td>
+<td>n</td>
+</tr>
+<tr class="even">
+<td>bebiéramos</td>
+<td>beb</td>
+<td>ie</td>
+<td>ra</td>
+<td>mos</td>
+</tr>
+<tr class="odd">
+<td>bebiera</td>
+<td>beb</td>
+<td>ie</td>
+<td>ra</td>
+<td>∅</td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="la-flexión-verbal-2" class="slide level2">
+<h2>La flexión verbal</h2>
+<table>
+<thead>
+<tr class="header">
+<th>Palabra</th>
+<th>Raíz</th>
+<th>VT</th>
+<th>TAM</th>
+<th>Número/Persona</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>ganaremos</td>
+<td>gan</td>
+<td>a</td>
+<td>re</td>
+<td>mos</td>
+</tr>
+<tr class="even">
+<td>ganaron</td>
+<td>gan</td>
+<td>a</td>
+<td>ro</td>
+<td>n</td>
+</tr>
+<tr class="odd">
+<td>ganamos</td>
+<td>gan</td>
+<td>a</td>
+<td>∅</td>
+<td>mos</td>
+</tr>
+<tr class="even">
+<td>ganan</td>
+<td>gan</td>
+<td>a</td>
+<td>∅</td>
+<td>n</td>
+</tr>
+<tr class="odd">
+<td>ganas</td>
+<td>gan</td>
+<td>a</td>
+<td>∅</td>
+<td>s</td>
+</tr>
+<tr class="even">
+<td>gana</td>
+<td>gan</td>
+<td>a</td>
+<td>∅</td>
+<td>∅</td>
+</tr>
+<tr class="odd">
+<td>ganaste</td>
+<td>gan</td>
+<td>a</td>
+<td>∅</td>
+<td>∅/s</td>
+</tr>
+<tr class="even">
+<td>ganasteis</td>
+<td>gan</td>
+<td>a</td>
+<td>∅</td>
+<td>∅</td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="la-flexión-verbal-3" class="slide level2">
+<h2>La flexión verbal</h2>
+<table>
+<thead>
+<tr class="header">
+<th>Palabra</th>
+<th>Raíz</th>
+<th>VT</th>
+<th>TAM</th>
+<th>Número/Persona</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>bebimos</td>
+<td>beb</td>
+<td>i</td>
+<td>∅</td>
+<td>mos</td>
+</tr>
+<tr class="even">
+<td>bebemos</td>
+<td>beb</td>
+<td>e</td>
+<td>∅</td>
+<td>mos</td>
+</tr>
+<tr class="odd">
+<td>bebiste</td>
+<td>beb</td>
+<td>i</td>
+<td>ste</td>
+<td>∅/s</td>
+</tr>
+<tr class="even">
+<td>bebisteis</td>
+<td>beb</td>
+<td>i</td>
+<td>ste</td>
+<td>is</td>
+</tr>
+<tr class="odd">
+<td>beben</td>
+<td>beb</td>
+<td>e</td>
+<td>∅</td>
+<td>n</td>
+</tr>
+<tr class="even">
+<td>bebieron</td>
+<td>beb</td>
+<td>ie</td>
+<td>ro</td>
+<td>∅</td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="la-flexión-verbal-4" class="slide level2">
+<h2>La flexión verbal</h2>
+<table>
+<thead>
+<tr class="header">
+<th>Palabra</th>
+<th>Raíz</th>
+<th>VT</th>
+<th>TAM</th>
+<th>Número/Persona</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>gano</td>
+<td>gan</td>
+<td>∅</td>
+<td>o</td>
+<td>∅</td>
+</tr>
+<tr class="even">
+<td>bebo</td>
+<td>beb</td>
+<td>∅</td>
+<td>o</td>
+<td>∅</td>
+</tr>
+<tr class="odd">
+<td>gané</td>
+<td>gan</td>
+<td>∅</td>
+<td>e</td>
+<td>∅</td>
+</tr>
+<tr class="even">
+<td>bebí</td>
+<td>beb</td>
+<td>i</td>
+<td>∅</td>
+<td>∅</td>
+</tr>
+<tr class="odd">
+<td>bebiste</td>
+<td>beb</td>
+<td>i</td>
+<td>ste</td>
+<td>∅</td>
+</tr>
+<tr class="even">
+<td>bebisteis</td>
+<td>beb</td>
+<td>ste</td>
+<td>∅</td>
+<td>is</td>
+</tr>
+<tr class="odd">
+<td>ganó</td>
+<td>gan</td>
+<td>a</td>
+<td>o</td>
+<td>∅</td>
+</tr>
+<tr class="even">
+<td>bebió</td>
+<td>beb</td>
+<td>a</td>
+<td>o</td>
+<td>∅</td>
+</tr>
+<tr class="odd">
+<td>bebieron</td>
+<td>beb</td>
+<td>a</td>
+<td>ro</td>
+<td>n</td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="la-flexión-verbal-5" class="slide level2">
+<h2>La flexión verbal</h2>
+<table>
+<thead>
+<tr class="header">
+<th>Palabra</th>
+<th>Raíz</th>
+<th>VT</th>
+<th>TAM</th>
+<th>Número/Persona</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>ganar</td>
+<td>gan</td>
+<td>a</td>
+<td>r</td>
+<td>∅</td>
+</tr>
+<tr class="even">
+<td>ganado</td>
+<td>gan</td>
+<td>a</td>
+<td>do</td>
+<td>∅</td>
+</tr>
+<tr class="odd">
+<td>ganando</td>
+<td>gan</td>
+<td>a</td>
+<td>ndo</td>
+<td>∅</td>
+</tr>
+<tr class="even">
+<td>beber</td>
+<td>beb</td>
+<td>e</td>
+<td>r</td>
+<td>∅</td>
+</tr>
+<tr class="odd">
+<td>bebido</td>
+<td>beb</td>
+<td>i</td>
+<td>do</td>
+<td>∅</td>
+</tr>
+<tr class="even">
+<td>bebiendo</td>
+<td>beb</td>
+<td>ie</td>
+<td>ndo</td>
+<td>∅</td>
+</tr>
+</tbody>
+</table>
+</section>
+<section>
+<section id="los-verbos-irregulares-el-grado-de-los-adjetivos-y-los-pronombres" class="title-slide slide level1 center">
+<h1>Los verbos irregulares, el grado de los adjetivos y los pronombres</h1>
+
+</section>
+<section id="los-verbos-irregulares" class="slide level2">
+<h2>Los verbos irregulares</h2>
+<ul>
+<li>Veremos que las irregularidades en los verbos en muchos casos se reducen a alomorfísmo en las raíces.</li>
+</ul>
+</section>
+<section id="alternancia-vocal-media-y-diptongo" class="slide level2">
+<h2>Alternancia vocal media y diptongo</h2>
+<ul>
+<li>Diptongo: “dos” vocales en una sílaba</li>
+</ul>
+<ol start="2" type="1">
+<li><ol type="a">
+<li>No <strong>encontr</strong>é mis llaves. <strong>→</strong> [o] vocal media</li>
+<li>No <strong>encuentr</strong>o mis llaves. <strong>→</strong> [ṷe] diptongo</li>
+</ol></li>
+<li><ol type="a">
+<li>Las <strong>perd</strong>iste ayer. <strong>→</strong> [e] vocal media</li>
+<li>Las <strong>pierd</strong>es siempre. <strong>→</strong> [i̯e] diptongo</li>
+</ol></li>
+</ol>
+</section>
+<section id="alternancia-vocal-media-y-diptongo-1" class="slide level2">
+<h2>Alternancia vocal media y diptongo</h2>
+<table>
+<thead>
+<tr class="header">
+<th>Palabra</th>
+<th>Raíz</th>
+<th>VT</th>
+<th>TAM</th>
+<th>Número/Persona</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>pensamos</td>
+<td>pens</td>
+<td>a</td>
+<td>∅</td>
+<td>mos</td>
+</tr>
+<tr class="even">
+<td>pensaron</td>
+<td>pens</td>
+<td>a</td>
+<td>ro</td>
+<td>n</td>
+</tr>
+<tr class="odd">
+<td>piensan</td>
+<td>piens</td>
+<td>a</td>
+<td>∅</td>
+<td>n</td>
+</tr>
+<tr class="even">
+<td>pienso</td>
+<td>piens</td>
+<td>∅</td>
+<td>o</td>
+<td>∅</td>
+</tr>
+<tr class="odd">
+<td>soñamos</td>
+<td>soñ</td>
+<td>a</td>
+<td>∅</td>
+<td>mos</td>
+</tr>
+<tr class="even">
+<td>soñaron</td>
+<td>soñ</td>
+<td>a</td>
+<td>ro</td>
+<td>n</td>
+</tr>
+<tr class="odd">
+<td>sueñan</td>
+<td>sueñ</td>
+<td>a</td>
+<td>∅</td>
+<td>n</td>
+</tr>
+<tr class="even">
+<td>sueño</td>
+<td>sueñ</td>
+<td>∅</td>
+<td>o</td>
+<td>∅</td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="alternancia-vocal-media-y-diptongo-2" class="slide level2">
+<h2>Alternancia vocal media y diptongo</h2>
+<p>Pregunta: ¿Los verbos tener y venir siguen el mismo patrón? ¿Qué diferencias demuestran?</p>
+</section>
+<section id="alternancia-vocal-media-y-diptongo-3" class="slide level2">
+<h2>Alternancia vocal media y diptongo</h2>
+<p>Pregunta: ¿Qué alternancias de raíz presentan los verbos jugar y adquirir?</p>
+</section>
+<section id="alternancia-vocal-media-y-vocal-alta" class="slide level2">
+<h2>Alternancia vocal media y vocal alta</h2>
+<ul>
+<li><p>Verbos de la tercera conjugación cuyo infinitivo contiene [e] en la última silaba de la raíz varían entre [e] e [i]:</p></li>
+<li><p>[e] aparece cuando la siguiente sílaba contiene [i], e [i] aparece con otra vocal o diptongo</p></li>
+</ul>
+<ol start="4" type="1">
+<li><ol type="a">
+<li>m<strong>e</strong>dimos, m<strong>e</strong>dían, m<strong>e</strong>diré, m<strong>e</strong>diste, m<strong>e</strong>dido, m<strong>e</strong>dí, m<strong>e</strong>dir</li>
+<li>m<strong>i</strong>do, m<strong>i</strong>den, m<strong>i</strong>des, m<strong>i</strong>dieron, m<strong>i</strong>diendo, m<strong>i</strong>dió, m<strong>i</strong>diera</li>
+</ol></li>
+</ol>
+<ol start="5" type="1">
+<li><ol type="a">
+<li>reír</li>
+<li>río</li>
+</ol></li>
+</ol>
+</section>
+<section id="alternancia-vocal-media-vocal-altadiptongo" class="slide level2">
+<h2>Alternancia vocal media, vocal alta/diptongo</h2>
+<ul>
+<li><p>Algunos verbos de la tercera conjugación presentan una alternancia que es la combinación de las dos anteriores</p></li>
+<li><p>Diptongo, cuando la última silaba de la raíz lleva acento; Vocal media, cuando el acento cae sobre un sufijo y la siguiente sílaba contiene [i]; y Vocal alta en el resto de los casos.</p></li>
+</ul>
+<ol start="6" type="1">
+<li><ol type="a">
+<li>miento, mientas, miente, mientan, mienta</li>
+<li>mentir, mentimos, mentí, mentirá, mentías</li>
+<li>mintiendo, mintió, mintieron, mintiéramos</li>
+</ol></li>
+</ol>
+</section>
+<section id="alternancia-vocal-media-vocal-altadiptongo-1" class="slide level2">
+<h2>Alternancia vocal media, vocal alta/diptongo</h2>
+<ol start="7" type="1">
+<li><ol type="a">
+<li>muero</li>
+<li>morir</li>
+<li>muriendo</li>
+</ol></li>
+</ol>
+</section>
+<section id="los-pretéritos-fuertes" class="slide level2">
+<h2>Los pretéritos fuertes</h2>
+<ul>
+<li>Pretéritos <strong>rizotónicos</strong> (acento en la raíz)</li>
+</ul>
+<p>I. Presentan alomorfo de la raíz en el pretérito y en el imperfecto de subjuntivo que es distinto al que aparece en infinitivo y presente de indicativo y otras formas. En contraste con formas regulares, en primer y tercera persona del singular, el acento recae sobre la raíz.</p>
+<ol start="8" type="1">
+<li>tener, poner, saber, venir, hacer</li>
+</ol>
+</section>
+<section id="los-pretéritos-fuertes-1" class="slide level2">
+<h2>Los pretéritos fuertes</h2>
+<ol start="2" type="I">
+<li>Presentan irregularidades en las terminaciones: toman (independientemente de su clase de conjugación): -e, -iste, -o, -imos, isteis, -ieron,</li>
+</ol>
+<p>Pregunta: ¿Qué alternancias de raíz presentan los verbos traer, decir y conducir?</p>
+</section>
+<section id="los-futuros-y-condicionales-irregulares" class="slide level2">
+<h2>Los futuros (y condicionales) irregulares</h2>
+<ul>
+<li>Algunos verbos de la segunda conjugación carecen de VT y dentro de este grupo, algunos (que acaban en /l/ or /n/) presentan un consonante epentético, y algunos presentan un alomorfo contraído de la raíz.</li>
+</ul>
+</section>
+<section id="los-futuros-y-condicionales-irregulares-1" class="slide level2">
+<h2>Los futuros (y condicionales) irregulares</h2>
+<table>
+<colgroup>
+<col style="width: 9%">
+<col style="width: 17%">
+<col style="width: 12%">
+<col style="width: 12%">
+<col style="width: 20%">
+<col style="width: 25%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Palabra</th>
+<th>Incremento</th>
+<th>Raíz</th>
+<th>VT</th>
+<th>TAM</th>
+<th>Número/Persona</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>am</td>
+<td></td>
+<td>a</td>
+<td>ra/rí</td>
+<td>s</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>sab</td>
+<td></td>
+<td></td>
+<td>ra/ría</td>
+<td>s</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>sal</td>
+<td>d</td>
+<td></td>
+<td>ra/ría</td>
+<td>s</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>ven</td>
+<td>d</td>
+<td></td>
+<td>ra/ría</td>
+<td>s</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>gan</td>
+<td></td>
+<td>a</td>
+<td>ra/ría</td>
+<td>s</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>ha</td>
+<td></td>
+<td></td>
+<td>ra/ría</td>
+<td>s</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>di</td>
+<td></td>
+<td></td>
+<td>ra/ría</td>
+<td>s</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>per</td>
+<td></td>
+<td>e</td>
+<td>ra/ría</td>
+<td>s</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>quer</td>
+<td></td>
+<td></td>
+<td>ra/ría</td>
+<td>s</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>hab</td>
+<td></td>
+<td></td>
+<td>ra/ría</td>
+<td>s</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="participios-irregulares" class="slide level2">
+<h2>Participios irregulares</h2>
+<ul>
+<li>Sufijos -to, -sto, -so, -cho añadidos directamente a la raíz sin VT y, muchas veces con otras irregularidades</li>
+</ul>
+<ol start="9" type="1">
+<li><ol type="a">
+<li>abrir</li>
+<li>escribir</li>
+<li>morir</li>
+<li>poner</li>
+<li>ver</li>
+<li>imprimir</li>
+<li>hacer</li>
+<li>decir</li>
+</ol></li>
+</ol>
+</section>
+<section id="participios-irregulares-1" class="slide level2">
+<h2>Participios irregulares</h2>
+<ul>
+<li>Actividad: ¿Qué irregularidades demuestran los siguientes verbos?</li>
+</ul>
+<ol start="10" type="1">
+<li><ol type="a">
+<li>tener</li>
+<li>estar, dar</li>
+<li>ir, ser</li>
+<li>haber</li>
+</ol></li>
+</ol>
+</section>
+<section id="el-grado-de-los-adjetivos" class="slide level2">
+<h2>El grado de los adjetivos</h2>
+<ul>
+<li>Los adjetivos presentan tres grados</li>
+</ul>
+<ol start="11" type="1">
+<li><ol type="a">
+<li>largo <strong>→</strong> grado positivo<br>
+“long”
+<ol start="2" type="a">
+<li>más largo <strong>→</strong> grado comparativo<br>
+“longer”</li>
+<li>el más largo <strong>→</strong> grado superlativo<br>
+“longest”</li>
+</ol></li>
+</ol></li>
+</ol>
+</section>
+<section id="el-grado-de-los-adjetivos-1" class="slide level2">
+<h2>El grado de los adjetivos</h2>
+<ul>
+<li>-ísimo: “superlativo absoluto” o “intensivo” ~ muy</li>
+</ul>
+<ol start="12" type="1">
+<li><ol type="a">
+<li>larguísimo</li>
+<li>buenísimo *mejorisimo</li>
+<li>simpatiquísimo</li>
+</ol></li>
+</ol>
+<ul>
+<li>Adjetivos acabados en -ble <strong>→</strong> -bil</li>
+</ul>
+<ol start="12" type="1">
+<li><ol type="a">
+<li>amable <strong>→</strong> amabilísimo <strong>→</strong> amabilidad</li>
+<li>flexible <strong>→</strong> flexibilísimo <strong>→</strong> flexibilidad</li>
+<li>adorable <strong>→</strong> adorabilísimo <strong>→</strong> adorabilidad</li>
+</ol></li>
+</ol>
+</section>
+<section id="los-pronombres" class="slide level2">
+<h2>Los pronombres</h2>
+<ul>
+<li>En adición a número y persona, los pronombres se distinguen por caso. Lo que se ve en la tabla son formas etimológicas o normativas</li>
+</ul>
+</section>
+<section id="variación" class="slide level2">
+<h2>Variación</h2>
+<ul>
+<li><p>Los pronombres de tercera persona demuestran variación: leísmo (animado), laísmo y loísmo</p></li>
+<li><p>Los pronombres de segunda persona (n)formal usted/tú, vos/tú, y ustedes/vosotros/as</p></li>
+</ul>
+
+<div class="footer footer-default">
+
+</div>
+</section></section>
+    </div>
+  </div>
+
+  <script>window.backupDefine = window.define; window.define = undefined;</script>
+  <script src="site_libs/revealjs/dist/reveal.js"></script>
+  <!-- reveal.js plugins -->
+  <script src="site_libs/revealjs/plugin/quarto-line-highlight/line-highlight.js"></script>
+  <script src="site_libs/revealjs/plugin/pdf-export/pdfexport.js"></script>
+  <script src="site_libs/revealjs/plugin/reveal-menu/menu.js"></script>
+  <script src="site_libs/revealjs/plugin/reveal-menu/quarto-menu.js"></script>
+  <script src="site_libs/revealjs/plugin/quarto-support/support.js"></script>
+  
+
+  <script src="site_libs/revealjs/plugin/notes/notes.js"></script>
+  <script src="site_libs/revealjs/plugin/search/search.js"></script>
+  <script src="site_libs/revealjs/plugin/zoom/zoom.js"></script>
+  <script src="site_libs/revealjs/plugin/math/math.js"></script>
+  <script>window.define = window.backupDefine; window.backupDefine = undefined;</script>
+
+  <script>
+
+      // Full list of configuration options available at:
+      // https://revealjs.com/config/
+      Reveal.initialize({
+'controlsAuto': true,
+'previewLinksAuto': false,
+'smaller': false,
+'pdfSeparateFragments': false,
+'autoAnimateEasing': "ease",
+'autoAnimateDuration': 1,
+'autoAnimateUnmatched': true,
+'menu': {"side":"left","useTextContentForMissingTitles":true,"markers":false,"loadIcons":false,"custom":[{"title":"Tools","icon":"<i class=\"fas fa-gear\"></i>","content":"<ul class=\"slide-menu-items\">\n<li class=\"slide-tool-item active\" data-item=\"0\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.fullscreen(event)\"><kbd>f</kbd> Fullscreen</a></li>\n<li class=\"slide-tool-item\" data-item=\"1\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.speakerMode(event)\"><kbd>s</kbd> Speaker View</a></li>\n<li class=\"slide-tool-item\" data-item=\"2\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.overview(event)\"><kbd>o</kbd> Slide Overview</a></li>\n<li class=\"slide-tool-item\" data-item=\"3\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.togglePdfExport(event)\"><kbd>e</kbd> PDF Export Mode</a></li>\n<li class=\"slide-tool-item\" data-item=\"4\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.keyboardHelp(event)\"><kbd>?</kbd> Keyboard Help</a></li>\n</ul>"}],"openButton":true},
+'smaller': false,
+ 
+        // Display controls in the bottom right corner
+        controls: false,
+
+        // Help the user learn the controls by providing hints, for example by
+        // bouncing the down arrow when they first encounter a vertical slide
+        controlsTutorial: false,
+
+        // Determines where controls appear, "edges" or "bottom-right"
+        controlsLayout: 'edges',
+
+        // Visibility rule for backwards navigation arrows; "faded", "hidden"
+        // or "visible"
+        controlsBackArrows: 'faded',
+
+        // Display a presentation progress bar
+        progress: true,
+
+        // Display the page number of the current slide
+        slideNumber: 'c/t',
+
+        // 'all', 'print', or 'speaker'
+        showSlideNumber: 'all',
+
+        // Add the current slide number to the URL hash so that reloading the
+        // page/copying the URL will return you to the same slide
+        hash: true,
+
+        // Start with 1 for the hash rather than 0
+        hashOneBasedIndex: false,
+
+        // Flags if we should monitor the hash and change slides accordingly
+        respondToHashChanges: true,
+
+        // Push each slide change to the browser history
+        history: true,
+
+        // Enable keyboard shortcuts for navigation
+        keyboard: true,
+
+        // Enable the slide overview mode
+        overview: true,
+
+        // Disables the default reveal.js slide layout (scaling and centering)
+        // so that you can use custom CSS layout
+        disableLayout: false,
+
+        // Vertical centering of slides
+        center: false,
+
+        // Enables touch navigation on devices with touch input
+        touch: true,
+
+        // Loop the presentation
+        loop: false,
+
+        // Change the presentation direction to be RTL
+        rtl: false,
+
+        // see https://revealjs.com/vertical-slides/#navigation-mode
+        navigationMode: 'linear',
+
+        // Randomizes the order of slides each time the presentation loads
+        shuffle: false,
+
+        // Turns fragments on and off globally
+        fragments: true,
+
+        // Flags whether to include the current fragment in the URL,
+        // so that reloading brings you to the same fragment position
+        fragmentInURL: false,
+
+        // Flags if the presentation is running in an embedded mode,
+        // i.e. contained within a limited portion of the screen
+        embedded: false,
+
+        // Flags if we should show a help overlay when the questionmark
+        // key is pressed
+        help: true,
+
+        // Flags if it should be possible to pause the presentation (blackout)
+        pause: true,
+
+        // Flags if speaker notes should be visible to all viewers
+        showNotes: false,
+
+        // Global override for autoplaying embedded media (null/true/false)
+        autoPlayMedia: null,
+
+        // Global override for preloading lazy-loaded iframes (null/true/false)
+        preloadIframes: null,
+
+        // Number of milliseconds between automatically proceeding to the
+        // next slide, disabled when set to 0, this value can be overwritten
+        // by using a data-autoslide attribute on your slides
+        autoSlide: 0,
+
+        // Stop auto-sliding after user input
+        autoSlideStoppable: true,
+
+        // Use this method for navigation when auto-sliding
+        autoSlideMethod: null,
+
+        // Specify the average time in seconds that you think you will spend
+        // presenting each slide. This is used to show a pacing timer in the
+        // speaker view
+        defaultTiming: null,
+
+        // Enable slide navigation via mouse wheel
+        mouseWheel: false,
+
+        // The display mode that will be used to show slides
+        display: 'block',
+
+        // Hide cursor if inactive
+        hideInactiveCursor: true,
+
+        // Time before the cursor is hidden (in ms)
+        hideCursorTime: 5000,
+
+        // Opens links in an iframe preview overlay
+        previewLinks: false,
+
+        // Transition style (none/fade/slide/convex/concave/zoom)
+        transition: 'none',
+
+        // Transition speed (default/fast/slow)
+        transitionSpeed: 'default',
+
+        // Transition style for full page slide backgrounds
+        // (none/fade/slide/convex/concave/zoom)
+        backgroundTransition: 'none',
+
+        // Number of slides away from the current that are visible
+        viewDistance: 3,
+
+        // Number of slides away from the current that are visible on mobile
+        // devices. It is advisable to set this to a lower number than
+        // viewDistance in order to save resources.
+        mobileViewDistance: 2,
+
+        // The "normal" size of the presentation, aspect ratio will be preserved
+        // when the presentation is scaled to fit different resolutions. Can be
+        // specified using percentage units.
+        width: 1050,
+
+        height: 700,
+
+        // Factor of the display size that should remain empty around the content
+        margin: 0.1,
+
+        math: {
+          mathjax: 'https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js',
+          config: 'TeX-AMS_HTML-full',
+          tex2jax: {
+            inlineMath: [['\\(','\\)']],
+            displayMath: [['\\[','\\]']],
+            balanceBraces: true,
+            processEscapes: false,
+            processRefs: true,
+            processEnvironments: true,
+            preview: 'TeX',
+            skipTags: ['script','noscript','style','textarea','pre','code'],
+            ignoreClass: 'tex2jax_ignore',
+            processClass: 'tex2jax_process'
+          },
+        },
+
+        // reveal.js plugins
+        plugins: [QuartoLineHighlight, PdfExport, RevealMenu, QuartoSupport,
+
+          RevealMath,
+          RevealNotes,
+          RevealSearch,
+          RevealZoom
+        ]
+      });
+    </script>
+    <script id="quarto-html-after-body" type="application/javascript">
+    window.document.addEventListener("DOMContentLoaded", function (event) {
+      const toggleBodyColorMode = (bsSheetEl) => {
+        const mode = bsSheetEl.getAttribute("data-mode");
+        const bodyEl = window.document.querySelector("body");
+        if (mode === "dark") {
+          bodyEl.classList.add("quarto-dark");
+          bodyEl.classList.remove("quarto-light");
+        } else {
+          bodyEl.classList.add("quarto-light");
+          bodyEl.classList.remove("quarto-dark");
+        }
+      }
+      const toggleBodyColorPrimary = () => {
+        const bsSheetEl = window.document.querySelector("link#quarto-bootstrap");
+        if (bsSheetEl) {
+          toggleBodyColorMode(bsSheetEl);
+        }
+      }
+      toggleBodyColorPrimary();  
+      const tabsets =  window.document.querySelectorAll(".panel-tabset-tabby")
+      tabsets.forEach(function(tabset) {
+        const tabby = new Tabby('#' + tabset.id);
+      });
+      const isCodeAnnotation = (el) => {
+        for (const clz of el.classList) {
+          if (clz.startsWith('code-annotation-')) {                     
+            return true;
+          }
+        }
+        return false;
+      }
+      const clipboard = new window.ClipboardJS('.code-copy-button', {
+        text: function(trigger) {
+          const codeEl = trigger.previousElementSibling.cloneNode(true);
+          for (const childEl of codeEl.children) {
+            if (isCodeAnnotation(childEl)) {
+              childEl.remove();
+            }
+          }
+          return codeEl.innerText;
+        }
+      });
+      clipboard.on('success', function(e) {
+        // button target
+        const button = e.trigger;
+        // don't keep focus
+        button.blur();
+        // flash "checked"
+        button.classList.add('code-copy-button-checked');
+        var currentTitle = button.getAttribute("title");
+        button.setAttribute("title", "Copied!");
+        let tooltip;
+        if (window.bootstrap) {
+          button.setAttribute("data-bs-toggle", "tooltip");
+          button.setAttribute("data-bs-placement", "left");
+          button.setAttribute("data-bs-title", "Copied!");
+          tooltip = new bootstrap.Tooltip(button, 
+            { trigger: "manual", 
+              customClass: "code-copy-button-tooltip",
+              offset: [0, -8]});
+          tooltip.show();    
+        }
+        setTimeout(function() {
+          if (tooltip) {
+            tooltip.hide();
+            button.removeAttribute("data-bs-title");
+            button.removeAttribute("data-bs-toggle");
+            button.removeAttribute("data-bs-placement");
+          }
+          button.setAttribute("title", currentTitle);
+          button.classList.remove('code-copy-button-checked');
+        }, 1000);
+        // clear code selection
+        e.clearSelection();
+      });
+      function tippyHover(el, contentFn) {
+        const config = {
+          allowHTML: true,
+          content: contentFn,
+          maxWidth: 500,
+          delay: 100,
+          arrow: false,
+          appendTo: function(el) {
+              return el.closest('section.slide') || el.parentElement;
+          },
+          interactive: true,
+          interactiveBorder: 10,
+          theme: 'light-border',
+          placement: 'bottom-start'
+        };
+          config['offset'] = [0,0];
+          config['maxWidth'] = 700;
+        window.tippy(el, config); 
+      }
+      const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+      for (var i=0; i<noterefs.length; i++) {
+        const ref = noterefs[i];
+        tippyHover(ref, function() {
+          // use id or data attribute instead here
+          let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+          try { href = new URL(href).hash; } catch {}
+          const id = href.replace(/^#\/?/, "");
+          const note = window.document.getElementById(id);
+          return note.innerHTML;
+        });
+      }
+      const findCites = (el) => {
+        const parentEl = el.parentElement;
+        if (parentEl) {
+          const cites = parentEl.dataset.cites;
+          if (cites) {
+            return {
+              el,
+              cites: cites.split(' ')
+            };
+          } else {
+            return findCites(el.parentElement)
+          }
+        } else {
+          return undefined;
+        }
+      };
+      var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+      for (var i=0; i<bibliorefs.length; i++) {
+        const ref = bibliorefs[i];
+        const citeInfo = findCites(ref);
+        if (citeInfo) {
+          tippyHover(citeInfo.el, function() {
+            var popup = window.document.createElement('div');
+            citeInfo.cites.forEach(function(cite) {
+              var citeDiv = window.document.createElement('div');
+              citeDiv.classList.add('hanging-indent');
+              citeDiv.classList.add('csl-entry');
+              var biblioDiv = window.document.getElementById('ref-' + cite);
+              if (biblioDiv) {
+                citeDiv.innerHTML = biblioDiv.innerHTML;
+              }
+              popup.appendChild(citeDiv);
+            });
+            return popup.innerHTML;
+          });
+        }
+      }
+    });
+    </script>
+    
+
+</body></html>

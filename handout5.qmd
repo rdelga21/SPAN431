@@ -1,0 +1,333 @@
+---
+title: "Presentación 5 - La flexión nominal, adjetival y verbal"
+format:
+  revealjs:
+    slide-number: true
+---
+
+## El género de los sustantivos
+
+- **El género**: una propiedad inherente de los sustantivos que se manifiesta en la concordancia con adjetivos (y determinantes)
+    - **Masculino**: *zapato, césped, camión...  Juan, hombre, rey, niño*
+    - **Femenino**: *camisa, raíz, pared... 	   María, mujer, reina, niña*
+    
+## El género de los sustantivos
+
+- **Tres tendencias**:
+    - Sustantivos acabados en -o son casi todos masculinos. 
+	Excepciones: *la mano*.
+        - y abreviaciones: *la foto(grafía) o la moto(cicleta)*
+    - Sustantivos acabados en -a son casi todos femeninos.
+	Excepciones: el día, el poeta, el mapa
+        - y palabras de origen griego acabados en *-ma*: 
+			*el drama, el poema, el sintagma, el morfema*
+        - y sustantivos con *-ista* con referente humano: 
+			*el artista, la artista, la ciclista, el ciclista*
+			
+## El género de los sustantivos
+
+- **Tres tendencias**: 
+    - Sustantivos acabados en -e y consonante (los que no tiene sufijo flexivo): no hay regla:
+        - *el coche/la noche; el sol/la sal; el matiz/la nariz*
+        - Palabras derivadas acabadas en *-ez, -ción, -(i)dad y -tud* son 			femeninas
+        
+## Los pronombres, artículos y demostrativos
+
+|     Masculino      |          Femenino      |      Neutro          |
+|-----------|----------------|----------------|
+|    él   | ella | ello |
+| lo  | la | lo |
+| el | la | lo |
+| este   | esta | esto |
+| ese   | esa | eso | 
+| aquel | aquella | aquello |
+
+## Los pronombres, artículos y demostrativos
+
+- El neutro se usa para referir a ideas o conceptos, y a oraciones:
+	- Eso es.				
+	- Lo que digas.
+	
+## Los pronombres, artículos y demostrativos
+
+- Con adjetivos: *lo bueno de esto es*....
+- Con exclamativas: 	
+    - ¡Lo contentos que estaban todos!
+		- Ya verás lo antipática que es María
+		
+## El género no marcado del masculino
+
+- Con palabras que no tienen género, como las preposiciones y las conjunciones, se ve concordancia masculina
+	- no vengas con tantos peros
+	- tienes que añadir un "con" 
+
+- Se usa el masculino en nominalizaciones de verbos/oraciones
+	- Me encanta el cantar de los pájaros.
+	- El que me lo digas tu hace gracia.
+	
+## El género no marcado del masculino
+
+- En concordancia con palabras femeninas y masculinas, se usa las formas masculinas por defecto. 
+	- La mesa y el vaso largos
+
+- Tradicionalmente, se usa el masculino para referirse a grupos de personas cuando hay por lo menos un varón. 
+
+## El género de los adjetivos
+
+- No tienen género inherente. Concuerda en género con el sustantivo que modifican.
+
+- **Dos grupos importantes**: 
+    - los que acaban en -o (masculino) o -a (femenino): 
+        - frío/fría; guapo/guapa 
+    - los que acaban en -e o consonante (sin vocal flexiva) son iguales para masculino y femenino: 
+        - la casa grande/el carro grande; el libro azul/la mesa azul, etc.
+        
+## El número
+
+- La regla simplificada es: 
+    - a las palabras acabadas en vocal se le añade -s
+        - manos, tazas, cantantes
+    - a las palabras acabadas en consonante se le añade -es
+        - arboles, jardines, profesores
+        
+## El número
+
+- Palabras acabadas en -s
+    - lunes, miércoles, análisis, brindis, virus, mes, autobús
+    
+- Variación: palabras acabadas en -u/-i
+    - israelí, hindú, rubí, tribu, taxi, menú
+    
+- Variación: palabras acabadas en consonante
+    - robot, chef, bulldog, clip, fan (cf. pan)
+    - club, album, bol (cf. sol)
+    
+## La flexión verbal
+
+|  Palabra   |   Raíz    |     VT     | TAM | Número/Persona | 
+|------|-----------|--------|-------------|----------------|
+| ganar |	gan	|	a	|	r	|	∅ |
+| ganaríamos|	gan	|	a	|	ria	|	mos|
+|ganarían	|	gan	|	a	|	ria	|	n|
+|ganaría	|	gan	|	a	|	ria	|	∅|
+|ganaremos|	gan	|	a	|	re	|	mos|
+|ganáramos	|	gan	|	a	|	ra|		mos|
+| ganarán	|	gan	|	a	|	ra	|	n|
+|ganará	|	gan	|	a	|	ra	|	∅|
+
+## La flexión verbal
+
+|  Palabra   |   Raíz    |     VT     | TAM | Número/Persona | 
+|------|-----------|--------|-------------|----------------|
+| beber |	beb	|	e	|	r	|	∅ |
+| beberemos|	beb	|	e	|	re	|	mos|
+|beberán	|	beb	|	e	|	ra	|	n|
+|bebiéramos	|	beb	|	ie	|	ra	|	mos|
+|bebiera|	beb	|	ie	|	ra	|	∅|
+
+## La flexión verbal
+
+|  Palabra   |   Raíz    |     VT     | TAM | Número/Persona | 
+|------|-----------|--------|-------------|----------------|
+| ganaremos |	gan	|	a	|	re	|	mos |
+| ganaron|	gan	|	a	|	ro	|	n|
+|ganamos	|	gan	|	a	|	∅	|	mos|
+|ganan	|	gan	|	a	|	∅	|	n|
+|ganas|	gan	|	a	|	∅	|s|
+|gana	|	gan	|	a	|	∅|		∅|
+| ganaste	|	gan	|	a	|	∅	|	∅/s|
+|ganasteis	|	gan	|	a	|	∅	|	∅|
+
+## La flexión verbal
+
+|  Palabra   |   Raíz    |     VT     | TAM | Número/Persona | 
+|------|-----------|--------|-------------|----------------|
+| bebimos |	beb	|	i	|	∅ 	|	mos |
+| bebemos|	beb	|	e	|	∅ 	|	mos|
+|bebiste	|	beb	|	i	|	ste	|	∅/s|
+|bebisteis	|	beb	|	i	|	ste	|	is|
+|beben|	beb	|	e	|	∅	|	n|
+|bebieron|	beb	|	ie	|	ro	|	∅|
+
+
+## La flexión verbal
+
+|  Palabra   |   Raíz    |     VT     | TAM | Número/Persona | 
+|------|-----------|--------|-------------|----------------|
+| gano |	gan	|	∅	|	o	|	∅ |
+| bebo|	beb	|	∅	|	o	|	∅|
+|gané	|	gan	|	∅	|	e	|	∅|
+|bebí	|	beb	|	i	|	∅	|	∅|
+|bebiste|	beb	|	i	|	ste	|∅|
+|bebisteis	|	beb	|	ste	|	∅|		is|
+| ganó	|	gan	|	a	|	o	|	∅|
+|bebió	|	beb	|	a	|	o	|	∅|
+|bebieron	|	beb	|	a	|	ro	|	n|
+
+## La flexión verbal
+
+|  Palabra   |   Raíz    |     VT     | TAM | Número/Persona | 
+|------|-----------|--------|-------------|----------------|
+| ganar |	gan	|	a	|	r	|	∅ |
+| ganado|	gan	|	a	|	do	|	∅|
+|ganando	|	gan	|	a	|	ndo	|	∅|
+|beber	|	beb	|	e	|	r	|	∅|
+|bebido|	beb	|	i	|	do	|∅|
+|bebiendo	|	beb	|	ie	|ndo|		∅|
+
+# Los verbos irregulares, el grado de los adjetivos y los pronombres
+
+## Los verbos irregulares
+
+- Veremos que las irregularidades en los verbos en muchos casos se reducen a alomorfísmo en las raíces. 
+
+## Alternancia vocal media y diptongo
+
+- Diptongo: "dos" vocales en una sílaba
+
+(2)	a. No **encontr**é mis llaves. 	**→** 	[o] 	vocal media
+    b. No **encuentr**o mis llaves.	 	**→**	[ṷe]  	diptongo
+    
+(3)	a.	Las **perd**iste ayer.	**→** 	[e] 	vocal media
+    b.	Las **pierd**es siempre.	**→**	 [i̯e]  	diptongo 
+
+## Alternancia vocal media y diptongo
+
+|  Palabra   |   Raíz    |     VT     | TAM | Número/Persona | 
+|------|-----------|--------|-------------|----------------|
+| pensamos |	pens	|	a	|	∅	|	mos |
+| pensaron|	pens	|	a	|	ro	|	n|
+|piensan	|	piens	|	a	|	∅	|	n|
+|pienso	|	piens	|	∅	|	o	|	∅|
+|soñamos|	soñ	|	a	|	∅	|mos|
+|soñaron	|	soñ	|	a	|	ro|		n|
+| sueñan	|	sueñ	|	a	|	∅	|	n|
+|sueño	|	sueñ	|	∅	|	o	|	∅|
+
+## Alternancia vocal media y diptongo
+
+Pregunta: ¿Los verbos tener y venir siguen el mismo patrón? ¿Qué diferencias demuestran?
+
+## Alternancia vocal media y diptongo
+
+Pregunta: ¿Qué alternancias de raíz presentan los verbos jugar y adquirir? 
+
+## Alternancia vocal media y vocal alta
+
+- Verbos de la tercera conjugación cuyo infinitivo contiene [e] en la última silaba de la raíz varían entre [e] e [i]:
+
+- [e] aparece cuando la siguiente sílaba contiene [i], e [i] aparece con otra vocal o diptongo
+
+4)	a.	m**e**dimos, m**e**dían, m**e**diré, m**e**diste, m**e**dido, m**e**dí, m**e**dir
+    b.	m**i**do, m**i**den, m**i**des, m**i**dieron, m**i**diendo, m**i**dió, m**i**diera
+    
+(5)	a.	reír
+    b.	río
+
+## Alternancia vocal media, vocal alta/diptongo
+
+- Algunos verbos de la tercera conjugación presentan una alternancia que es la combinación de las dos anteriores
+
+- Diptongo, cuando la última silaba de la raíz lleva acento; Vocal media, cuando el acento cae sobre un sufijo y la siguiente sílaba contiene [i]; y Vocal alta en el resto de los casos.
+
+(6)	a.	miento, mientas, miente, mientan, mienta
+    b.	mentir, mentimos, mentí, mentirá, mentías
+    c.	mintiendo, mintió, mintieron, mintiéramos 
+
+## Alternancia vocal media, vocal alta/diptongo
+
+(7)	a.	muero
+    b.	morir
+    c.	muriendo
+
+## Los pretéritos fuertes
+
+- Pretéritos **rizotónicos** (acento en la raíz)
+
+I. Presentan alomorfo de la raíz en el pretérito y en el imperfecto de subjuntivo que es distinto al que aparece en infinitivo y presente de indicativo y otras formas. En contraste con formas regulares, en primer y tercera persona del singular, el acento recae sobre la raíz.
+
+(8)	tener, poner, saber, venir, hacer
+
+## Los pretéritos fuertes
+
+II. Presentan irregularidades en las terminaciones: toman (independientemente de su clase de conjugación): -e, -iste, -o, -imos, isteis, -ieron, 
+
+Pregunta: ¿Qué alternancias de raíz presentan los verbos traer, decir y conducir? 
+
+## Los futuros (y condicionales) irregulares 
+
+- Algunos verbos de la segunda conjugación carecen de VT y dentro de este grupo, algunos (que acaban en /l/ or /n/) presentan un consonante epentético, y algunos presentan un alomorfo contraído de la raíz. 
+
+## Los futuros (y condicionales) irregulares 
+
+|  Palabra   |  Incremento | Raíz    |     VT     | TAM | Número/Persona | 
+|------|-----------|--------|--------|-------------|----------------|
+| am |		|	a	|	ra/rí	|	s |
+| sab|		|		|	ra/ría	|	s|
+|sal	|	d  	|		|	ra/ría	|	s|
+|ven	|	d	|		|	ra/ría	|	s|
+|gan|		|	a	|	ra/ría	|s|
+|ha	|		|		|	ra/ría|		s|
+| di	|		|		|	ra/ría	|	s|
+|per	|		|	e	|	ra/ría	|	s|
+|quer	|		|		|	ra/ría	|	s|
+|hab	|		|		|	ra/ría	|	s|
+
+## Participios irregulares
+
+- Sufijos -to, -sto, -so, -cho añadidos directamente a la raíz sin VT y, muchas veces con otras irregularidades 
+
+(9)	a.	abrir
+    b.	escribir
+    c.	morir
+    d.	poner
+    e.	ver
+    f.	imprimir
+    g.	hacer
+    h.	decir
+
+## Participios irregulares
+
+- Actividad: ¿Qué irregularidades demuestran los siguientes verbos?
+
+(10) a. tener
+	   b. estar, dar
+     c.	ir, ser
+     d.	haber
+
+## El grado de los adjetivos
+
+- Los adjetivos presentan tres grados
+
+(11)	a.	largo			**→** grado positivo \
+		"long"
+    b.	más largo			**→** grado comparativo \
+		"longer"
+    c.	el más largo		**→** grado superlativo \
+		"longest"
+
+## El grado de los adjetivos
+
+- -ísimo: "superlativo absoluto" o "intensivo" ~ muy
+
+(12) a.	larguísimo
+     b.	buenísimo		*mejorisimo
+     c.	simpatiquísimo
+
+- Adjetivos acabados en -ble **→** -bil
+
+(12) a. amable 	**→** 	amabilísimo 	**→** 	amabilidad
+	   b.	flexible 	**→**	flexibilísimo	**→**	flexibilidad
+     c.	adorable	**→**	adorabilísimo	**→**	adorabilidad
+     
+## Los pronombres
+
+- En adición a número y persona, los pronombres se distinguen por caso. Lo que se ve en la tabla son formas etimológicas o normativas
+
+## Variación 
+
+- Los pronombres de tercera persona demuestran variación: leísmo (animado), laísmo y loísmo
+
+- Los pronombres de segunda persona (n)formal usted/tú, vos/tú, y ustedes/vosotros/as
+
+

@@ -1,6 +1,8 @@
 ---
 title: "Las entradas léxicas"
-format: revealjs
+format:
+  revealjs:
+    slide-number: true
 ---
 
 ## La entrada básica

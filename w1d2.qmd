@@ -1,6 +1,8 @@
 ---
 title: "Las unidades"
-format: revealjs
+format:
+  revealjs:
+    slide-number: true
 ---
 
 # Las unidades del análisis morfológico
