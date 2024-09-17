@@ -1,9 +1,0 @@
----
-title: "Semana 12 - Distributed Morphology"
----
-
-- Embick, D., & Noyer, R. (2007). Distributed morphology and the syntax—morphology interface.
-
-- Acquaviva, P. (2009). Roots and lexicality in Distributed Morphology. In Alexandra Galani, Daniel Redinger and Norman Yeo (eds.). YPL2-Issue 10 (May 2009) Special Issue-York-
-
-- Smith, Peter (forth) DM and Minimalism. The Cambridge Handbook of Distributed Morphology
