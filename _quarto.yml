@@ -32,6 +32,10 @@ website:
       - section: "Semana 3"
         contents:
         - handout5.qmd
+        - laderivacion.qmd
+      - section: "Semana 4"
+        contents: 
+        - handout9.qmd
 format:
   html:
     theme: cosmo

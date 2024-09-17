@@ -1,0 +1,155 @@
+---
+title: "La estructura"
+format:
+  revealjs:
+    slide-number: true
+---
+
+## La estructura jerárquica de la palabra
+
+- Las palabras tienen estructura interna, como las oraciones:
+
+(1)	a. Tocaron al oso con una rama. 	
+    b. tocaron [el oso con una rama]	**→**	"oso tiene la rama"
+    c. [tocaron [el oso] con una rama] **→**	"utilizaron la rama para tocarlo"
+    
+(2)	a.	inutilizable 				
+    b. 	[in [utilizable]] **→**	"que no puede ser utilizado"
+    c. 	[[inutil] izable] **→**	"que puede ser inutilizado"
+    
+## La estructura jerárquica de la palabra
+
+- La estructura implica que no hay línea secuencial de morfemas. 
+
+(3)	a.	inutilizable 	
+    b. *in + util + iz + a + ble
+
+    - Igual que las oraciónes
+
+## Las combinaciones de los morfemas
+
+- **La subcategorización**: La categoría que requiere de su base el afijo para combinarse. 
+
+(4)	a.	cazar **→**	 cazador				
+    b.	jugar **→**	 jugador			
+    c.	falso/a **→**	 *falsador
+    d.	clase **→** *clasedor
+    e. cosa **→**	 cosificar
+    f. clase **→** clasificar
+    
+(5)	a.	/dor/ **&harr;** N/Adj, subcategorización: V
+    b.	V + -dor **→** N/Adj
+
+## Las combinaciones de los morfemas
+
+(6)	a.	/ific/ **&harr;** V, subcategorización: N, Adj
+    b.	N/Adj + -ific **→** V
+    
+## Las combinaciones de los morfemas
+
+(7)	a.	clasificador 			
+    b.	falsificador	
+    
+(8)	a.	incansable
+    b.	premeditación
+    
+## Estructuras
+
+- **Núcleo morfológico**: El nudo más importante, el que determina la
+categoría de toda la palabra, y por lo tanto su distribución y el significado.
+
+## Estructuras
+
+(9) a. premeditación
+        
+        ![](premeditacion.png)
+        
+## Estructuras
+
+(10) a. incansable
+    
+        ![](incansable.png)
+        
+## Estructuras
+        
+(11) a. La inesperada premeditación llamaba la atención.
+     b. Ese joven es realmente incansable.
+     
+(12) a. *Yo premieditaciono todas las mañanas.
+     b. *Yo nunca (me) incansablo en los partidos.
+
+## La atomicidad de las estructuras morfológicas
+
+- La estructura interna es invisible a las operaciones sintácticas
+
+(13) a. *Yo premieditaciono todas las mañanas.
+     b. *Yo nunca (me) incansablo en los partidos.
+     
+(14) a. Un chico sordomudo.
+     b. *Unas chicas sordasmudas.
+     
+## La atomicidad de las estructuras morfológicas     
+
+- No se puedes modificar (por regla general).
+
+(15) a. *La inesperadamente premeditación....
+     b. Ese loco inesperadamente premeditaba...
+(16) a. *Ese joven es incansable mucho.
+     b. Ese joven no se cansa mucho.
+(17) a. Tengo un sacacorchos, que puede con corchos grandes.
+     b. *Tengo un sacagrandescorchos/sacacorchosgrandes.
+     
+## Refinando la representación
+
+- **Modificadores**: Hay segmentos en el análisis morfológico que no
+proyectan una categoría por sí: las vocales temáticas (VT) y los prefijos.
+
+![](handout91.png)
+
+## Refinando la representación
+
+- La representación refleja la subcategorización de los afijos.
+
+(20) a. /ción/ **&harr;** N, subcategorización: V
+     b. /ble/ **&harr;** Adj, subcategorización: V
+
+- **Una consecuencia**: La VT no convierte la raíz en verbo, que se espera ya que la VT es un marcador de clase morfológica de los verbos.
+    - En (19), el morfema *ific* verbaliza la raíz.
+    
+## Refinando la representación
+
+- **Una suposición**: Supongamos que la VT nunca convierte una raíz en
+verbo.
+- **La implicación**: Por lo tanto, tenemos que proponer un morfo cero para verbos simples.
+
+![](handout92.png)
+
+## Refinando la representación
+
+- **Consecuencia**: Nuestras representaciones de *premeditación* y
+*incansable*, (y *inutilizable* (las dos)), tienen que modificarse.
+
+![](handout93.png)
+
+## Refinando la representación
+
+- **Los prefijos**: Como la VT, los prefijos tampoco cambian la categoría y en este sentido *modifican*. 
+
+![](handout94.png)
+
+- Representa la estructura interna de las dos interpretaciones de
+inutilizable con nuestro refinamiento.
+
+## Refinando la representación
+
+- **Los sustantivos**: El género es marcador de clase morfológica.
+
+(26) a. El ruidoso cantar de los pájaros por la mañana me despierta.
+     b. El encontrar las llaves esta mañana fue poco emocionante.
+     
+## Refinando la representación
+
+(27) a. Le despertó el goteo de la pila.
+     b. El blanqueo de la portada del libro resulta feo.
+
+-  Representa la estructura interna de cantar en (26a) y goteo en (27a).

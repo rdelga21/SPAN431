@@ -1,0 +1,159 @@
+---
+title: "Las limitaciones"
+format:
+  revealjs:
+    slide-number: true
+---
+
+## Problemas de identificación
+
+- **Morfema**: Un segmento mínimo con significado mínimo que recurre.
+
+- Relación formal (de forma) y semántica (de significado) en la derivación
+
+(1) a. leer **→** releer
+    b. animar **→** animación
+    
+## Problemas de identificación
+    
+- En (2) solo hay una relación formal entre los pares, y en (3) solo hay
+una relación semántica
+
+(2) a. tener **→** retener
+    b. estar **→** estación
+    
+(3) a. oír **→** audición
+    b. varón **→** hembra
+    
+## Problemas de identificación
+
+- Hay una escala en el grado de discordancia en la relación formal y
+semántica entre las palabras:
+
+i. Palabras relacionadas formalmente con distintos grados de
+irregularidades en la relación semántica
+
+ii. Palabras relacionadas semánticamente con distintos grados de
+irregularidades en la relación formal
+
+## Relación formal con variabilidad en la relación semántica
+
+- sufijo *-miento*
+
+(4) a. plegamiento **→** "acción de V"
+    b. agotamiento **→** "acción o estado resultante de V"
+    c. alojamiento **→** "acción o lugar donde se realiza V"
+   
+## Relación formal con variabilidad en la relación semántica
+
+- sufijo *-ada*
+
+    (5) a. cabronada **→** "acto propio de N"
+        b. pedrada **→** "golpe dado con N"
+        c. torada **→** "colectivo de N"
+        d. cucharada **→** "cantidad determinada por N"
+
+## Relación semántica con variabilidad en la relación formal
+
+- Sufijos *-al* y *-ico* "relacionado con N"
+
+    (6) a. invierno **→** invernal
+        b. cuerpo **→** corporal
+        c. hermano **→** fraternal
+        
+    (7) a. mago **→** mágico
+        b. leche **→** láctico
+        c. juego **→** lúdico
+        
+## Relación semántica con variabilidad en la relación formal
+        
+- Misma relación semántica, pero sufijo distinto
+
+    (8) a. experimento **→** experimental
+        b. reglamento **→** reglamentario
+    (9) a. bobo **→** bobada
+        b. chulo **→** chulería
+
+## Nombres y adjetivos gentílicos
+
+(10) a. Málaga **→** malagueño
+     b. Boston **→** bostoniano
+     c. Chile **→** chileno
+     d. Argentina **→** argentino
+     e. Japón **→** japonés
+     
+## ¿Existen los morfemas?
+
+- Hay varias razones para dudar de la existencia de los morfemas:
+
+i. No siempre se puede aislar unidades segmentables que
+codifiquen parte del significado.
+ii. Los segmentos que aislamos no siempre tienen significado.
+iii. Los cambios fonológicos no siempre pueden analizarse como
+segmentos.    
+
+## ¿Existen los morfemas?
+
+- Los segmentos con mucha información
+
+    (11) a. (yo) canto **→** cant-o
+        b. Quiero que ella cante. **→** cant-e
+
+- Los segmentos sin información: los morfos cero
+
+(12) canto vs. canta
+(13) a. -o primera persona singular
+     b. nulo - presente
+     c. nulo - indicativo
+
+## ¿Existen los morfemas?
+
+- Sustitución (en vez de la adición) de un segmento
+
+    (14) a. tenemos
+         b. tuvimos 
+    (15) a. somos
+         b. fuimos
+    (16) a. vamos
+         b. fuimos
+
+## ¿Existen los morfemas?
+
+- Cambio categorial sin la adición de un segmento (explícito)
+
+(17) a. Yo encuentro...
+     b. El encuentro
+(18) a. Yo le abrigo a...
+     b. el abrigo
+    
+## ¿Existen los morfemas? 
+     
+- Exponencia extendida: ¿un segmento? ¿dos?
+
+(19) a. loco/a **→** enloquece
+     b. viejo/a **→** envejece
+     
+## ¿Existen los morfemas? 
+
+- Las palabras "cranberry"
+
+    (20) a. cranberry 
+         b. strawberry 
+         c. blackberry 
+         d. raspberry
+    (21) a. sustituir 
+         b. prostituir 
+         c. constituir 
+         d. destituir
+         
+## ¿Existen los morfemas? 
+
+(22) a. retener/contener 
+     b. reducir/conducir
+     c. recurrir/concurrir
+(23) a. conducir 
+     b. seducir 
+     c. traducir
+     d. inducir
+     e. producir
+     f. reducir
