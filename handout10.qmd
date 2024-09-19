@@ -1,0 +1,247 @@
+---
+title: "La palabra"
+format:
+  revealjs:
+    slide-number: true
+---
+
+## Una palabra
+
+- La morfología: el estudio de la palabra.
+
+- Pero: ¿Qué es una palabra? ¿Cómo se define?
+
+## Pena 1999
+
+- Parece una unidad de rango intermedio entre el morfema y el sintagma
+(la frase): Las frases consisten en palabras y las palabras consisten en
+morfemas.
+
+## Posible acercamiento 1: como unidad constituida de morfemas
+
+- i. Un orden fijo de morfemas: En contraste con las palabras dentro de la
+frase, los morfemas de una palabra tiene un orden fijo.
+    - Larg-a-s *largsa
+    
+- Pero: yo, tu, la
+
+## Posible acercamiento 1: como unidad constituida de morfemas
+
+- ii. No admite más que morfemas ligados:
+    - blanc-o; blanc-uzc-o; blanc-ot-e
+
+- Pero: parasol; sacacorches; hombrerana; sapoperra
+
+## Posible acercamiento 1: como unidad constituida de morfemas
+
+- iii. La inseparabilidad de morfemas ligados:
+    - \*cantaré y rás; \*estanca y pobrecimiento
+    
+- iv. No puede ser interrumpida en la conversación normal
+
+## Posible acercamiento 2: como unidad de las frases
+
+- i. Una definición clásica (por Bloomfield): a minimum free form, o sea
+que puede aparecer aislada en el habla constituyendo un enunciado.
+    - Juan, mesa, suyo
+    
+- Pero: la, a, de, con, su
+
+## Posible acercamiento 2: como unidad de las frases
+
+- ii. Posibilidad de cambiar la posición en la secuencia y de mantener
+distintas relaciones secuenciales con otros elementos
+    - Él siempre va a casa; Él va a casa siempre;
+Siempre va él a casa; A casa siempre va él
+
+- Pero: las casas **→** \*casas las; dos libros  **→** \*libros dos \
+estos mis otros libros **→** \*mis estos otros libros **→**
+\*otros estos mis libros
+
+## Posible acercamiento 2: como unidad de las frases
+
+- iii. La separabilidad: entre dos palabras es posible insertar otra u otras unidades.
+    - El niño es de Juanita; El hermoso niño es de Juanita;
+El niño que ve ahí es de mi hermana Juanita
+    - a casa; a tu casa; a la otra casa; a esta nueva casa
+
+- Pero: \*se lo siempre doy; \*voy a mañana comerlo    
+
+## Posible acercamiento 2: como unidad de las frases
+
+- iv. La pausa potencial: en la emisión de un enunciado, el hablante
+puede hacer una pausa antes y/o después de una palabra determinada.
+
+## Fábregas 2020
+
+- Posibles criterios para definir la palabra:
+
+- i. **Criterio ortográfico**: la palabra es una secuencia acotada por dos
+espacios en blanco en la escritura.
+    - Problema 1: Hay lenguas que no tienen escritura, por lo tanto esas lenguas no tendrían palabras.
+    - Problema 2: La secuencia 'se lo quiero decir' y 'quiero decírselo' tienen un numero disanto de palabras.
+
+## Fábregas 2020
+
+- ii. **Criterio fonológico**: una palabra es la unidad más pequeña que se
+puede pronunciar sola como una unidad continua y sin pausas.
+
+- Problema principal: No está claro que hay pausas entre las palabras
+al hablar.
+    - me he enterado del plan
+    - vas a ir?
+    
+## Fábregas 2020
+
+- iii. **Criterio semántico**: una palabra corresponde a un único concepto
+    - Juan desayunó. vs. Juan tomó el desayuno.
+    - Juan descansó. vs. Juan tomó un descanso.
+    - Juan mató las plantas. vs. Juan causó que las plantas murieran.
+    - La madre de Juan.
+    
+## Fábregas 2020
+
+- iv. Criterio léxico: una palabra es aquello que tiene una entrada única en nuestro léxico.
+    - Problema: los morfemas: -dor, -ción, etc.
+    
+## Fábregas 2020
+
+- Entonces: ¿Existe la palabra?
+
+  - Las teorías construccionistas: NO.
+
+  - Las teorías lexicalistas: SÍ
+  
+## El lugar de la morfología
+
+- Es útil recordar nuestra suposición sobre la "arquitectura de la
+facultad de la lengua"
+
+(1) \
+![](handout101.png)
+
+## El lugar de la morfología
+
+- Refleja la idea de que el lenguaje es un sistema que nos permite
+combinar unidades simples para formar elementos complejos que se
+materializan mediate sonidos (o gestos) y que contienen un significado
+determinado.
+
+- Dos teorías sobre el lugar de la morfología:
+    - el lexicalismo y el construccionismo
+    
+## El lexicalismo
+
+- Los supuestos:
+    - la morfología es autónoma, existe un componente morfológico
+que impone estructuras, restricciones y reglas
+    - el componente morfológico se ocupa de crear palabras y el
+componente sintáctico se ocupa de crear frases (sintagmas)
+    - el output del componente morfológico (las palabras) es el input al
+componente sintáctico
+
+## El lexicalismo
+
+![](handout102.png)
+
+## El lexicalismo
+
+- Tres propiedades principales
+
+- i. La morfología tiene sus propias reglas de combinaciones y sus
+propias unidades.
+
+(3) a. *Juan vio sol
+    b. un parasol
+    
+## El lexicalismo
+
+- ii. La morfología regula lo que "ve" la sintaxis y por lo tanto como lo trata la sintaxis **→** perspectiva endoesquelética
+
+(4) a. La jefa **clasificó** el objeto.
+    b. El objeto es difícilmente **clasificable**.
+    
+## El lexicalismo
+    
+- iii. La integridad léxica: la sintaxis no puede operar sobre la
+estructura interna de la palabras - son átomicas
+
+(5) a. Un chico sordomudo.
+    b. *Unas chicas sordasmudas.
+    
+(6) a. Compró unos corchos María.
+    b. ¿Qué compró ____ María?
+
+(7) a. Compró un sacacorchos María.
+    b. *¿Qué compró saca____ María?
+    
+## El construccionismo
+
+- El supuesto principal:
+
+- Solo hay un sistema combinatorio que crea tanto las palabras como las
+frases (los sintagmas). El mismo que crea sintagmas crea las palabras.
+
+## El construccionismo
+
+(8)\
+![](handout103.png)
+
+## El construccionismo
+
+- Por lo tanto:
+    - Las reglas combinatorias y las unidades manejadas son iguales para
+la morfología y la sintaxis.
+    - Las palabras no pueden ser distintas que los sintagmas, lo que
+implica que las palabras no existen como tal.
+
+- **Pregunta**: ¿Cómo se explican las propiedades asociadas con la
+integridad léxica?
+
+- **Respuesta**: Mediante explicaciones sintácticas, fonológicas y semánticas independientes.
+
+## El construccionismo
+
+- **Perspectiva exoesquelética**: La sintaxis define las propiedades de las
+palabras. Las palabras (o raíces) adquieren su esqueleto (categorial y
+más) en la sintaxis.
+
+(9) a. La jefa clasificó el objeto.
+    - es verbo porque así lo ha construido la sintaxis
+    b. El objeto es difícilmente clasificable.
+    - es adjetivo porque así lo ha construido la sintaxis
+    
+## Dos teorías construccionistas
+
+- La morfología distribuida (distributed morphology DM)
+
+- Hay un componente morfológico que adopta las estructuras formadas
+por la sintaxis y las puede reinterpretar.
+
+## Dos teorías construccionistas
+
+![](handout104.png)
+
+## DM
+
+![](dmstructure.png)
+
+## Unos ejemplos de "reajustes"
+
+(11) a. Dimos un regalo a Mario.
+     b. *Le lo dimos. 
+     c. Se lo dimos.
+
+## Unos ejemplos de "reajustes"
+     
+- **Importante**: Estos cambios NO afectan ni la sintaxis ni la semántica. Eso
+es una consecuencia de la arquitectura, es decir, que la morfología
+opera después de la sintaxis y en una rama distinta que la semántica.
+
+## La nanosintaxis
+
+- Una propiedad fundamental: la forma en que las estructuras
+sintácticas se relacionan con los segmentos fonológicos que las
+materializan y hacen posible su pronunciación.
+- Para poder entenderlo mejor, hace falta otros conceptos que
+veremos más adelante.

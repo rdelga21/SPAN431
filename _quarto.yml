@@ -36,6 +36,7 @@ website:
       - section: "Semana 4"
         contents: 
         - handout9.qmd
+        - handout10.qmd
 format:
   html:
     theme: cosmo
