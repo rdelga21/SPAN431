@@ -22,144 +22,148 @@ El semestre se divide en tres partes:
 
 -   La morfología más extendida – Lecturas - *Semanas 7 - final*
 
-+----------------+----------------------+----------------------+
-| **Semana**     | **Martes**           | **Jueves**           |
-+================+======================+======================+
-| Semana 1       | August 27\           | 29\                  |
-|                | Introducción al      | Las unidades del     |
-|                | curso                | análisis morfológico |
-|                |                      |                      |
-|                | -   Fábregas (2013): | -   Fabregas (2013): |
-|                |     17-27            |     35-46            |
-|                |                      |                      |
-|                |                      | -   Pena (1999):     |
-|                |                      |     4312-4318        |
-+----------------+----------------------+----------------------+
-| Semana 2       | September 3\         | 5\                   |
-|                | La alomorfía y el    | Las estradas         |
-|                | análisis morfológico | léxicas, la flexión  |
-|                |                      | nominal y\           |
-|                | -   Fábregas (2013): | la flexión verbal    |
-|                |     47-51            |                      |
-|                |                      | -   Fábregas (2013): |
-|                | -   Pena 1999:       |     64-69            |
-|                |     4346-4358        |                      |
-|                |                      | -   Hualde et al.    |
-|                |                      |     2010: 137-149    |
-|                |                      |                      |
-|                |                      | **Ejercicio 1**      |
-+----------------+----------------------+----------------------+
-| Semana 3       | 10\                  | 12\                  |
-|                | Los verbos           | La derivación, la    |
-|                | irregulares y el     | composición y otros  |
-|                | grado de los         | procesos             |
-|                | adjectivos y la      | morfológicos y       |
-|                | derivación (la       | limitaciones del     |
-|                | nominalización)      | análisis morfológico |
-|                |                      |                      |
-|                | -   Hualde et al.    | -   Hualde et al.    |
-|                |     (2010): 150-155, |     (2010): 178-196  |
-|                |     163-178          |                      |
-|                |                      | -   Pena (1999):     |
-|                |                      |     4358-4364        |
-+----------------+----------------------+----------------------+
-| Semana 4       | 17\                  | 19\                  |
-|                | La estructura        | La noción de         |
-|                | interna de la        | "palabra" y el lugar |
-|                | palabra              | de la morfología     |
-|                |                      |                      |
-|                | -   Fábregas (2013): | -   Pena (1999):     |
-|                |     73-105           |     4327-4329        |
-|                |                      |                      |
-|                |                      | -   Fábregas (2013): |
-|                |                      |     51-54            |
-|                |                      |                      |
-|                |                      | -   Fábregas (2013): |
-|                |                      |     27-31            |
-|                |                      |                      |
-|                |                      | **Ejercicio 2**      |
-+----------------+----------------------+----------------------+
-| Semana 5       | 24\                  | 26\                  |
-|                | Morfofonología y     | La flexión y su      |
-|                | morfosintaxis        | análisis             |
-|                |                      |                      |
-|                | -   Fábregas (2013): | -   Fábregas (2013): |
-|                |     109-143          |     175-209          |
-+----------------+----------------------+----------------------+
-| Semana 6       | October 1\           | 3\                   |
-|                | La derivación y su   | La composición y su  |
-|                | análisis             | análisis             |
-|                |                      |                      |
-|                | -   Fábregas (2013): | -   Fábregas (2013): |
-|                |     211-244          |     247-276          |
-|                |                      |                      |
-|                |                      | **Ejercicio 3**      |
-+----------------+----------------------+----------------------+
-| Semana 7       | 8\                   | 10\                  |
-|                | Presentación de      | Presentación de      |
-|                | artículo             | artículo             |
-|                |                      |                      |
-|                | -   Rodrigo          | -   Rodrigo          |
-+----------------+----------------------+----------------------+
-| Semana 8       | 15                   | 17                   |
-|                |                      |                      |
-|                | -   Student          | -   Student          |
-|                |     presentation     |     presentation     |
-|                |                      |                      |
-|                | **Variation**        | **Variation**        |
-|                |                      |                      |
-|                |                      | \                    |
-|                |                      | **Ejercicio 4**      |
-+----------------+----------------------+----------------------+
-| Semana 9       | 22                   | 24                   |
-|                |                      |                      |
-|                | -   Student          | -   Student          |
-|                |     presentation     |     presentation     |
-|                |                      |                      |
-|                | **Child              | **Child              |
-|                | acquisition**        | acquisition**        |
-+----------------+----------------------+----------------------+
-| Semana 10      | 29                   | 31                   |
-|                |                      |                      |
-|                | -   Student          | -   Student          |
-|                |     presentation     |     presentation     |
-|                |                      |                      |
-|                | **Sociolinguistics** | **Sociolinguistics** |
-|                |                      |                      |
-|                |                      | **Ejercicio 5**      |
-+----------------+----------------------+----------------------+
-| Semana 11      | November 5           | 7                    |
-|                |                      |                      |
-|                | -   Student          | -   Student          |
-|                |     presentation     |     presentation     |
-|                |                      |                      |
-|                | **Heritage           | **Heritage           |
-|                | speakers**           | speakers**           |
-+----------------+----------------------+----------------------+
-| Semana 12      | 12                   | 14                   |
-|                |                      |                      |
-|                | -   Student          | -   Student          |
-|                |     presentation     |     presentation     |
-|                |                      |                      |
-|                | **Distributed        | **Distributed        |
-|                | Morphology**         | Morphology**         |
-|                |                      |                      |
-|                |                      | **Ejercicio 6**      |
-+----------------+----------------------+----------------------+
-| Semana 13      | 19                   | 21                   |
-|                |                      |                      |
-|                | -   Student          | -   Student          |
-|                |     presentation     |     presentation     |
-|                |                      |                      |
-|                | **Code-switching**   | **Code-switching**   |
-+----------------+----------------------+----------------------+
-| **Fall break** | **Fall break**       | **Fall break**       |
-+----------------+----------------------+----------------------+
-| Semana 14      | December 3\          | 5\                   |
-|                | Presentación del     | Presentación del     |
-|                | trabajo final        | trabajo final        |
-+----------------+----------------------+----------------------+
-| Semana 15      | 10\                  | 12\                  |
-|                | Presentación del     | **Reading day** (no  |
-|                | trabajo final        | hay clase)           |
-+----------------+----------------------+----------------------+
++----------------+---------------------+---------------------+
+| **Semana**     | **Martes**          | **Jueves**          |
++================+=====================+=====================+
+| Semana 1       | August 27\          | 29\                 |
+|                | Introducción al     | Las unidades del    |
+|                | curso               | análisis            |
+|                |                     | morfológico         |
+|                | -   Fábregas        |                     |
+|                |     (2013): 17-27   | -   Fabregas        |
+|                |                     |     (2013): 35-46   |
+|                |                     |                     |
+|                |                     | -   Pena (1999):    |
+|                |                     |     4312-4318       |
++----------------+---------------------+---------------------+
+| Semana 2       | September 3\        | 5\                  |
+|                | La alomorfía y el   | Las estradas        |
+|                | análisis            | léxicas, la flexión |
+|                | morfológico         | nominal y\          |
+|                |                     | la flexión verbal   |
+|                | -   Fábregas        |                     |
+|                |     (2013): 47-51   | -   Fábregas        |
+|                |                     |     (2013): 64-69   |
+|                | -   Pena 1999:      |                     |
+|                |     4346-4358       | -   Hualde et al.   |
+|                |                     |     2010: 137-149   |
+|                |                     |                     |
+|                |                     | **Ejercicio 1**     |
++----------------+---------------------+---------------------+
+| Semana 3       | 10\                 | 12\                 |
+|                | Los verbos          | La derivación, la   |
+|                | irregulares y el    | composición y otros |
+|                | grado de los        | procesos            |
+|                | adjectivos y la     | morfológicos y      |
+|                | derivación (la      | limitaciones del    |
+|                | nominalización)     | análisis            |
+|                |                     | morfológico         |
+|                | -   Hualde et al.   |                     |
+|                |     (2010):         | -   Hualde et al.   |
+|                |     150-155,        |     (2010): 178-196 |
+|                |     163-178         |                     |
+|                |                     | -   Pena (1999):    |
+|                |                     |     4358-4364       |
++----------------+---------------------+---------------------+
+| Semana 4       | 17\                 | 19\                 |
+|                | La estructura       | La noción de        |
+|                | interna de la       | "palabra" y el      |
+|                | palabra             | lugar de la         |
+|                |                     | morfología          |
+|                | -   Fábregas        |                     |
+|                |     (2013): 73-105  | -   Pena (1999):    |
+|                |                     |     4327-4329       |
+|                |                     |                     |
+|                |                     | -   Fábregas        |
+|                |                     |     (2013): 51-54   |
+|                |                     |                     |
+|                |                     | -   Fábregas        |
+|                |                     |     (2013): 27-31   |
+|                |                     |                     |
+|                |                     | **Ejercicio 2**     |
++----------------+---------------------+---------------------+
+| Semana 5       | 24\                 | 26\                 |
+|                | Morfofonología y    | La flexión y su     |
+|                | morfosintaxis       | análisis            |
+|                |                     |                     |
+|                | -   Fábregas        | -   Fábregas        |
+|                |     (2013): 109-143 |     (2013): 175-209 |
++----------------+---------------------+---------------------+
+| Semana 6       | October 1\          | 3\                  |
+|                | La derivación y su  | La composición y su |
+|                | análisis            | análisis            |
+|                |                     |                     |
+|                | -   Fábregas        | -   Fábregas        |
+|                |     (2013): 211-244 |     (2013): 247-276 |
+|                |                     |                     |
+|                |                     | **Ejercicio 3**     |
++----------------+---------------------+---------------------+
+| Semana 7       | 8\                  | 10\                 |
+|                | Presentación de     | Presentación de     |
+|                | artículo            | artículo            |
+|                |                     |                     |
+|                | -   Rodrigo         | -   Rodrigo         |
++----------------+---------------------+---------------------+
+| Semana 8       | 15                  | 17                  |
+|                |                     |                     |
+|                | -   Student         | -   Student         |
+|                |     presentation    |     presentation    |
+|                |                     |                     |
+|                | **Variation**       | **Variation**       |
+|                |                     |                     |
+|                |                     | \                   |
+|                |                     | **Ejercicio 4**     |
++----------------+---------------------+---------------------+
+| Semana 9       | 22                  | 24                  |
+|                |                     |                     |
+|                | -   Student         | -   Student         |
+|                |     presentation    |     presentation    |
+|                |                     |                     |
+|                | **Child             | **Child             |
+|                | acquisition**       | acquisition**       |
++----------------+---------------------+---------------------+
+| Semana 10      | 29                  | 31                  |
+|                |                     |                     |
+|                | -   Student         | -   Student         |
+|                |     presentation    |     presentation    |
+|                |                     |                     |
+|                | *                   | *                   |
+|                | *Sociolinguistics** | *Sociolinguistics** |
+|                |                     |                     |
+|                |                     | **Ejercicio 5**     |
++----------------+---------------------+---------------------+
+| Semana 11      | November 5          | 7                   |
+|                |                     |                     |
+|                | -   Student         | -   Student         |
+|                |     presentation    |     presentation    |
+|                |                     |                     |
+|                | **Heritage          | **Heritage          |
+|                | speakers**          | speakers**          |
++----------------+---------------------+---------------------+
+| Semana 12      | 12                  | 14                  |
+|                |                     |                     |
+|                | -   Student         | -   Student         |
+|                |     presentation    |     presentation    |
+|                |                     |                     |
+|                | **Distributed       | **Distributed       |
+|                | Morphology**        | Morphology**        |
+|                |                     |                     |
+|                |                     | **Ejercicio 6**     |
++----------------+---------------------+---------------------+
+| Semana 13      | 19                  | 21                  |
+|                |                     |                     |
+|                | -   Student         | -   Student         |
+|                |     presentation    |     presentation    |
+|                |                     |                     |
+|                | **Code-switching**  | **Code-switching**  |
++----------------+---------------------+---------------------+
+| **Fall break** | **Fall break**      | **Fall break**      |
++----------------+---------------------+---------------------+
+| Semana 14      | December 3\         | 5\                  |
+|                | **Conferencia - No  | **Conferencia - No  |
+|                | hay clase**         | hay clase**         |
++----------------+---------------------+---------------------+
+| Semana 15      | 10\                 | 12\                 |
+|                | Presentación del    | **Reading day** (no |
+|                | trabajo final       | hay clase)          |
++----------------+---------------------+---------------------+

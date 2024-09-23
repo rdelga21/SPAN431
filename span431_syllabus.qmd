@@ -46,11 +46,11 @@ format:
 3. Investigación final: **40%**
 - Sobre un fenomeno morfológico del español.
 - Incluye: 
-    - Abstract del trabajo de 2 páginas (5%)
-    - Análisis crítico de un artículo del trabajo final (10%)
+    - Abstract del trabajo de 2 páginas (5%) (**Octubre 24**)
+    - Análisis crítico de un artículo del trabajo final (10%) (**Noviembre 7**)
         - El artículo escogido debe ser aprovado por el profesor
     - Presentación del trabajo final (10%)
-    - El paper final de &pm;15 páginas, doble espacio (15%)
+    - El paper final de &pm;15 páginas, doble espacio (15%) (**Diciembre 13**)
   
 4. Asistencia: **5%**
 
