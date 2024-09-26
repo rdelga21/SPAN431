@@ -40,6 +40,7 @@ website:
       - section: "Semana 5"
         contents: 
         - handou11.qmd
+        - handout12.qmd
 format:
   html:
     theme: cosmo
