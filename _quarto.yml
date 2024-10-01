@@ -41,6 +41,9 @@ website:
         contents: 
         - handou11.qmd
         - handout12.qmd
+      - section: "Semana 6"
+        contents: 
+        - handout13.qmd
 format:
   html:
     theme: cosmo
