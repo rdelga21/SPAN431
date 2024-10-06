@@ -7,53 +7,977 @@
     "text": "It appears you don't have a PDF plugin for this browser.\n    No biggie... you can click here to\n    download the PDF file."
   },
   {
-    "objectID": "articles.html",
-    "href": "articles.html",
-    "title": "Articles",
+    "objectID": "fabregas_gallegos_2014.html",
+    "href": "fabregas_gallegos_2014.html",
+    "title": "Fabregas & Gallego (2014)",
     "section": "",
-    "text": "Gutiérrez-Rexach, J., & Sessarego, S. (2014). Morphosyntactic variation and gender agreement in three Afro-Andean dialects. Lingua, 151, 142-161.\nNavarro, Í., & Espinal, M. T. (2012). Le-predicates and event modification in Mexican Spanish. Lingua, 122(4), 409-431."
+    "text": "It appears you don't have a PDF plugin for this browser.\n    No biggie... you can click here to\n    download the PDF file."
   },
   {
-    "objectID": "articles.html#semana-8---variation",
-    "href": "articles.html#semana-8---variation",
-    "title": "Articles",
+    "objectID": "handout4.html#la-entrada-básica",
+    "href": "handout4.html#la-entrada-básica",
+    "title": "Las entradas léxicas",
+    "section": "La entrada básica",
+    "text": "La entrada básica\n\nLa entrada léxica: un emparejamiento de una forma fonémica y un significado; también se le añade una categoría (léxica/sintáctica). Son tripletes de información.\n\n\n/león/ ↔︎ felino, rey de la jungla, N\n\n\nPuede haber información gramatical, sin significado, como la Vocal Temática de un verbo, como en (2)\n\n\n/a/ ↔︎ primera conjugación"
+  },
+  {
+    "objectID": "handout4.html#la-entrada-básica-1",
+    "href": "handout4.html#la-entrada-básica-1",
+    "title": "Las entradas léxicas",
+    "section": "La entrada básica",
+    "text": "La entrada básica\n\nMorfema léxico: Morfema que contienen significado (sustancial, conceptual del mundo), como león en (1).\nMorfema gramatical: Morfema que NO contienen significado (sustancial, conceptual del mundo), pero sí aporta información morfosintáctica, como a en (2).\n\n\n\nganador\nganan\nganamos"
+  },
+  {
+    "objectID": "handout4.html#qué-más-contienen-las-entradas-léxicas",
+    "href": "handout4.html#qué-más-contienen-las-entradas-léxicas",
+    "title": "Las entradas léxicas",
+    "section": "¿Qué más contienen las entradas léxicas?",
+    "text": "¿Qué más contienen las entradas léxicas?\n\nAparte del significado, la fonología y la categoría, todo lo que hay que memorizar sobre una palabra forma para de la entrada léxica, las connotaciones, usos únicos/especiales, etc."
+  },
+  {
+    "objectID": "handout4.html#el-contexto-morfosintáctico-del-uso",
+    "href": "handout4.html#el-contexto-morfosintáctico-del-uso",
+    "title": "Las entradas léxicas",
+    "section": "El contexto morfosintáctico del uso",
+    "text": "El contexto morfosintáctico del uso\n\nEn muchos casos, hace falta representar el contexto en que se usa.\n\n\n\nganaba\n∅ ↔︎ 1a sg.\n∅ ↔︎ 1a sg.\n        /-ba__\n*yo gana"
+  },
+  {
+    "objectID": "handout4.html#el-contexto-morfosintáctico-del-uso-1",
+    "href": "handout4.html#el-contexto-morfosintáctico-del-uso-1",
+    "title": "Las entradas léxicas",
+    "section": "El contexto morfosintáctico del uso",
+    "text": "El contexto morfosintáctico del uso\n\n\nganábamos\nganáramos\nganamos\n∅ ↔︎ TAM: pretérito\n      /-a__mos"
+  },
+  {
+    "objectID": "handout4.html#la-información-gramatical-de-la-base-de-un-afijo",
+    "href": "handout4.html#la-información-gramatical-de-la-base-de-un-afijo",
+    "title": "Las entradas léxicas",
+    "section": "La información gramatical de la base de un afijo",
+    "text": "La información gramatical de la base de un afijo\n\nMuchos piensan que la categoría de la base con que combina un afijo forma parte de la entrada léxica.\nSubcategorización: La categoría que requiere de su base el afijo para combinarse."
+  },
+  {
+    "objectID": "handout4.html#la-información-gramatical-de-la-base-de-un-afijo-1",
+    "href": "handout4.html#la-información-gramatical-de-la-base-de-un-afijo-1",
+    "title": "Las entradas léxicas",
+    "section": "La información gramatical de la base de un afijo",
+    "text": "La información gramatical de la base de un afijo\n\n\ncazar → cazador\njugar → jugador\nalto/a → *altador\nmesa → *mesador\n\n/dor/ ↔︎ N, subcategorización: V\n“agente de X”"
+  },
+  {
+    "objectID": "handout4.html#la-información-gramatical-de-la-base-de-un-afijo-2",
+    "href": "handout4.html#la-información-gramatical-de-la-base-de-un-afijo-2",
+    "title": "Las entradas léxicas",
+    "section": "La información gramatical de la base de un afijo",
+    "text": "La información gramatical de la base de un afijo\n\n\naceite\naceitoso\namor\namoroso\nfuria\nfurioso\nespacio\nespacioso"
+  },
+  {
+    "objectID": "handout4.html#información-puramente-morfológico",
+    "href": "handout4.html#información-puramente-morfológico",
+    "title": "Las entradas léxicas",
+    "section": "Información puramente morfológico",
+    "text": "Información puramente morfológico\n\nLa posición relativa a la base/raíz que toma un afijo.\n\n\nCIÓN ↔︎ N, subcategorización: V\n            “acción o efecto de”\n            [sufijo]\n            -ión/s_\n            -ción/el resto de casos\n/re/ ↔︎ V, subcategorización: V\n            “hacer X otra vez”\n            [prefijo]"
+  },
+  {
+    "objectID": "handout4.html#las-raíces",
+    "href": "handout4.html#las-raíces",
+    "title": "Las entradas léxicas",
+    "section": "Las raíces",
+    "text": "Las raíces\n\nPuede faltar la forma fonémica (morfo cero); puede faltar el significado conceptual del mundo (en la vocal temática)\n¿Puede faltar la información gramatical? Para la Morfología Distribuida sí, la información gramatical puede faltar en las raíces."
+  },
+  {
+    "objectID": "handout4.html#las-raíces-1",
+    "href": "handout4.html#las-raíces-1",
+    "title": "Las entradas léxicas",
+    "section": "Las raíces",
+    "text": "Las raíces\n\n/grit/ ↔︎ “relacionados con sonidos muy fuertes”\n\n[[grit]-a]V “producir sonidos muy fuertes”\n[[grit]-o]N “acción o efecto de producir sonidos muy fuertes”"
+  },
+  {
+    "objectID": "handout4.html#las-raíces-2",
+    "href": "handout4.html#las-raíces-2",
+    "title": "Las entradas léxicas",
+    "section": "Las raíces",
+    "text": "Las raíces\n\n\nabrazar\nacomodar\n/braz/ ↔︎ “relacionado con apéndices del torso”\n/comod/ ↔︎ “relacionado con el bienestar”\n\n\n[[braz]-o]N “apéndice del torso”\n[[cómod]-o/a]Adj “propiedad del bienestar”\n\n\n[a-[braz]-a]V “envolver con apéndices del torso”\n[a-[comod]-a]V “lograr el bienestar”"
+  },
+  {
+    "objectID": "handout10.html#una-palabra",
+    "href": "handout10.html#una-palabra",
+    "title": "La palabra",
+    "section": "Una palabra",
+    "text": "Una palabra\n\nLa morfología: el estudio de la palabra.\nPero: ¿Qué es una palabra? ¿Cómo se define?"
+  },
+  {
+    "objectID": "handout10.html#pena-1999",
+    "href": "handout10.html#pena-1999",
+    "title": "La palabra",
+    "section": "Pena 1999",
+    "text": "Pena 1999\n\nParece una unidad de rango intermedio entre el morfema y el sintagma (la frase): Las frases consisten en palabras y las palabras consisten en morfemas."
+  },
+  {
+    "objectID": "handout10.html#posible-acercamiento-1-como-unidad-constituida-de-morfemas",
+    "href": "handout10.html#posible-acercamiento-1-como-unidad-constituida-de-morfemas",
+    "title": "La palabra",
+    "section": "Posible acercamiento 1: como unidad constituida de morfemas",
+    "text": "Posible acercamiento 1: como unidad constituida de morfemas\n\n\nUn orden fijo de morfemas: En contraste con las palabras dentro de la frase, los morfemas de una palabra tiene un orden fijo.\n\n\nLarg-a-s *largsa\n\nPero: yo, tu, la"
+  },
+  {
+    "objectID": "handout10.html#posible-acercamiento-1-como-unidad-constituida-de-morfemas-1",
+    "href": "handout10.html#posible-acercamiento-1-como-unidad-constituida-de-morfemas-1",
+    "title": "La palabra",
+    "section": "Posible acercamiento 1: como unidad constituida de morfemas",
+    "text": "Posible acercamiento 1: como unidad constituida de morfemas\n\n\nNo admite más que morfemas ligados:\n\n\nblanc-o; blanc-uzc-o; blanc-ot-e\n\nPero: parasol; sacacorches; hombrerana; sapoperra"
+  },
+  {
+    "objectID": "handout10.html#posible-acercamiento-1-como-unidad-constituida-de-morfemas-2",
+    "href": "handout10.html#posible-acercamiento-1-como-unidad-constituida-de-morfemas-2",
+    "title": "La palabra",
+    "section": "Posible acercamiento 1: como unidad constituida de morfemas",
+    "text": "Posible acercamiento 1: como unidad constituida de morfemas\n\n\nLa inseparabilidad de morfemas ligados:\n\n\n*cantaré y rás; *estanca y pobrecimiento\n\n\nNo puede ser interrumpida en la conversación normal"
+  },
+  {
+    "objectID": "handout10.html#posible-acercamiento-2-como-unidad-de-las-frases",
+    "href": "handout10.html#posible-acercamiento-2-como-unidad-de-las-frases",
+    "title": "La palabra",
+    "section": "Posible acercamiento 2: como unidad de las frases",
+    "text": "Posible acercamiento 2: como unidad de las frases\n\n\nUna definición clásica (por Bloomfield): a minimum free form, o sea que puede aparecer aislada en el habla constituyendo un enunciado.\n\n\nJuan, mesa, suyo\n\nPero: la, a, de, con, su"
+  },
+  {
+    "objectID": "handout10.html#posible-acercamiento-2-como-unidad-de-las-frases-1",
+    "href": "handout10.html#posible-acercamiento-2-como-unidad-de-las-frases-1",
+    "title": "La palabra",
+    "section": "Posible acercamiento 2: como unidad de las frases",
+    "text": "Posible acercamiento 2: como unidad de las frases\n\n\nPosibilidad de cambiar la posición en la secuencia y de mantener distintas relaciones secuenciales con otros elementos\n\n\nÉl siempre va a casa; Él va a casa siempre; Siempre va él a casa; A casa siempre va él\n\nPero: las casas → *casas las; dos libros → *libros dos\nestos mis otros libros → *mis estos otros libros → *otros estos mis libros"
+  },
+  {
+    "objectID": "handout10.html#posible-acercamiento-2-como-unidad-de-las-frases-2",
+    "href": "handout10.html#posible-acercamiento-2-como-unidad-de-las-frases-2",
+    "title": "La palabra",
+    "section": "Posible acercamiento 2: como unidad de las frases",
+    "text": "Posible acercamiento 2: como unidad de las frases\n\n\nLa separabilidad: entre dos palabras es posible insertar otra u otras unidades.\n\n\nEl niño es de Juanita; El hermoso niño es de Juanita; El niño que ve ahí es de mi hermana Juanita\na casa; a tu casa; a la otra casa; a esta nueva casa\n\nPero: *se lo siempre doy; *voy a mañana comerlo"
+  },
+  {
+    "objectID": "handout10.html#posible-acercamiento-2-como-unidad-de-las-frases-3",
+    "href": "handout10.html#posible-acercamiento-2-como-unidad-de-las-frases-3",
+    "title": "La palabra",
+    "section": "Posible acercamiento 2: como unidad de las frases",
+    "text": "Posible acercamiento 2: como unidad de las frases\n\n\nLa pausa potencial: en la emisión de un enunciado, el hablante puede hacer una pausa antes y/o después de una palabra determinada."
+  },
+  {
+    "objectID": "handout10.html#fábregas-2020",
+    "href": "handout10.html#fábregas-2020",
+    "title": "La palabra",
+    "section": "Fábregas 2020",
+    "text": "Fábregas 2020\n\nPosibles criterios para definir la palabra:\n\nCriterio ortográfico: la palabra es una secuencia acotada por dos espacios en blanco en la escritura.\n\n\nProblema 1: Hay lenguas que no tienen escritura, por lo tanto esas lenguas no tendrían palabras.\nProblema 2: La secuencia ‘se lo quiero decir’ y ‘quiero decírselo’ tienen un numero disanto de palabras."
+  },
+  {
+    "objectID": "handout10.html#fábregas-2020-1",
+    "href": "handout10.html#fábregas-2020-1",
+    "title": "La palabra",
+    "section": "Fábregas 2020",
+    "text": "Fábregas 2020\n\n\nCriterio fonológico: una palabra es la unidad más pequeña que se puede pronunciar sola como una unidad continua y sin pausas.\n\nProblema principal: No está claro que hay pausas entre las palabras al hablar.\n\nme he enterado del plan\nvas a ir?"
+  },
+  {
+    "objectID": "handout10.html#fábregas-2020-2",
+    "href": "handout10.html#fábregas-2020-2",
+    "title": "La palabra",
+    "section": "Fábregas 2020",
+    "text": "Fábregas 2020\n\n\nCriterio semántico: una palabra corresponde a un único concepto\n\n\nJuan desayunó. vs. Juan tomó el desayuno.\nJuan descansó. vs. Juan tomó un descanso.\nJuan mató las plantas. vs. Juan causó que las plantas murieran.\nLa madre de Juan."
+  },
+  {
+    "objectID": "handout10.html#fábregas-2020-3",
+    "href": "handout10.html#fábregas-2020-3",
+    "title": "La palabra",
+    "section": "Fábregas 2020",
+    "text": "Fábregas 2020\n\n\nCriterio léxico: una palabra es aquello que tiene una entrada única en nuestro léxico.\n\n\nProblema: los morfemas: -dor, -ción, etc."
+  },
+  {
+    "objectID": "handout10.html#fábregas-2020-4",
+    "href": "handout10.html#fábregas-2020-4",
+    "title": "La palabra",
+    "section": "Fábregas 2020",
+    "text": "Fábregas 2020\n\nEntonces: ¿Existe la palabra?\n\nLas teorías construccionistas: NO.\nLas teorías lexicalistas: SÍ"
+  },
+  {
+    "objectID": "handout10.html#el-lugar-de-la-morfología",
+    "href": "handout10.html#el-lugar-de-la-morfología",
+    "title": "La palabra",
+    "section": "El lugar de la morfología",
+    "text": "El lugar de la morfología\n\nEs útil recordar nuestra suposición sobre la “arquitectura de la facultad de la lengua”"
+  },
+  {
+    "objectID": "handout10.html#el-lugar-de-la-morfología-1",
+    "href": "handout10.html#el-lugar-de-la-morfología-1",
+    "title": "La palabra",
+    "section": "El lugar de la morfología",
+    "text": "El lugar de la morfología\n\nRefleja la idea de que el lenguaje es un sistema que nos permite combinar unidades simples para formar elementos complejos que se materializan mediate sonidos (o gestos) y que contienen un significado determinado.\nDos teorías sobre el lugar de la morfología:\n\nel lexicalismo y el construccionismo"
+  },
+  {
+    "objectID": "handout10.html#el-lexicalismo",
+    "href": "handout10.html#el-lexicalismo",
+    "title": "La palabra",
+    "section": "El lexicalismo",
+    "text": "El lexicalismo\n\nLos supuestos:\n\nla morfología es autónoma, existe un componente morfológico que impone estructuras, restricciones y reglas\nel componente morfológico se ocupa de crear palabras y el componente sintáctico se ocupa de crear frases (sintagmas)\nel output del componente morfológico (las palabras) es el input al componente sintáctico"
+  },
+  {
+    "objectID": "handout10.html#el-lexicalismo-1",
+    "href": "handout10.html#el-lexicalismo-1",
+    "title": "La palabra",
+    "section": "El lexicalismo",
+    "text": "El lexicalismo"
+  },
+  {
+    "objectID": "handout10.html#el-lexicalismo-2",
+    "href": "handout10.html#el-lexicalismo-2",
+    "title": "La palabra",
+    "section": "El lexicalismo",
+    "text": "El lexicalismo\n\nTres propiedades principales\n\nLa morfología tiene sus propias reglas de combinaciones y sus propias unidades.\n\n\n\n\n*Juan vio sol\nun parasol"
+  },
+  {
+    "objectID": "handout10.html#el-lexicalismo-3",
+    "href": "handout10.html#el-lexicalismo-3",
+    "title": "La palabra",
+    "section": "El lexicalismo",
+    "text": "El lexicalismo\n\n\nLa morfología regula lo que “ve” la sintaxis y por lo tanto como lo trata la sintaxis → perspectiva endoesquelética\n\n\n\n\nLa jefa clasificó el objeto.\nEl objeto es difícilmente clasificable."
+  },
+  {
+    "objectID": "handout10.html#el-lexicalismo-4",
+    "href": "handout10.html#el-lexicalismo-4",
+    "title": "La palabra",
+    "section": "El lexicalismo",
+    "text": "El lexicalismo\n\n\nLa integridad léxica: la sintaxis no puede operar sobre la estructura interna de la palabras - son átomicas\n\n\n\n\nUn chico sordomudo.\n*Unas chicas sordasmudas.\n\n\nCompró unos corchos María.\n¿Qué compró ____ María?\n\n\nCompró un sacacorchos María.\n*¿Qué compró saca____ María?"
+  },
+  {
+    "objectID": "handout10.html#el-construccionismo",
+    "href": "handout10.html#el-construccionismo",
+    "title": "La palabra",
+    "section": "El construccionismo",
+    "text": "El construccionismo\n\nEl supuesto principal:\nSolo hay un sistema combinatorio que crea tanto las palabras como las frases (los sintagmas). El mismo que crea sintagmas crea las palabras."
+  },
+  {
+    "objectID": "handout10.html#el-construccionismo-1",
+    "href": "handout10.html#el-construccionismo-1",
+    "title": "La palabra",
+    "section": "El construccionismo",
+    "text": "El construccionismo\n(8)"
+  },
+  {
+    "objectID": "handout10.html#el-construccionismo-2",
+    "href": "handout10.html#el-construccionismo-2",
+    "title": "La palabra",
+    "section": "El construccionismo",
+    "text": "El construccionismo\n\nPor lo tanto:\n\nLas reglas combinatorias y las unidades manejadas son iguales para la morfología y la sintaxis.\nLas palabras no pueden ser distintas que los sintagmas, lo que implica que las palabras no existen como tal.\n\nPregunta: ¿Cómo se explican las propiedades asociadas con la integridad léxica?\nRespuesta: Mediante explicaciones sintácticas, fonológicas y semánticas independientes."
+  },
+  {
+    "objectID": "handout10.html#el-construccionismo-3",
+    "href": "handout10.html#el-construccionismo-3",
+    "title": "La palabra",
+    "section": "El construccionismo",
+    "text": "El construccionismo\n\nPerspectiva exoesquelética: La sintaxis define las propiedades de las palabras. Las palabras (o raíces) adquieren su esqueleto (categorial y más) en la sintaxis.\n\n\n\nLa jefa clasificó el objeto.\n\n\nes verbo porque así lo ha construido la sintaxis\n\n\nEl objeto es difícilmente clasificable.\n\n\nes adjetivo porque así lo ha construido la sintaxis"
+  },
+  {
+    "objectID": "handout10.html#dos-teorías-construccionistas",
+    "href": "handout10.html#dos-teorías-construccionistas",
+    "title": "La palabra",
+    "section": "Dos teorías construccionistas",
+    "text": "Dos teorías construccionistas\n\nLa morfología distribuida (distributed morphology DM)\nHay un componente morfológico que adopta las estructuras formadas por la sintaxis y las puede reinterpretar."
+  },
+  {
+    "objectID": "handout10.html#dos-teorías-construccionistas-1",
+    "href": "handout10.html#dos-teorías-construccionistas-1",
+    "title": "La palabra",
+    "section": "Dos teorías construccionistas",
+    "text": "Dos teorías construccionistas"
+  },
+  {
+    "objectID": "handout10.html#dm",
+    "href": "handout10.html#dm",
+    "title": "La palabra",
+    "section": "DM",
+    "text": "DM"
+  },
+  {
+    "objectID": "handout10.html#unos-ejemplos-de-reajustes",
+    "href": "handout10.html#unos-ejemplos-de-reajustes",
+    "title": "La palabra",
+    "section": "Unos ejemplos de “reajustes”",
+    "text": "Unos ejemplos de “reajustes”\n\n\nDimos un regalo a Mario.\n*Le lo dimos.\nSe lo dimos."
+  },
+  {
+    "objectID": "handout10.html#unos-ejemplos-de-reajustes-1",
+    "href": "handout10.html#unos-ejemplos-de-reajustes-1",
+    "title": "La palabra",
+    "section": "Unos ejemplos de “reajustes”",
+    "text": "Unos ejemplos de “reajustes”\n\nImportante: Estos cambios NO afectan ni la sintaxis ni la semántica. Eso es una consecuencia de la arquitectura, es decir, que la morfología opera después de la sintaxis y en una rama distinta que la semántica."
+  },
+  {
+    "objectID": "handout10.html#la-nanosintaxis",
+    "href": "handout10.html#la-nanosintaxis",
+    "title": "La palabra",
+    "section": "La nanosintaxis",
+    "text": "La nanosintaxis\n\nUna propiedad fundamental: la forma en que las estructuras sintácticas se relacionan con los segmentos fonológicos que las materializan y hacen posible su pronunciación.\nPara poder entenderlo mejor, hace falta otros conceptos que veremos más adelante."
+  },
+  {
+    "objectID": "handout7.html#problemas-de-identificación",
+    "href": "handout7.html#problemas-de-identificación",
+    "title": "Las limitaciones",
+    "section": "Problemas de identificación",
+    "text": "Problemas de identificación\n\nMorfema: Un segmento mínimo con significado mínimo que recurre.\nRelación formal (de forma) y semántica (de significado) en la derivación\n\n\n\nleer → releer\nanimar → animación"
+  },
+  {
+    "objectID": "handout7.html#problemas-de-identificación-1",
+    "href": "handout7.html#problemas-de-identificación-1",
+    "title": "Las limitaciones",
+    "section": "Problemas de identificación",
+    "text": "Problemas de identificación\n\nEn (2) solo hay una relación formal entre los pares, y en (3) solo hay una relación semántica\n\n\n\ntener → retener\nestar → estación\n\n\noír → audición\nvarón → hembra"
+  },
+  {
+    "objectID": "handout7.html#problemas-de-identificación-2",
+    "href": "handout7.html#problemas-de-identificación-2",
+    "title": "Las limitaciones",
+    "section": "Problemas de identificación",
+    "text": "Problemas de identificación\n\nHay una escala en el grado de discordancia en la relación formal y semántica entre las palabras:\n\n\nPalabras relacionadas formalmente con distintos grados de irregularidades en la relación semántica\nPalabras relacionadas semánticamente con distintos grados de irregularidades en la relación formal"
+  },
+  {
+    "objectID": "handout7.html#relación-formal-con-variabilidad-en-la-relación-semántica",
+    "href": "handout7.html#relación-formal-con-variabilidad-en-la-relación-semántica",
+    "title": "Las limitaciones",
+    "section": "Relación formal con variabilidad en la relación semántica",
+    "text": "Relación formal con variabilidad en la relación semántica\n\nsufijo -miento\n\n\n\nplegamiento → “acción de V”\nagotamiento → “acción o estado resultante de V”\nalojamiento → “acción o lugar donde se realiza V”"
+  },
+  {
+    "objectID": "handout7.html#relación-formal-con-variabilidad-en-la-relación-semántica-1",
+    "href": "handout7.html#relación-formal-con-variabilidad-en-la-relación-semántica-1",
+    "title": "Las limitaciones",
+    "section": "Relación formal con variabilidad en la relación semántica",
+    "text": "Relación formal con variabilidad en la relación semántica\n\nsufijo -ada\n\n\ncabronada → “acto propio de N”\npedrada → “golpe dado con N”\ntorada → “colectivo de N”\ncucharada → “cantidad determinada por N”"
+  },
+  {
+    "objectID": "handout7.html#relación-semántica-con-variabilidad-en-la-relación-formal",
+    "href": "handout7.html#relación-semántica-con-variabilidad-en-la-relación-formal",
+    "title": "Las limitaciones",
+    "section": "Relación semántica con variabilidad en la relación formal",
+    "text": "Relación semántica con variabilidad en la relación formal\n\nSufijos -al y -ico “relacionado con N”\n\n\ninvierno → invernal\ncuerpo → corporal\nhermano → fraternal\n\n\nmago → mágico\nleche → láctico\njuego → lúdico"
+  },
+  {
+    "objectID": "handout7.html#relación-semántica-con-variabilidad-en-la-relación-formal-1",
+    "href": "handout7.html#relación-semántica-con-variabilidad-en-la-relación-formal-1",
+    "title": "Las limitaciones",
+    "section": "Relación semántica con variabilidad en la relación formal",
+    "text": "Relación semántica con variabilidad en la relación formal\n\nMisma relación semántica, pero sufijo distinto\n\n\nexperimento → experimental\nreglamento → reglamentario\n\n\nbobo → bobada\nchulo → chulería"
+  },
+  {
+    "objectID": "handout7.html#nombres-y-adjetivos-gentílicos",
+    "href": "handout7.html#nombres-y-adjetivos-gentílicos",
+    "title": "Las limitaciones",
+    "section": "Nombres y adjetivos gentílicos",
+    "text": "Nombres y adjetivos gentílicos\n\n\nMálaga → malagueño\nBoston → bostoniano\nChile → chileno\nArgentina → argentino\nJapón → japonés"
+  },
+  {
+    "objectID": "handout7.html#existen-los-morfemas",
+    "href": "handout7.html#existen-los-morfemas",
+    "title": "Las limitaciones",
+    "section": "¿Existen los morfemas?",
+    "text": "¿Existen los morfemas?\n\nHay varias razones para dudar de la existencia de los morfemas:\n\n\nNo siempre se puede aislar unidades segmentables que codifiquen parte del significado.\nLos segmentos que aislamos no siempre tienen significado.\nLos cambios fonológicos no siempre pueden analizarse como segmentos."
+  },
+  {
+    "objectID": "handout7.html#existen-los-morfemas-1",
+    "href": "handout7.html#existen-los-morfemas-1",
+    "title": "Las limitaciones",
+    "section": "¿Existen los morfemas?",
+    "text": "¿Existen los morfemas?\n\nLos segmentos con mucha información\n\n\n(yo) canto → cant-o\n\nQuiero que ella cante. → cant-e\n\n\n\nLos segmentos sin información: los morfos cero\n\n\ncanto vs. canta\n\n-o primera persona singular\nnulo - presente\nnulo - indicativo"
+  },
+  {
+    "objectID": "handout7.html#existen-los-morfemas-2",
+    "href": "handout7.html#existen-los-morfemas-2",
+    "title": "Las limitaciones",
+    "section": "¿Existen los morfemas?",
+    "text": "¿Existen los morfemas?\n\nSustitución (en vez de la adición) de un segmento\n\n\ntenemos\ntuvimos\n\n\nsomos\nfuimos\n\n\nvamos\nfuimos"
+  },
+  {
+    "objectID": "handout7.html#existen-los-morfemas-3",
+    "href": "handout7.html#existen-los-morfemas-3",
+    "title": "Las limitaciones",
+    "section": "¿Existen los morfemas?",
+    "text": "¿Existen los morfemas?\n\nCambio categorial sin la adición de un segmento (explícito)\n\n\n\nYo encuentro…\nEl encuentro\n\n\nYo le abrigo a…\nel abrigo"
+  },
+  {
+    "objectID": "handout7.html#existen-los-morfemas-4",
+    "href": "handout7.html#existen-los-morfemas-4",
+    "title": "Las limitaciones",
+    "section": "¿Existen los morfemas?",
+    "text": "¿Existen los morfemas?\n\nExponencia extendida: ¿un segmento? ¿dos?\n\n\n\nloco/a → enloquece\nviejo/a → envejece"
+  },
+  {
+    "objectID": "handout7.html#existen-los-morfemas-5",
+    "href": "handout7.html#existen-los-morfemas-5",
+    "title": "Las limitaciones",
+    "section": "¿Existen los morfemas?",
+    "text": "¿Existen los morfemas?\n\nLas palabras “cranberry”\n\n\ncranberry\nstrawberry\nblackberry\nraspberry\n\n\nsustituir\nprostituir\nconstituir\ndestituir"
+  },
+  {
+    "objectID": "handout7.html#existen-los-morfemas-6",
+    "href": "handout7.html#existen-los-morfemas-6",
+    "title": "Las limitaciones",
+    "section": "¿Existen los morfemas?",
+    "text": "¿Existen los morfemas?\n\n\nretener/contener\nreducir/conducir\nrecurrir/concurrir\n\n\nconducir\nseducir\ntraducir\ninducir\nproducir\nreducir"
+  },
+  {
+    "objectID": "Fabregas2013.html",
+    "href": "Fabregas2013.html",
+    "title": "Fabregas (2013)",
     "section": "",
-    "text": "Gutiérrez-Rexach, J., & Sessarego, S. (2014). Morphosyntactic variation and gender agreement in three Afro-Andean dialects. Lingua, 151, 142-161.\nNavarro, Í., & Espinal, M. T. (2012). Le-predicates and event modification in Mexican Spanish. Lingua, 122(4), 409-431."
+    "text": "It appears you don't have a PDF plugin for this browser.\n    No biggie... you can click here to\n    download the PDF file."
   },
   {
-    "objectID": "articles.html#semana-9---child-acquisition",
-    "href": "articles.html#semana-9---child-acquisition",
-    "title": "Articles",
-    "section": "Semana 9 - Child acquisition",
-    "text": "Semana 9 - Child acquisition\n\nClahsen, H., Aveledo, F., & Roca, I. (2002). The development of regular and irregular verb inflection in Spanish child language. Journal of child language, 29(3), 591-622.\n\nFranco\n\nMariscal, S. (2009). Early acquisition of gender agreement in the Spanish noun phrase: starting small. Journal of Child Language, 36(1), 143-171.\n\nKamila"
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
   },
   {
-    "objectID": "articles.html#semana-10---sociolinguistics",
-    "href": "articles.html#semana-10---sociolinguistics",
-    "title": "Articles",
-    "section": "Semana 10 - Sociolinguistics",
-    "text": "Semana 10 - Sociolinguistics\n\nEscobar, A. M., & Roy, J. (2022). Grammaticalization in the Evidential pathway of the Andean Spanish Present Perfect: Language contact as a trigger for language change. Isogloss, 8(4), 1-38.\nBarnes, S. (2012). ¿ Qué dijistes?: A variationist reanalysis of non-standard-s on second person singular preterit verb forms in Spanish. In Selected Proceedings of the 14th Hispanic Linguistics Symposium (pp. 38-47). Somerville, MA: Cascadilla Proceedings Project.\n\nAlonso\n\nEscalante, C. (2015). ¿ Qué twiteastes tú? Variation in second person singular preterit–s in Spanish tweets. Entrehojas: Revista de Estudios Hispánicos, 5(1).\nPapadopoulos, B. (2024). Identifying Gender in Gendered Languages: The Case of Spanish. Redoing Linguistic Worlds: Unmaking Gender Binaries, Remaking Gender Pluralities, 30."
+    "objectID": "bd1999.html",
+    "href": "bd1999.html",
+    "title": "Bosque & Demonte (1999)",
+    "section": "",
+    "text": "It appears you don't have a PDF plugin for this browser.\n    No biggie... you can click here to\n    download the PDF file."
   },
   {
-    "objectID": "articles.html#semana-11---heritage-speakers",
-    "href": "articles.html#semana-11---heritage-speakers",
-    "title": "Articles",
-    "section": "Semana 11 - Heritage Speakers",
-    "text": "Semana 11 - Heritage Speakers\n\nMontrul, S. (2010). Dominant language transfer in adult second language learners and heritage speakers. Second Language Research, 26(3), 293-327.\n\nEdwin\n\nScontras, G., Polinsky, M., & Fuchs, Z. (2018). In support of representational economy: Agreement in heritage Spanish. Glossa: A journal of general linguistics, 3(1).\n\nBrenda\n\nFoote, R. (2011). Integrated knowledge of agreement in early and late English–Spanish bilinguals. Applied Psycholinguistics, 32(1), 187-220.\nDomínguez, L., Arche, M. J., & Myles, F. (2017). Spanish Imperfect revisited: Exploring L1 influence in the reassembly of imperfective features onto new L2 forms. Second language research, 33(4), 431-457.\n\nElla"
+    "objectID": "431calendar.html",
+    "href": "431calendar.html",
+    "title": "Programa del curso",
+    "section": "",
+    "text": "Este es al programa para el semester.\n\nQuiero mantenerme flexible en cuanto al programa del curso para poder adaptarlo a las necesidades de la clase. Por lo tanto, el siguiente programa está sujeto a cambios, aunque sirve de guía para el curso.\n\nEl semestre se divide en tres partes:\n\nIntroducción a la morfología y las unidades de analysis: analizar la estructura interna de las palabras; la estuctura de las palabras (su sintaxis) - Semanas 1-4\nLas teorías sobre la morfología - Semanas 5-6\nLa morfología más extendida – Lecturas - Semanas 7 - final\n\n\n\n\n\n\n\n\n\nSemana\nMartes\nJueves\n\n\n\n\nSemana 1\nAugust 27\nIntroducción al curso\n\nFábregas (2013): 17-27\n\n29\nLas unidades del análisis morfológico\n\nFabregas (2013): 35-46\nPena (1999): 4312-4318\n\n\n\nSemana 2\nSeptember 3\nLa alomorfía y el análisis morfológico\n\nFábregas (2013): 47-51\nPena 1999: 4346-4358\n\n5\nLas estradas léxicas, la flexión nominal y\nla flexión verbal\n\nFábregas (2013): 64-69\nHualde et al. 2010: 137-149\n\nEjercicio 1\n\n\nSemana 3\n10\nLos verbos irregulares y el grado de los adjectivos y la derivación (la nominalización)\n\nHualde et al. (2010): 150-155, 163-178\n\n12\nLa derivación, la composición y otros procesos morfológicos y limitaciones del análisis morfológico\n\nHualde et al. (2010): 178-196\nPena (1999): 4358-4364\n\n\n\nSemana 4\n17\nLa estructura interna de la palabra\n\nFábregas (2013): 73-105\n\n19\nLa noción de “palabra” y el lugar de la morfología\n\nPena (1999): 4327-4329\nFábregas (2013): 51-54\nFábregas (2013): 27-31\n\nEjercicio 2\n\n\nSemana 5\n24\nMorfofonología y morfosintaxis\n\nFábregas (2013): 109-143\n\n26\nLa flexión y su análisis\n\nFábregas (2013): 175-209\n\n\n\nSemana 6\nOctober 1\nLa derivación y su análisis\n\nFábregas (2013): 211-244\n\n3\nLa composición y su análisis\n\nFábregas (2013): 247-276\n\nEjercicio 3\n\n\nSemana 7\n8\nPresentación de artículo\n\nRodrigo\n\n10\nPresentación de artículo\n\nRodrigo\n\n\n\nSemana 8\n15\n\nStudent presentation\n\nVariation\n17\n\nStudent presentation\n\nVariation\n\nEjercicio 4\n\n\nSemana 9\n22\n\nStudent presentation\n\nChild acquisition\n24\n\nStudent presentation\n\nChild acquisition\n\n\nSemana 10\n29\n\nStudent presentation\n*Sociolinguistics**\n\n31\n\nStudent presentation\n*Sociolinguistics**\n\nEjercicio 5\n\n\nSemana 11\nNovember 5\n\nStudent presentation\n\nHeritage speakers\n7\n\nStudent presentation\n\nHeritage speakers\n\n\nSemana 12\n12\n\nStudent presentation\n\nDistributed Morphology\n14\n\nStudent presentation\n\nDistributed Morphology\nEjercicio 6\n\n\nSemana 13\n19\n\nStudent presentation\n\nCode-switching\n21\n\nStudent presentation\n\nCode-switching\n\n\nFall break\nFall break\nFall break\n\n\nSemana 14\nDecember 3\nConferencia - No hay clase\n5\nConferencia - No hay clase\n\n\nSemana 15\n10\nPresentación del trabajo final\n12\nReading day (no hay clase)"
   },
   {
-    "objectID": "articles.html#semana-12---distributed-morphology",
-    "href": "articles.html#semana-12---distributed-morphology",
-    "title": "Articles",
-    "section": "Semana 12 - Distributed Morphology",
-    "text": "Semana 12 - Distributed Morphology\n\nEmbick, D., & Noyer, R. (2007). Distributed morphology and the syntax—morphology interface.\nAcquaviva, P. (2009). Roots and lexicality in Distributed Morphology. In Alexandra Galani, Daniel Redinger and Norman Yeo (eds.). YPL2-Issue 10 (May 2009) Special Issue-York-\nSmith, Peter (forth) DM and Minimalism. The Cambridge Handbook of Distributed Morphology"
+    "objectID": "handout9.html#la-estructura-jerárquica-de-la-palabra",
+    "href": "handout9.html#la-estructura-jerárquica-de-la-palabra",
+    "title": "La estructura",
+    "section": "La estructura jerárquica de la palabra",
+    "text": "La estructura jerárquica de la palabra\n\nLas palabras tienen estructura interna, como las oraciones:\n\n\n\nTocaron al oso con una rama.\n\ntocaron [el oso con una rama] → “oso tiene la rama”\n[tocaron [el oso] con una rama] → “utilizaron la rama para tocarlo”\n\n\ninutilizable\n\n[in [utilizable]] → “que no puede ser utilizado”\n[[inutil] izable] → “que puede ser inutilizado”"
   },
   {
-    "objectID": "articles.html#semana-13---code-switching-and-dm",
-    "href": "articles.html#semana-13---code-switching-and-dm",
-    "title": "Articles",
-    "section": "Semana 13 - Code-switching and DM",
-    "text": "Semana 13 - Code-switching and DM\n\nLópez, L. (forth). Distributed Morphology and Bilingualism: Code-switching and Mixed Languages. The Cambridge Handbook of Distributed Morphology\n\nJaylene\n\nLópez, L. (2020). Bilingual grammar: Toward an integrated model. Cambridge University Press.\n\nVarious chapters"
+    "objectID": "handout9.html#la-estructura-jerárquica-de-la-palabra-1",
+    "href": "handout9.html#la-estructura-jerárquica-de-la-palabra-1",
+    "title": "La estructura",
+    "section": "La estructura jerárquica de la palabra",
+    "text": "La estructura jerárquica de la palabra\n\nLa estructura implica que no hay línea secuencial de morfemas.\n\n\n\ninutilizable\n\n*in + util + iz + a + ble\n\n\nIgual que las oraciónes"
+  },
+  {
+    "objectID": "handout9.html#las-combinaciones-de-los-morfemas",
+    "href": "handout9.html#las-combinaciones-de-los-morfemas",
+    "title": "La estructura",
+    "section": "Las combinaciones de los morfemas",
+    "text": "Las combinaciones de los morfemas\n\nLa subcategorización: La categoría que requiere de su base el afijo para combinarse.\n\n\n\ncazar → cazador\n\njugar → jugador\n\nfalso/a → *falsador\nclase → *clasedor\ncosa → cosificar\nclase → clasificar\n\n\n/dor/ ↔︎ N/Adj, subcategorización: V\nV + -dor → N/Adj"
+  },
+  {
+    "objectID": "handout9.html#las-combinaciones-de-los-morfemas-1",
+    "href": "handout9.html#las-combinaciones-de-los-morfemas-1",
+    "title": "La estructura",
+    "section": "Las combinaciones de los morfemas",
+    "text": "Las combinaciones de los morfemas\n\n\n/ific/ ↔︎ V, subcategorización: N, Adj\nN/Adj + -ific → V"
+  },
+  {
+    "objectID": "handout9.html#las-combinaciones-de-los-morfemas-2",
+    "href": "handout9.html#las-combinaciones-de-los-morfemas-2",
+    "title": "La estructura",
+    "section": "Las combinaciones de los morfemas",
+    "text": "Las combinaciones de los morfemas\n\n\nclasificador\n\nfalsificador\n\n\nincansable\npremeditación"
+  },
+  {
+    "objectID": "handout9.html#estructuras",
+    "href": "handout9.html#estructuras",
+    "title": "La estructura",
+    "section": "Estructuras",
+    "text": "Estructuras\n\nNúcleo morfológico: El nudo más importante, el que determina la categoría de toda la palabra, y por lo tanto su distribución y el significado."
+  },
+  {
+    "objectID": "handout9.html#estructuras-1",
+    "href": "handout9.html#estructuras-1",
+    "title": "La estructura",
+    "section": "Estructuras",
+    "text": "Estructuras\n\n\npremeditación"
+  },
+  {
+    "objectID": "handout9.html#estructuras-2",
+    "href": "handout9.html#estructuras-2",
+    "title": "La estructura",
+    "section": "Estructuras",
+    "text": "Estructuras\n\n\nincansable"
+  },
+  {
+    "objectID": "handout9.html#estructuras-3",
+    "href": "handout9.html#estructuras-3",
+    "title": "La estructura",
+    "section": "Estructuras",
+    "text": "Estructuras\n\n\nLa inesperada premeditación llamaba la atención.\nEse joven es realmente incansable.\n\n\n*Yo premieditaciono todas las mañanas.\n*Yo nunca (me) incansablo en los partidos."
+  },
+  {
+    "objectID": "handout9.html#la-atomicidad-de-las-estructuras-morfológicas",
+    "href": "handout9.html#la-atomicidad-de-las-estructuras-morfológicas",
+    "title": "La estructura",
+    "section": "La atomicidad de las estructuras morfológicas",
+    "text": "La atomicidad de las estructuras morfológicas\n\nLa estructura interna es invisible a las operaciones sintácticas\n\n\n\n*Yo premieditaciono todas las mañanas.\n*Yo nunca (me) incansablo en los partidos.\n\n\nUn chico sordomudo.\n*Unas chicas sordasmudas."
+  },
+  {
+    "objectID": "handout9.html#la-atomicidad-de-las-estructuras-morfológicas-1",
+    "href": "handout9.html#la-atomicidad-de-las-estructuras-morfológicas-1",
+    "title": "La estructura",
+    "section": "La atomicidad de las estructuras morfológicas",
+    "text": "La atomicidad de las estructuras morfológicas\n\nNo se puedes modificar (por regla general).\n\n\n\n*La inesperadamente premeditación….\nEse loco inesperadamente premeditaba…\n\n\n*Ese joven es incansable mucho.\nEse joven no se cansa mucho.\n\n\nTengo un sacacorchos, que puede con corchos grandes.\n*Tengo un sacagrandescorchos/sacacorchosgrandes."
+  },
+  {
+    "objectID": "handout9.html#refinando-la-representación",
+    "href": "handout9.html#refinando-la-representación",
+    "title": "La estructura",
+    "section": "Refinando la representación",
+    "text": "Refinando la representación\n\nModificadores: Hay segmentos en el análisis morfológico que no proyectan una categoría por sí: las vocales temáticas (VT) y los prefijos."
+  },
+  {
+    "objectID": "handout9.html#refinando-la-representación-1",
+    "href": "handout9.html#refinando-la-representación-1",
+    "title": "La estructura",
+    "section": "Refinando la representación",
+    "text": "Refinando la representación\n\nLa representación refleja la subcategorización de los afijos.\n\n\n\n/ción/ ↔︎ N, subcategorización: V\n/ble/ ↔︎ Adj, subcategorización: V\n\n\n\nUna consecuencia: La VT no convierte la raíz en verbo, que se espera ya que la VT es un marcador de clase morfológica de los verbos.\n\nEn (19), el morfema ific verbaliza la raíz."
+  },
+  {
+    "objectID": "handout9.html#refinando-la-representación-2",
+    "href": "handout9.html#refinando-la-representación-2",
+    "title": "La estructura",
+    "section": "Refinando la representación",
+    "text": "Refinando la representación\n\nUna suposición: Supongamos que la VT nunca convierte una raíz en verbo.\nLa implicación: Por lo tanto, tenemos que proponer un morfo cero para verbos simples."
+  },
+  {
+    "objectID": "handout9.html#refinando-la-representación-3",
+    "href": "handout9.html#refinando-la-representación-3",
+    "title": "La estructura",
+    "section": "Refinando la representación",
+    "text": "Refinando la representación\n\nConsecuencia: Nuestras representaciones de premeditación y incansable, (y inutilizable (las dos)), tienen que modificarse."
+  },
+  {
+    "objectID": "handout9.html#refinando-la-representación-4",
+    "href": "handout9.html#refinando-la-representación-4",
+    "title": "La estructura",
+    "section": "Refinando la representación",
+    "text": "Refinando la representación\n\nLos prefijos: Como la VT, los prefijos tampoco cambian la categoría y en este sentido modifican.\n\n\n\nRepresenta la estructura interna de las dos interpretaciones de inutilizable con nuestro refinamiento."
+  },
+  {
+    "objectID": "handout9.html#refinando-la-representación-5",
+    "href": "handout9.html#refinando-la-representación-5",
+    "title": "La estructura",
+    "section": "Refinando la representación",
+    "text": "Refinando la representación\n\nLos sustantivos: El género es marcador de clase morfológica.\n\n\n\nEl ruidoso cantar de los pájaros por la mañana me despierta.\nEl encontrar las llaves esta mañana fue poco emocionante."
+  },
+  {
+    "objectID": "handout9.html#refinando-la-representación-6",
+    "href": "handout9.html#refinando-la-representación-6",
+    "title": "La estructura",
+    "section": "Refinando la representación",
+    "text": "Refinando la representación\n\n\nLe despertó el goteo de la pila.\nEl blanqueo de la portada del libro resulta feo.\n\n\n\nRepresenta la estructura interna de cantar en (26a) y goteo en (27a)."
+  },
+  {
+    "objectID": "hualde2010.html",
+    "href": "hualde2010.html",
+    "title": "Hualde et al. (2010)",
+    "section": "",
+    "text": "It appears you don't have a PDF plugin for this browser.\n    No biggie... you can click here to\n    download the PDF file."
+  },
+  {
+    "objectID": "hualde2010.html#hualde-et-al.-2010---pgs.-137-149",
+    "href": "hualde2010.html#hualde-et-al.-2010---pgs.-137-149",
+    "title": "Hualde et al. (2010)",
+    "section": "",
+    "text": "It appears you don't have a PDF plugin for this browser.\n    No biggie... you can click here to\n    download the PDF file."
+  },
+  {
+    "objectID": "hualde2010.html#hualde-et-al.-2010---pgs.-155-178",
+    "href": "hualde2010.html#hualde-et-al.-2010---pgs.-155-178",
+    "title": "Hualde et al. (2010)",
+    "section": "Hualde et al. (2010) - pgs. 155-178",
+    "text": "Hualde et al. (2010) - pgs. 155-178\n\n    It appears you don't have a PDF plugin for this browser.\n    No biggie... you can click here to\n    download the PDF file."
+  },
+  {
+    "objectID": "hualde2010.html#hualde-et-al.-2010---pgs.-178-196",
+    "href": "hualde2010.html#hualde-et-al.-2010---pgs.-178-196",
+    "title": "Hualde et al. (2010)",
+    "section": "Hualde et al. (2010) - pgs. 178-196",
+    "text": "Hualde et al. (2010) - pgs. 178-196\n\n    It appears you don't have a PDF plugin for this browser.\n    No biggie... you can click here to\n    download the PDF file."
+  },
+  {
+    "objectID": "w1d2.html#la-identificación-de-morfemas",
+    "href": "w1d2.html#la-identificación-de-morfemas",
+    "title": "Las unidades",
+    "section": "La identificación de morfemas",
+    "text": "La identificación de morfemas\n\n¿Cómo se identifican los morfemas?\nTratar de emparejar significados iguales con segmentos iguales\n\nSe comparan las palabras de dos en dos\nLas dos deberían variar por solo un rasgo de significado\nBuscamos emparejamiento entre forma y significado, y su recurrencia"
+  },
+  {
+    "objectID": "w1d2.html#la-identificación-de-morfemas-1",
+    "href": "w1d2.html#la-identificación-de-morfemas-1",
+    "title": "Las unidades",
+    "section": "La identificación de morfemas",
+    "text": "La identificación de morfemas\nParadigma flexivo parcial de cantar y correr\n\nCantar - cantamos - cantó\nComer - comemos - comió"
+  },
+  {
+    "objectID": "w1d2.html#la-identificación-de-morfemas-2",
+    "href": "w1d2.html#la-identificación-de-morfemas-2",
+    "title": "Las unidades",
+    "section": "La identificación de morfemas",
+    "text": "La identificación de morfemas\n\nSincretismo: El mismo morfema expresa más de un significado. Primera y tercera persona del imperfecto son formas sincréticas.\n\n\n\nYo cantaba/vivía en Champaign.\nElla cantaba/vivía en Champaign."
+  },
+  {
+    "objectID": "w1d2.html#la-raíz-el-tema-morfológico-y-la-base-1",
+    "href": "w1d2.html#la-raíz-el-tema-morfológico-y-la-base-1",
+    "title": "Las unidades",
+    "section": "La raíz, el tema morfológico, y la base",
+    "text": "La raíz, el tema morfológico, y la base\n\nRaíz: La parte de la palabra que aporta significado/concepto sobre el mundo real; morfo común e irreductible en una familia léxica.\n\n\n\ncrear, creación, creador, creo\ncre-a-r, cre-a-ción, cre-a-dor, cre-o\nraíz: cre-\n\n\nbeber, bebedor, bebiendo, bebida\nbeb-e-r, beb-e-dor, beb-ie-ndo, beb-ida\nraíz: beb-"
+  },
+  {
+    "objectID": "w1d2.html#la-raíz-el-tema-morfológico-y-la-base-2",
+    "href": "w1d2.html#la-raíz-el-tema-morfológico-y-la-base-2",
+    "title": "Las unidades",
+    "section": "La raíz, el tema morfológico, y la base",
+    "text": "La raíz, el tema morfológico, y la base\n\nTema (morfológico): (“stem” en inglés); lo que queda de una palabra cuando los morfemas flexivos se quitan; tiene categoría léxica (o sintáctica) (y por lo tanto muchas veces puede aparecer solo)."
+  },
+  {
+    "objectID": "w1d2.html#la-raíz-el-tema-morfológico-y-la-base-3",
+    "href": "w1d2.html#la-raíz-el-tema-morfológico-y-la-base-3",
+    "title": "Las unidades",
+    "section": "La raíz, el tema morfológico, y la base",
+    "text": "La raíz, el tema morfológico, y la base\nCon verbos:\n\n\ncantar\nTema: canta\nRaíz: cant-\n\n\nbeber\nTema: bebe\nRaíz: beb-"
+  },
+  {
+    "objectID": "w1d2.html#la-raíz-el-tema-morfológico-y-la-base-4",
+    "href": "w1d2.html#la-raíz-el-tema-morfológico-y-la-base-4",
+    "title": "Las unidades",
+    "section": "La raíz, el tema morfológico, y la base",
+    "text": "La raíz, el tema morfológico, y la base\nCategorías sin género flexivo:\nSustantivos\n\n\nlibros\nTema: libro\nRaíz: libr-\n\n\nAlgunos adjetivos\n\n\nalegras\nTema: alegre\nRaíz: alegr-"
+  },
+  {
+    "objectID": "w1d2.html#la-raíz-el-tema-morfológico-y-la-base-5",
+    "href": "w1d2.html#la-raíz-el-tema-morfológico-y-la-base-5",
+    "title": "Las unidades",
+    "section": "La raíz, el tema morfológico, y la base",
+    "text": "La raíz, el tema morfológico, y la base\nCategorías con género flexivo (o sea por concordancia):\n\n\nrojas\nTema: roj-\nRaíz: roj-\n\n\nrojizas\nTema: rojiz-\nRaíz: roj-"
+  },
+  {
+    "objectID": "w1d2.html#la-raíz-el-tema-morfológico-y-la-base-6",
+    "href": "w1d2.html#la-raíz-el-tema-morfológico-y-la-base-6",
+    "title": "Las unidades",
+    "section": "La raíz, el tema morfológico, y la base",
+    "text": "La raíz, el tema morfológico, y la base\n\nBase: La unidad (en cualquier nivel de constitución) sobre el que puede operar un proceso morfológico.\nClase morfológica: tanto la vocal temática de los verbos, como el género de los sustantivos marcan o definen la clase morfológica de la palabra"
+  },
+  {
+    "objectID": "w1d2.html#temas-grecolatinosneoclásicos-1",
+    "href": "w1d2.html#temas-grecolatinosneoclásicos-1",
+    "title": "Las unidades",
+    "section": "Temas grecolatinos/neoclásicos",
+    "text": "Temas grecolatinos/neoclásicos\n\nTemas (=“stems”) que viene etimológicamente del vocabulario dellatín culto o del griego clásico y se portan como las raíces en algunos aspectos, pero no en otros\n\n\nfobo, filo, logo, hidro, peda etc."
+  },
+  {
+    "objectID": "w1d2.html#temas-grecolatinosneoclásicos-2",
+    "href": "w1d2.html#temas-grecolatinosneoclásicos-2",
+    "title": "Las unidades",
+    "section": "Temas grecolatinos/neoclásicos",
+    "text": "Temas grecolatinos/neoclásicos\n\nComo las raíces:\n\n\nDenotan conceptos del mundo.\n\n\nfobo = miedo; hidro = agua; peda - experto/profesor\n\n\nTiene libertad de posicionamiento.\n\n\nlogopeda; pedagogo"
+  },
+  {
+    "objectID": "w1d2.html#temas-grecolatinosneoclásicos-3",
+    "href": "w1d2.html#temas-grecolatinosneoclásicos-3",
+    "title": "Las unidades",
+    "section": "Temas grecolatinos/neoclásicos",
+    "text": "Temas grecolatinos/neoclásicos\n\nNo como las raíces:\n\n\nNo pueden aparece solos (sin afijo derivativo)\n\n\nfób-ic-o; pediatra\n\n\nPueden formar palabras al combinarse entre sí; las raíces necesitan una marca de clase léxica\n\n\nlogopeda; pedagogo → parasol; sordomudo\n\n\nMás ejemplos: morfología, pedagogía, filosofía, antropología, filántropo, fragante, fragancia, francófilo, insípido…"
+  },
+  {
+    "objectID": "w1d2.html#clase-de-morfemas-por-su-posicionamiento-1",
+    "href": "w1d2.html#clase-de-morfemas-por-su-posicionamiento-1",
+    "title": "Las unidades",
+    "section": "Clase de morfemas por su posicionamiento",
+    "text": "Clase de morfemas por su posicionamiento\n\nPrefijo: Afijo que aparece a la izquierda de la raíz. (Nota: Los prefijos nunca cambian la categoría de la base con que se combinan.)\n\n\n\nin-útil\nex-jugador\ndes-hacer"
+  },
+  {
+    "objectID": "w1d2.html#clase-de-morfemas-por-su-posicionamiento-2",
+    "href": "w1d2.html#clase-de-morfemas-por-su-posicionamiento-2",
+    "title": "Las unidades",
+    "section": "Clase de morfemas por su posicionamiento",
+    "text": "Clase de morfemas por su posicionamiento\nSufijo: Afijo que aparece a la derecha de la raíz\n\n\nmes-ita\nfrut-ero\nregal-an"
+  },
+  {
+    "objectID": "w1d2.html#clase-de-morfemas-por-su-posicionamiento-3",
+    "href": "w1d2.html#clase-de-morfemas-por-su-posicionamiento-3",
+    "title": "Las unidades",
+    "section": "Clase de morfemas por su posicionamiento",
+    "text": "Clase de morfemas por su posicionamiento\n\nInfijo: Afijo que aparece en el interior de la raíz:\n\n\n\nazucar → azuquitar\nlejos → lejitos\nCarlos → Carlitos\nMassachusetts → Massafreakinchusetts"
+  },
+  {
+    "objectID": "w1d2.html#clase-de-morfemas-por-su-posicionamiento-4",
+    "href": "w1d2.html#clase-de-morfemas-por-su-posicionamiento-4",
+    "title": "Las unidades",
+    "section": "Clase de morfemas por su posicionamiento",
+    "text": "Clase de morfemas por su posicionamiento\n\nInterfijo: Afijo que aparece entre dos morfemas\n\n\n\nancho → ensanchar\ngordo → engordar"
+  },
+  {
+    "objectID": "w1d2.html#clase-de-morfemas-por-su-posicionamiento-5",
+    "href": "w1d2.html#clase-de-morfemas-por-su-posicionamiento-5",
+    "title": "Las unidades",
+    "section": "Clase de morfemas por su posicionamiento",
+    "text": "Clase de morfemas por su posicionamiento\n\nCircunfijo: Afijo discontinuo una parte del que parece un prefijo y la otra un sufijo.\n\n\narbeiten → gearbeitet"
+  },
+  {
+    "objectID": "w1d2.html#clase-de-morfemas-por-su-posicionamiento-6",
+    "href": "w1d2.html#clase-de-morfemas-por-su-posicionamiento-6",
+    "title": "Las unidades",
+    "section": "Clase de morfemas por su posicionamiento",
+    "text": "Clase de morfemas por su posicionamiento\n\nParasíntesis: Parece circunfijación en la formación de verbos en español.\n\n\n\npluma → desplumar\nsucio → ensuciar"
+  },
+  {
+    "objectID": "w1d2.html#clase-de-morfemas-por-su-posicionamiento-7",
+    "href": "w1d2.html#clase-de-morfemas-por-su-posicionamiento-7",
+    "title": "Las unidades",
+    "section": "Clase de morfemas por su posicionamiento",
+    "text": "Clase de morfemas por su posicionamiento\n\nMorfología templática: Afijos no continuos.\n\n\n\nRaíz: k_t_b\nkita:b - lo escrito, libro\nkutub - los escritos, libros\nka:tib - el que escribe, escritor"
+  },
+  {
+    "objectID": "w1d2.html#clase-de-morfemas-por-su-posicionamiento-8",
+    "href": "w1d2.html#clase-de-morfemas-por-su-posicionamiento-8",
+    "title": "Las unidades",
+    "section": "Clase de morfemas por su posicionamiento",
+    "text": "Clase de morfemas por su posicionamiento\n\nMorfología templática: Afijos no continuos.\n\n\n\nLas plantillas (“templates”)\nCVCV:C - nombre de resultado, sg.\nCVCVC - nombre de resultado, pl.\nCV:CVC - nombre de agente"
+  },
+  {
+    "objectID": "span431_syllabus.html",
+    "href": "span431_syllabus.html",
+    "title": "Syllabus",
+    "section": "",
+    "text": "Professor: Dr. Rodrigo Delgado\nOffice: 4135 Literatures, Cultures & Linguistics Building (LCLB)\nOffice hours: By appointment only\nemail: rdelga21@illinois.edu"
+  },
+  {
+    "objectID": "span431_syllabus.html#objectivos-principales-del-curso",
+    "href": "span431_syllabus.html#objectivos-principales-del-curso",
+    "title": "Syllabus",
+    "section": "Objectivos principales del curso",
+    "text": "Objectivos principales del curso\n\nIntroducir los fenómenos morfológicos del español, principalmente desde una perspectiva formal.\nIntroducir las teorías de la morfología.\nExplorar estudios de otras areas que se relacionan con la morfología."
+  },
+  {
+    "objectID": "span431_syllabus.html#materiales-del-curso",
+    "href": "span431_syllabus.html#materiales-del-curso",
+    "title": "Syllabus",
+    "section": "Materiales del curso",
+    "text": "Materiales del curso\n\nLos PPT que se usaran en clase.\nLas lecturas estarán disponibles en la página."
+  },
+  {
+    "objectID": "span431_syllabus.html#la-composición-de-la-nota",
+    "href": "span431_syllabus.html#la-composición-de-la-nota",
+    "title": "Syllabus",
+    "section": "La composición de la nota:",
+    "text": "La composición de la nota:\n\nTarea (6): 30%\n\n\nEstas tareas se entregarán en Canvas\nCada dos semanas\n\n\nPresentación de uno o dos artículos\n\n\nLa presentación incluirá una síntesis del estudio (fenómeno lingüístico, hipótesis, metodología de análisis y conclusión) con anotaciones críticas y dos preguntas finales de reflexión. Tendrán 1 hora para la presentación.\n\n\nInvestigación final: 40%\n\n\nSobre un fenomeno morfológico del español.\nIncluye:\n\nAbstract del trabajo de 2 páginas (5%) (Octubre 24)\nAnálisis crítico de un artículo del trabajo final (10%) (Noviembre 7)\n\nEl artículo escogido debe ser aprovado por el profesor\n\nPresentación del trabajo final (10%)\nEl paper final de ±15 páginas, doble espacio (15%) (Diciembre 13)\n\n\n\nAsistencia: 5%\nParticipación: 5%\n\nLife happens clause - You can invoke the clause on one deadline and get a 3-day extension. No explanation required. To use it, please email me stating that you want the extension and the name of the assignment."
+  },
+  {
+    "objectID": "semana1.html#qué-es-la-morfología",
+    "href": "semana1.html#qué-es-la-morfología",
+    "title": "Presentación",
+    "section": "¿qué es la morfología?",
+    "text": "¿qué es la morfología?\n\nUna introducción a la morfología\n\n\nUn morfólogo estudia la forma en que los hablantes construyen e interpretan las palabras de su lengua.\nLa morfología investiga las propiedades de las palabras, especialmente:\n\nLa información gramatical que contienen las palabras y\nLa forma de relacionarse unas con otras por su forma y significado"
+  },
+  {
+    "objectID": "semana1.html#la-morfología",
+    "href": "semana1.html#la-morfología",
+    "title": "Presentación",
+    "section": "La morfología",
+    "text": "La morfología\n\nAlgunos pronombres de objeto\n\n\n\n\n\n1a persona\n2a persona\n\n\nSingular\nme\nte\n\n\nPlural\nnos\nos"
+  },
+  {
+    "objectID": "semana1.html#la-morfología-1",
+    "href": "semana1.html#la-morfología-1",
+    "title": "Presentación",
+    "section": "La morfología",
+    "text": "La morfología\n\nEl sufijo -dor\n\n\n\n\nVerbo\nSustantivo\n\n\ntrabajar\ntrabajador\n\n\ngobernar\ngobernador\n\n\nafilar\nafilador\n\n\ncomprar\ncomprador\n\n\n\n\nEl morfólogo también se pregunta por qué no *visitador vs. visitante; y qué pasa con leñador, que no contiene verbo."
+  },
+  {
+    "objectID": "semana1.html#la-morfología-2",
+    "href": "semana1.html#la-morfología-2",
+    "title": "Presentación",
+    "section": "La morfología",
+    "text": "La morfología\n\nMorfológicamente simple: Una palabra que no puede dividirse en unidades menores de significado\n\n\nme, te, nos, os\n\n\nMorfológicamente compleja: Una palabra que puede dividirse en unidades menores de significado.\n\n\nafilador: afila + dor"
+  },
+  {
+    "objectID": "semana1.html#los-morfemas",
+    "href": "semana1.html#los-morfemas",
+    "title": "Presentación",
+    "section": "Los morfemas",
+    "text": "Los morfemas\n\nLos morfemas: Una unidad mínima con significado; unidades gramaticales mínimas\n\n\n\nestudiante: estudia + nte\nsordera: sord + era\nexactitud: exact + itud"
+  },
+  {
+    "objectID": "semana1.html#las-partes",
+    "href": "semana1.html#las-partes",
+    "title": "Presentación",
+    "section": "Las partes",
+    "text": "Las partes\n\nBase: La forma más simple sobre la que se forma la otra palabra\nMorfo: Los segmentos fonémicos de los morfemas, i.e. su forma pronunciada.\n\nCuando un morfema está representado por más de un morfo, el morfema tiene alomorfos (o más de un exponente).\n\n\n\n\ncasa-s vs. león-es → -s/-es (plural)\nimposible vs. indomable → [im] vs. [in] (prefijo negativo)"
+  },
+  {
+    "objectID": "semana1.html#la-fonología",
+    "href": "semana1.html#la-fonología",
+    "title": "Presentación",
+    "section": "La fonología",
+    "text": "La fonología\n\nLa fonología: Investiga los sonidos y cómo se combinan entre sí.\n\n\n\ndedo\nlago vs. gato\n\n\ntrabajador\nafilador\n\n\nLa morfofonología: El estudio del interfaz entre la fonología y la morfología; la aplicación de la fonología al estudio de la palabra."
+  },
+  {
+    "objectID": "semana1.html#la-semántica",
+    "href": "semana1.html#la-semántica",
+    "title": "Presentación",
+    "section": "La semántica",
+    "text": "La semántica\n\nLa semántica: Investiga el significado de las unidades y sus combinaciones.\n\n\n\ngobernar\ngobernador\n\n\nnaranja\nnaranjo\n\n\nLa semántica léxica: El estudio del interfaz entre la semántica y la morfología; la aplicación de la semántica al estudio de la palabra."
+  },
+  {
+    "objectID": "semana1.html#la-sintaxis",
+    "href": "semana1.html#la-sintaxis",
+    "title": "Presentación",
+    "section": "La sintaxis",
+    "text": "La sintaxis\n\nLa sintaxis: Investiga las oraciones y como las partes de las oraciones se combinan para formar oraciones.\n\n\nEl gobernador salió en la tele.\n\n\nLa morfosintaxis: El estudio del interfaz entre la sintaxis y la morfología; la aplicación de la sintaxis al estudio de la palabra\n\n\ngobernador → goberna + dor"
+  },
+  {
+    "objectID": "semana1.html#el-léxico",
+    "href": "semana1.html#el-léxico",
+    "title": "Presentación",
+    "section": "El léxico",
+    "text": "El léxico\n\nEl lenguaje es un sistema que nos permite combinar unidades simples para formar elementos complejos que se materializan mediate sonidos (o gestos) y que contienen un significado determinado.\n\n(11)"
+  },
+  {
+    "objectID": "semana1.html#el-léxico-1",
+    "href": "semana1.html#el-léxico-1",
+    "title": "Presentación",
+    "section": "El léxico",
+    "text": "El léxico\nEl léxico: La lista de unidades que cada lengua tiene para combinar; es una lista arbitraría que asocia una secuencia de sonidos conjuntos de información gramatical y semántica. Es esencialmente lo que se recoge en los diccionarios.\n\nPor ejemplo: la lista especifica que el objeto esférico en el cielo que refleja la luz del sol se pronuncia /luna/ en español.\nLa arbitrariedad: De una lengua a otro el léxico varía: /mun/ en inglés, /tal/ en coreano, /fengari/ en griego."
+  },
+  {
+    "objectID": "semana1.html#el-léxico-2",
+    "href": "semana1.html#el-léxico-2",
+    "title": "Presentación",
+    "section": "El léxico",
+    "text": "El léxico\n\n\n\nProcedimiento léxico\nvs\nPocedimiento morfológico\n\n\n\n\ncaballo - yegua\n\ndoctor - doctora\n\n\nhombre - mujer\n\nniño - niña\n\n\n\n\nCómo se vería esto en el modelo?"
+  },
+  {
+    "objectID": "semana1.html#flexión-derivación-y-composición",
+    "href": "semana1.html#flexión-derivación-y-composición",
+    "title": "Presentación",
+    "section": "Flexión, derivación y composición",
+    "text": "Flexión, derivación y composición\n\nLa palabra trabajador consiste en un LEXEMA (trabaja) y un AFIJO (-dor).\n¿Qué es un lexema?\n\nPara entender, es útil pensar sobre la noción palabra."
+  },
+  {
+    "objectID": "semana1.html#lexema",
+    "href": "semana1.html#lexema",
+    "title": "Presentación",
+    "section": "Lexema",
+    "text": "Lexema\n\n\nYo encuentro problemas graves.\nTu encuentras problemas graves.\nEncontré problemas graves.\nEncontraste problemas graves.\n\n\n\nUna noción de palabra: En (12) hay 4 palabras subrayadas. Se distinguen por sus fonemas (sonidos distintos) y/o por las letras distintas. En este sentido se refieren a las formas distintas.\nOtra noción de palabra: En (12) hay una palabra abstracta que puede realizarse/manifestarse en varias formas. Diríamos que en (12) el verbo es el mismo en cada oración: encontrar.\nNB: En un diccionario, solo encontrarás encontrar"
+  },
+  {
+    "objectID": "semana1.html#lexema-1",
+    "href": "semana1.html#lexema-1",
+    "title": "Presentación",
+    "section": "Lexema",
+    "text": "Lexema\n\nLexema (definición informal): la palabra abstracta que subyace sus posibles formas (flexivas); tiene categoría léxica.\n\n\n\nnaranja\nnaranjo"
+  },
+  {
+    "objectID": "semana1.html#lexema-vs-afijo",
+    "href": "semana1.html#lexema-vs-afijo",
+    "title": "Presentación",
+    "section": "Lexema vs afijo",
+    "text": "Lexema vs afijo\n\n¿Cómo se difieren los lexemas de los afijos?\nDos propiedades formales:\n\nPosicionamiento\nPosibles combinaciones:"
+  },
+  {
+    "objectID": "semana1.html#posicionamiento",
+    "href": "semana1.html#posicionamiento",
+    "title": "Presentación",
+    "section": "Posicionamiento",
+    "text": "Posicionamiento\n\nLexema: Tiene más libertad de posicionamiento: dentro de la palabra, a la izquierda o a la derecha.\nAfijo: Siempre ocupa una posición fija\n\n\n\norganiza-dor\nco-organiza\n\n\ncorre-dor → *dor-corre\nco-habita → *habit-co"
+  },
+  {
+    "objectID": "semana1.html#posibles-combinaciones",
+    "href": "semana1.html#posibles-combinaciones",
+    "title": "Presentación",
+    "section": "Posibles combinaciones",
+    "text": "Posibles combinaciones\n\nLexema: Puede formar una palabra sin necesidad de otros elementos. Es decir, puede formar la base con la que se combina otro lexema para formar una pablara nueva.\nAfijo: No puede ser base con la que combina otro afijo.\n\n\n\npara-sol\nhombre-rana\n\n\n*co-dor\n*pre-ista"
+  },
+  {
+    "objectID": "semana1.html#lexema-afijo",
+    "href": "semana1.html#lexema-afijo",
+    "title": "Presentación",
+    "section": "Lexema + Afijo",
+    "text": "Lexema + Afijo\n\nLa combinación de un lexema y un afijo puede ser el resultado de la derivación o de la flexión\nLa derivación: Con la adición de un afijo, hay un cambio de categoría de la base y/o un cambio sustancial en el significado (léxico).\nLa flexión: Con la adición de un afijo, no hay cambio de categoría de la base y no hay cambio sustancial en el significado, aunque puede haber cambio de significado gramatical."
+  },
+  {
+    "objectID": "semana1.html#lexema-afijo-1",
+    "href": "semana1.html#lexema-afijo-1",
+    "title": "Presentación",
+    "section": "Lexema + Afijo",
+    "text": "Lexema + Afijo\n\n\ngota → gotear\n\namar → amable\n\ncrear → creación\nnaranja → naranjo\nmanzana → manzanar\n\n\ncorre → corría\nmesa → mesas\nlargo → larguísimo"
+  },
+  {
+    "objectID": "semana1.html#lexema-lexema",
+    "href": "semana1.html#lexema-lexema",
+    "title": "Presentación",
+    "section": "Lexema + lexema",
+    "text": "Lexema + lexema\n\nLa composición: La combinación de dos (o más) lexemas.\n\n\n\nabrebotellas\nnochevieja\nhombre lobo"
+  },
+  {
+    "objectID": "semana1.html#la-flexión-vs.-la-derivación",
+    "href": "semana1.html#la-flexión-vs.-la-derivación",
+    "title": "Presentación",
+    "section": "La flexión vs. la derivación",
+    "text": "La flexión vs. la derivación\n\nCuatro propiedades que distinguen la flexión de la derivación\n\n\nLa derivación forma palabras (lexemas) nuevos: estudiar → estudiante.\nLa flexión no; crea formas de una palabra/lexema existente: copa → copas\nLa flexión es PRODUCTIVA: se aplica (con raras excepciones) a todas las formas que pertenece a una misma categoría gramatical - forma imperfectiva de los verbos.\n\nLa derivación tiene excepciones arbitrarias - afijo -dor\n* estudiador, * visitador, (*)comedor"
+  },
+  {
+    "objectID": "semana1.html#la-flexión-vs.-la-derivación-1",
+    "href": "semana1.html#la-flexión-vs.-la-derivación-1",
+    "title": "Presentación",
+    "section": "La flexión vs. la derivación",
+    "text": "La flexión vs. la derivación\n\nLa flexión es sensible al contexto gramatical, e.g. la concordancia.\n\nLas frutas sanas.\n\nLa derivación no es sensible al contexto gramatical.\n\nLas discusiones sanas/ *sansiones\n\nLos afijos flexivos aparecen en los extremos de una palabra.\nLos afijos derivativos aparecen en una capa más interna a los afijos flexivos.\n\ntrabajadores/*trabajaesdor\nhumedecer → humedecía/*humedíaece"
+  },
+  {
+    "objectID": "semana1.html#nuevas-palabras",
+    "href": "semana1.html#nuevas-palabras",
+    "title": "Presentación",
+    "section": "Nuevas palabras",
+    "text": "Nuevas palabras\n\nLa formación de una palabra (=lexema) nuevo\nConvencionalmente, una palabra se considera distinta a otra si se difieren en una de cuatro nociones:\n\nla categoría léxica: nación → nacional\nla estructura argumental: ojo → ojear\nla estructura aspectual: conocer → reconocer\nlos rasgos característicos/semánticos: libro → libreta"
+  },
+  {
+    "objectID": "semana1.html#la-estructura",
+    "href": "semana1.html#la-estructura",
+    "title": "Presentación",
+    "section": "La estructura",
+    "text": "La estructura\n\nHay estructura jerárquica dentro de la palabra, tal como hay en la sintaxis.\n\n\n\nrebuscamiento\nre-busc-a-miento-s\n[[[re-[[busc-]-a]]-miento]-s]"
+  },
+  {
+    "objectID": "semana1.html#la-estructura-1",
+    "href": "semana1.html#la-estructura-1",
+    "title": "Presentación",
+    "section": "La estructura",
+    "text": "La estructura\n\n\nTocaron al oso con una rama. → una oración: dos significados\n\n\n\n\ninutilizable → una palabra: dos significados"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "SPAN431",
+    "section": "",
+    "text": "This is the website for the class.\n\nAnnouncements\nPlease check here for annoucements."
+  },
+  {
+    "objectID": "handou11.html",
+    "href": "handou11.html",
+    "title": "La morfofonología y la morfosintaxis",
+    "section": "",
+    "text": "It appears you don't have a PDF plugin for this browser.\n    No biggie... you can click here to\n    download the PDF file."
+  },
+  {
+    "objectID": "handout13.html",
+    "href": "handout13.html",
+    "title": "La derivación y composición",
+    "section": "",
+    "text": "It appears you don't have a PDF plugin for this browser.\n    No biggie... you can click here to\n    download the PDF file."
+  },
+  {
+    "objectID": "handout12.html",
+    "href": "handout12.html",
+    "title": "La flexión y su analsis",
+    "section": "",
+    "text": "It appears you don't have a PDF plugin for this browser.\n    No biggie... you can click here to\n    download the PDF file."
   },
   {
     "objectID": "handout5.html#el-género-de-los-sustantivos",
@@ -301,970 +1225,53 @@
     "text": "Variación\n\nLos pronombres de tercera persona demuestran variación: leísmo (animado), laísmo y loísmo\nLos pronombres de segunda persona (n)formal usted/tú, vos/tú, y ustedes/vosotros/as"
   },
   {
-    "objectID": "handout12.html",
-    "href": "handout12.html",
-    "title": "La flexión y su analsis",
+    "objectID": "articles.html",
+    "href": "articles.html",
+    "title": "Articles",
     "section": "",
-    "text": "It appears you don't have a PDF plugin for this browser.\n    No biggie... you can click here to\n    download the PDF file."
+    "text": "Gutiérrez-Rexach, J., & Sessarego, S. (2014). Morphosyntactic variation and gender agreement in three Afro-Andean dialects. Lingua, 151, 142-161.\nNavarro, Í., & Espinal, M. T. (2012). Le-predicates and event modification in Mexican Spanish. Lingua, 122(4), 409-431."
   },
   {
-    "objectID": "handout13.html",
-    "href": "handout13.html",
-    "title": "La derivación y composición",
+    "objectID": "articles.html#semana-8---variation",
+    "href": "articles.html#semana-8---variation",
+    "title": "Articles",
     "section": "",
-    "text": "It appears you don't have a PDF plugin for this browser.\n    No biggie... you can click here to\n    download the PDF file."
+    "text": "Gutiérrez-Rexach, J., & Sessarego, S. (2014). Morphosyntactic variation and gender agreement in three Afro-Andean dialects. Lingua, 151, 142-161.\nNavarro, Í., & Espinal, M. T. (2012). Le-predicates and event modification in Mexican Spanish. Lingua, 122(4), 409-431."
   },
   {
-    "objectID": "handou11.html",
-    "href": "handou11.html",
-    "title": "La morfofonología y la morfosintaxis",
-    "section": "",
-    "text": "It appears you don't have a PDF plugin for this browser.\n    No biggie... you can click here to\n    download the PDF file."
+    "objectID": "articles.html#semana-9---child-acquisition",
+    "href": "articles.html#semana-9---child-acquisition",
+    "title": "Articles",
+    "section": "Semana 9 - Child acquisition",
+    "text": "Semana 9 - Child acquisition\n\nClahsen, H., Aveledo, F., & Roca, I. (2002). The development of regular and irregular verb inflection in Spanish child language. Journal of child language, 29(3), 591-622.\n\nFranco\n\nMariscal, S. (2009). Early acquisition of gender agreement in the Spanish noun phrase: starting small. Journal of Child Language, 36(1), 143-171.\n\nKamila"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "SPAN431",
-    "section": "",
-    "text": "This is the website for the class.\n\nAnnouncements\ngit Pleas check here for annoucements."
+    "objectID": "articles.html#semana-10---sociolinguistics",
+    "href": "articles.html#semana-10---sociolinguistics",
+    "title": "Articles",
+    "section": "Semana 10 - Sociolinguistics",
+    "text": "Semana 10 - Sociolinguistics\n\nEscobar, A. M., & Roy, J. (2022). Grammaticalization in the Evidential pathway of the Andean Spanish Present Perfect: Language contact as a trigger for language change. Isogloss, 8(4), 1-38.\nBarnes, S. (2012). ¿ Qué dijistes?: A variationist reanalysis of non-standard-s on second person singular preterit verb forms in Spanish. In Selected Proceedings of the 14th Hispanic Linguistics Symposium (pp. 38-47). Somerville, MA: Cascadilla Proceedings Project.\n\nAlonso\n\nEscalante, C. (2015). ¿ Qué twiteastes tú? Variation in second person singular preterit–s in Spanish tweets. Entrehojas: Revista de Estudios Hispánicos, 5(1).\nPapadopoulos, B. (2024). Identifying Gender in Gendered Languages: The Case of Spanish. Redoing Linguistic Worlds: Unmaking Gender Binaries, Remaking Gender Pluralities, 30."
   },
   {
-    "objectID": "semana1.html#qué-es-la-morfología",
-    "href": "semana1.html#qué-es-la-morfología",
-    "title": "Presentación",
-    "section": "¿qué es la morfología?",
-    "text": "¿qué es la morfología?\n\nUna introducción a la morfología\n\n\nUn morfólogo estudia la forma en que los hablantes construyen e interpretan las palabras de su lengua.\nLa morfología investiga las propiedades de las palabras, especialmente:\n\nLa información gramatical que contienen las palabras y\nLa forma de relacionarse unas con otras por su forma y significado"
+    "objectID": "articles.html#semana-11---heritage-speakers",
+    "href": "articles.html#semana-11---heritage-speakers",
+    "title": "Articles",
+    "section": "Semana 11 - Heritage Speakers",
+    "text": "Semana 11 - Heritage Speakers\n\nMontrul, S. (2010). Dominant language transfer in adult second language learners and heritage speakers. Second Language Research, 26(3), 293-327.\n\nEdwin\n\nScontras, G., Polinsky, M., & Fuchs, Z. (2018). In support of representational economy: Agreement in heritage Spanish. Glossa: A journal of general linguistics, 3(1).\n\nBrenda\n\nFoote, R. (2011). Integrated knowledge of agreement in early and late English–Spanish bilinguals. Applied Psycholinguistics, 32(1), 187-220.\nDomínguez, L., Arche, M. J., & Myles, F. (2017). Spanish Imperfect revisited: Exploring L1 influence in the reassembly of imperfective features onto new L2 forms. Second language research, 33(4), 431-457.\n\nElla"
   },
   {
-    "objectID": "semana1.html#la-morfología",
-    "href": "semana1.html#la-morfología",
-    "title": "Presentación",
-    "section": "La morfología",
-    "text": "La morfología\n\nAlgunos pronombres de objeto\n\n\n\n\n\n1a persona\n2a persona\n\n\nSingular\nme\nte\n\n\nPlural\nnos\nos"
+    "objectID": "articles.html#semana-12---distributed-morphology",
+    "href": "articles.html#semana-12---distributed-morphology",
+    "title": "Articles",
+    "section": "Semana 12 - Distributed Morphology",
+    "text": "Semana 12 - Distributed Morphology\n\nEmbick, D., & Noyer, R. (2007). Distributed morphology and the syntax—morphology interface.\nAcquaviva, P. (2009). Roots and lexicality in Distributed Morphology. In Alexandra Galani, Daniel Redinger and Norman Yeo (eds.). YPL2-Issue 10 (May 2009) Special Issue-York-\nSmith, Peter (forth) DM and Minimalism. The Cambridge Handbook of Distributed Morphology"
   },
   {
-    "objectID": "semana1.html#la-morfología-1",
-    "href": "semana1.html#la-morfología-1",
-    "title": "Presentación",
-    "section": "La morfología",
-    "text": "La morfología\n\nEl sufijo -dor\n\n\n\n\nVerbo\nSustantivo\n\n\ntrabajar\ntrabajador\n\n\ngobernar\ngobernador\n\n\nafilar\nafilador\n\n\ncomprar\ncomprador\n\n\n\n\nEl morfólogo también se pregunta por qué no *visitador vs. visitante; y qué pasa con leñador, que no contiene verbo."
-  },
-  {
-    "objectID": "semana1.html#la-morfología-2",
-    "href": "semana1.html#la-morfología-2",
-    "title": "Presentación",
-    "section": "La morfología",
-    "text": "La morfología\n\nMorfológicamente simple: Una palabra que no puede dividirse en unidades menores de significado\n\n\nme, te, nos, os\n\n\nMorfológicamente compleja: Una palabra que puede dividirse en unidades menores de significado.\n\n\nafilador: afila + dor"
-  },
-  {
-    "objectID": "semana1.html#los-morfemas",
-    "href": "semana1.html#los-morfemas",
-    "title": "Presentación",
-    "section": "Los morfemas",
-    "text": "Los morfemas\n\nLos morfemas: Una unidad mínima con significado; unidades gramaticales mínimas\n\n\n\nestudiante: estudia + nte\nsordera: sord + era\nexactitud: exact + itud"
-  },
-  {
-    "objectID": "semana1.html#las-partes",
-    "href": "semana1.html#las-partes",
-    "title": "Presentación",
-    "section": "Las partes",
-    "text": "Las partes\n\nBase: La forma más simple sobre la que se forma la otra palabra\nMorfo: Los segmentos fonémicos de los morfemas, i.e. su forma pronunciada.\n\nCuando un morfema está representado por más de un morfo, el morfema tiene alomorfos (o más de un exponente).\n\n\n\n\ncasa-s vs. león-es → -s/-es (plural)\nimposible vs. indomable → [im] vs. [in] (prefijo negativo)"
-  },
-  {
-    "objectID": "semana1.html#la-fonología",
-    "href": "semana1.html#la-fonología",
-    "title": "Presentación",
-    "section": "La fonología",
-    "text": "La fonología\n\nLa fonología: Investiga los sonidos y cómo se combinan entre sí.\n\n\n\ndedo\nlago vs. gato\n\n\ntrabajador\nafilador\n\n\nLa morfofonología: El estudio del interfaz entre la fonología y la morfología; la aplicación de la fonología al estudio de la palabra."
-  },
-  {
-    "objectID": "semana1.html#la-semántica",
-    "href": "semana1.html#la-semántica",
-    "title": "Presentación",
-    "section": "La semántica",
-    "text": "La semántica\n\nLa semántica: Investiga el significado de las unidades y sus combinaciones.\n\n\n\ngobernar\ngobernador\n\n\nnaranja\nnaranjo\n\n\nLa semántica léxica: El estudio del interfaz entre la semántica y la morfología; la aplicación de la semántica al estudio de la palabra."
-  },
-  {
-    "objectID": "semana1.html#la-sintaxis",
-    "href": "semana1.html#la-sintaxis",
-    "title": "Presentación",
-    "section": "La sintaxis",
-    "text": "La sintaxis\n\nLa sintaxis: Investiga las oraciones y como las partes de las oraciones se combinan para formar oraciones.\n\n\nEl gobernador salió en la tele.\n\n\nLa morfosintaxis: El estudio del interfaz entre la sintaxis y la morfología; la aplicación de la sintaxis al estudio de la palabra\n\n\ngobernador → goberna + dor"
-  },
-  {
-    "objectID": "semana1.html#el-léxico",
-    "href": "semana1.html#el-léxico",
-    "title": "Presentación",
-    "section": "El léxico",
-    "text": "El léxico\n\nEl lenguaje es un sistema que nos permite combinar unidades simples para formar elementos complejos que se materializan mediate sonidos (o gestos) y que contienen un significado determinado.\n\n(11)"
-  },
-  {
-    "objectID": "semana1.html#el-léxico-1",
-    "href": "semana1.html#el-léxico-1",
-    "title": "Presentación",
-    "section": "El léxico",
-    "text": "El léxico\nEl léxico: La lista de unidades que cada lengua tiene para combinar; es una lista arbitraría que asocia una secuencia de sonidos conjuntos de información gramatical y semántica. Es esencialmente lo que se recoge en los diccionarios.\n\nPor ejemplo: la lista especifica que el objeto esférico en el cielo que refleja la luz del sol se pronuncia /luna/ en español.\nLa arbitrariedad: De una lengua a otro el léxico varía: /mun/ en inglés, /tal/ en coreano, /fengari/ en griego."
-  },
-  {
-    "objectID": "semana1.html#el-léxico-2",
-    "href": "semana1.html#el-léxico-2",
-    "title": "Presentación",
-    "section": "El léxico",
-    "text": "El léxico\n\n\n\nProcedimiento léxico\nvs\nPocedimiento morfológico\n\n\n\n\ncaballo - yegua\n\ndoctor - doctora\n\n\nhombre - mujer\n\nniño - niña\n\n\n\n\nCómo se vería esto en el modelo?"
-  },
-  {
-    "objectID": "semana1.html#flexión-derivación-y-composición",
-    "href": "semana1.html#flexión-derivación-y-composición",
-    "title": "Presentación",
-    "section": "Flexión, derivación y composición",
-    "text": "Flexión, derivación y composición\n\nLa palabra trabajador consiste en un LEXEMA (trabaja) y un AFIJO (-dor).\n¿Qué es un lexema?\n\nPara entender, es útil pensar sobre la noción palabra."
-  },
-  {
-    "objectID": "semana1.html#lexema",
-    "href": "semana1.html#lexema",
-    "title": "Presentación",
-    "section": "Lexema",
-    "text": "Lexema\n\n\nYo encuentro problemas graves.\nTu encuentras problemas graves.\nEncontré problemas graves.\nEncontraste problemas graves.\n\n\n\nUna noción de palabra: En (12) hay 4 palabras subrayadas. Se distinguen por sus fonemas (sonidos distintos) y/o por las letras distintas. En este sentido se refieren a las formas distintas.\nOtra noción de palabra: En (12) hay una palabra abstracta que puede realizarse/manifestarse en varias formas. Diríamos que en (12) el verbo es el mismo en cada oración: encontrar.\nNB: En un diccionario, solo encontrarás encontrar"
-  },
-  {
-    "objectID": "semana1.html#lexema-1",
-    "href": "semana1.html#lexema-1",
-    "title": "Presentación",
-    "section": "Lexema",
-    "text": "Lexema\n\nLexema (definición informal): la palabra abstracta que subyace sus posibles formas (flexivas); tiene categoría léxica.\n\n\n\nnaranja\nnaranjo"
-  },
-  {
-    "objectID": "semana1.html#lexema-vs-afijo",
-    "href": "semana1.html#lexema-vs-afijo",
-    "title": "Presentación",
-    "section": "Lexema vs afijo",
-    "text": "Lexema vs afijo\n\n¿Cómo se difieren los lexemas de los afijos?\nDos propiedades formales:\n\nPosicionamiento\nPosibles combinaciones:"
-  },
-  {
-    "objectID": "semana1.html#posicionamiento",
-    "href": "semana1.html#posicionamiento",
-    "title": "Presentación",
-    "section": "Posicionamiento",
-    "text": "Posicionamiento\n\nLexema: Tiene más libertad de posicionamiento: dentro de la palabra, a la izquierda o a la derecha.\nAfijo: Siempre ocupa una posición fija\n\n\n\norganiza-dor\nco-organiza\n\n\ncorre-dor → *dor-corre\nco-habita → *habit-co"
-  },
-  {
-    "objectID": "semana1.html#posibles-combinaciones",
-    "href": "semana1.html#posibles-combinaciones",
-    "title": "Presentación",
-    "section": "Posibles combinaciones",
-    "text": "Posibles combinaciones\n\nLexema: Puede formar una palabra sin necesidad de otros elementos. Es decir, puede formar la base con la que se combina otro lexema para formar una pablara nueva.\nAfijo: No puede ser base con la que combina otro afijo.\n\n\n\npara-sol\nhombre-rana\n\n\n*co-dor\n*pre-ista"
-  },
-  {
-    "objectID": "semana1.html#lexema-afijo",
-    "href": "semana1.html#lexema-afijo",
-    "title": "Presentación",
-    "section": "Lexema + Afijo",
-    "text": "Lexema + Afijo\n\nLa combinación de un lexema y un afijo puede ser el resultado de la derivación o de la flexión\nLa derivación: Con la adición de un afijo, hay un cambio de categoría de la base y/o un cambio sustancial en el significado (léxico).\nLa flexión: Con la adición de un afijo, no hay cambio de categoría de la base y no hay cambio sustancial en el significado, aunque puede haber cambio de significado gramatical."
-  },
-  {
-    "objectID": "semana1.html#lexema-afijo-1",
-    "href": "semana1.html#lexema-afijo-1",
-    "title": "Presentación",
-    "section": "Lexema + Afijo",
-    "text": "Lexema + Afijo\n\n\ngota → gotear\n\namar → amable\n\ncrear → creación\nnaranja → naranjo\nmanzana → manzanar\n\n\ncorre → corría\nmesa → mesas\nlargo → larguísimo"
-  },
-  {
-    "objectID": "semana1.html#lexema-lexema",
-    "href": "semana1.html#lexema-lexema",
-    "title": "Presentación",
-    "section": "Lexema + lexema",
-    "text": "Lexema + lexema\n\nLa composición: La combinación de dos (o más) lexemas.\n\n\n\nabrebotellas\nnochevieja\nhombre lobo"
-  },
-  {
-    "objectID": "semana1.html#la-flexión-vs.-la-derivación",
-    "href": "semana1.html#la-flexión-vs.-la-derivación",
-    "title": "Presentación",
-    "section": "La flexión vs. la derivación",
-    "text": "La flexión vs. la derivación\n\nCuatro propiedades que distinguen la flexión de la derivación\n\n\nLa derivación forma palabras (lexemas) nuevos: estudiar → estudiante.\nLa flexión no; crea formas de una palabra/lexema existente: copa → copas\nLa flexión es PRODUCTIVA: se aplica (con raras excepciones) a todas las formas que pertenece a una misma categoría gramatical - forma imperfectiva de los verbos.\n\nLa derivación tiene excepciones arbitrarias - afijo -dor\n* estudiador, * visitador, (*)comedor"
-  },
-  {
-    "objectID": "semana1.html#la-flexión-vs.-la-derivación-1",
-    "href": "semana1.html#la-flexión-vs.-la-derivación-1",
-    "title": "Presentación",
-    "section": "La flexión vs. la derivación",
-    "text": "La flexión vs. la derivación\n\nLa flexión es sensible al contexto gramatical, e.g. la concordancia.\n\nLas frutas sanas.\n\nLa derivación no es sensible al contexto gramatical.\n\nLas discusiones sanas/ *sansiones\n\nLos afijos flexivos aparecen en los extremos de una palabra.\nLos afijos derivativos aparecen en una capa más interna a los afijos flexivos.\n\ntrabajadores/*trabajaesdor\nhumedecer → humedecía/*humedíaece"
-  },
-  {
-    "objectID": "semana1.html#nuevas-palabras",
-    "href": "semana1.html#nuevas-palabras",
-    "title": "Presentación",
-    "section": "Nuevas palabras",
-    "text": "Nuevas palabras\n\nLa formación de una palabra (=lexema) nuevo\nConvencionalmente, una palabra se considera distinta a otra si se difieren en una de cuatro nociones:\n\nla categoría léxica: nación → nacional\nla estructura argumental: ojo → ojear\nla estructura aspectual: conocer → reconocer\nlos rasgos característicos/semánticos: libro → libreta"
-  },
-  {
-    "objectID": "semana1.html#la-estructura",
-    "href": "semana1.html#la-estructura",
-    "title": "Presentación",
-    "section": "La estructura",
-    "text": "La estructura\n\nHay estructura jerárquica dentro de la palabra, tal como hay en la sintaxis.\n\n\n\nrebuscamiento\nre-busc-a-miento-s\n[[[re-[[busc-]-a]]-miento]-s]"
-  },
-  {
-    "objectID": "semana1.html#la-estructura-1",
-    "href": "semana1.html#la-estructura-1",
-    "title": "Presentación",
-    "section": "La estructura",
-    "text": "La estructura\n\n\nTocaron al oso con una rama. → una oración: dos significados\n\n\n\n\ninutilizable → una palabra: dos significados"
-  },
-  {
-    "objectID": "span431_syllabus.html",
-    "href": "span431_syllabus.html",
-    "title": "Syllabus",
-    "section": "",
-    "text": "Professor: Dr. Rodrigo Delgado\nOffice: 4135 Literatures, Cultures & Linguistics Building (LCLB)\nOffice hours: By appointment only\nemail: rdelga21@illinois.edu"
-  },
-  {
-    "objectID": "span431_syllabus.html#objectivos-principales-del-curso",
-    "href": "span431_syllabus.html#objectivos-principales-del-curso",
-    "title": "Syllabus",
-    "section": "Objectivos principales del curso",
-    "text": "Objectivos principales del curso\n\nIntroducir los fenómenos morfológicos del español, principalmente desde una perspectiva formal.\nIntroducir las teorías de la morfología.\nExplorar estudios de otras areas que se relacionan con la morfología."
-  },
-  {
-    "objectID": "span431_syllabus.html#materiales-del-curso",
-    "href": "span431_syllabus.html#materiales-del-curso",
-    "title": "Syllabus",
-    "section": "Materiales del curso",
-    "text": "Materiales del curso\n\nLos PPT que se usaran en clase.\nLas lecturas estarán disponibles en la página."
-  },
-  {
-    "objectID": "span431_syllabus.html#la-composición-de-la-nota",
-    "href": "span431_syllabus.html#la-composición-de-la-nota",
-    "title": "Syllabus",
-    "section": "La composición de la nota:",
-    "text": "La composición de la nota:\n\nTarea (6): 30%\n\n\nEstas tareas se entregarán en Canvas\nCada dos semanas\n\n\nPresentación de uno o dos artículos\n\n\nLa presentación incluirá una síntesis del estudio (fenómeno lingüístico, hipótesis, metodología de análisis y conclusión) con anotaciones críticas y dos preguntas finales de reflexión. Tendrán 1 hora para la presentación.\n\n\nInvestigación final: 40%\n\n\nSobre un fenomeno morfológico del español.\nIncluye:\n\nAbstract del trabajo de 2 páginas (5%) (Octubre 24)\nAnálisis crítico de un artículo del trabajo final (10%) (Noviembre 7)\n\nEl artículo escogido debe ser aprovado por el profesor\n\nPresentación del trabajo final (10%)\nEl paper final de ±15 páginas, doble espacio (15%) (Diciembre 13)\n\n\n\nAsistencia: 5%\nParticipación: 5%\n\nLife happens clause - You can invoke the clause on one deadline and get a 3-day extension. No explanation required. To use it, please email me stating that you want the extension and the name of the assignment."
-  },
-  {
-    "objectID": "w1d2.html#la-identificación-de-morfemas",
-    "href": "w1d2.html#la-identificación-de-morfemas",
-    "title": "Las unidades",
-    "section": "La identificación de morfemas",
-    "text": "La identificación de morfemas\n\n¿Cómo se identifican los morfemas?\nTratar de emparejar significados iguales con segmentos iguales\n\nSe comparan las palabras de dos en dos\nLas dos deberían variar por solo un rasgo de significado\nBuscamos emparejamiento entre forma y significado, y su recurrencia"
-  },
-  {
-    "objectID": "w1d2.html#la-identificación-de-morfemas-1",
-    "href": "w1d2.html#la-identificación-de-morfemas-1",
-    "title": "Las unidades",
-    "section": "La identificación de morfemas",
-    "text": "La identificación de morfemas\nParadigma flexivo parcial de cantar y correr\n\nCantar - cantamos - cantó\nComer - comemos - comió"
-  },
-  {
-    "objectID": "w1d2.html#la-identificación-de-morfemas-2",
-    "href": "w1d2.html#la-identificación-de-morfemas-2",
-    "title": "Las unidades",
-    "section": "La identificación de morfemas",
-    "text": "La identificación de morfemas\n\nSincretismo: El mismo morfema expresa más de un significado. Primera y tercera persona del imperfecto son formas sincréticas.\n\n\n\nYo cantaba/vivía en Champaign.\nElla cantaba/vivía en Champaign."
-  },
-  {
-    "objectID": "w1d2.html#la-raíz-el-tema-morfológico-y-la-base-1",
-    "href": "w1d2.html#la-raíz-el-tema-morfológico-y-la-base-1",
-    "title": "Las unidades",
-    "section": "La raíz, el tema morfológico, y la base",
-    "text": "La raíz, el tema morfológico, y la base\n\nRaíz: La parte de la palabra que aporta significado/concepto sobre el mundo real; morfo común e irreductible en una familia léxica.\n\n\n\ncrear, creación, creador, creo\ncre-a-r, cre-a-ción, cre-a-dor, cre-o\nraíz: cre-\n\n\nbeber, bebedor, bebiendo, bebida\nbeb-e-r, beb-e-dor, beb-ie-ndo, beb-ida\nraíz: beb-"
-  },
-  {
-    "objectID": "w1d2.html#la-raíz-el-tema-morfológico-y-la-base-2",
-    "href": "w1d2.html#la-raíz-el-tema-morfológico-y-la-base-2",
-    "title": "Las unidades",
-    "section": "La raíz, el tema morfológico, y la base",
-    "text": "La raíz, el tema morfológico, y la base\n\nTema (morfológico): (“stem” en inglés); lo que queda de una palabra cuando los morfemas flexivos se quitan; tiene categoría léxica (o sintáctica) (y por lo tanto muchas veces puede aparecer solo)."
-  },
-  {
-    "objectID": "w1d2.html#la-raíz-el-tema-morfológico-y-la-base-3",
-    "href": "w1d2.html#la-raíz-el-tema-morfológico-y-la-base-3",
-    "title": "Las unidades",
-    "section": "La raíz, el tema morfológico, y la base",
-    "text": "La raíz, el tema morfológico, y la base\nCon verbos:\n\n\ncantar\nTema: canta\nRaíz: cant-\n\n\nbeber\nTema: bebe\nRaíz: beb-"
-  },
-  {
-    "objectID": "w1d2.html#la-raíz-el-tema-morfológico-y-la-base-4",
-    "href": "w1d2.html#la-raíz-el-tema-morfológico-y-la-base-4",
-    "title": "Las unidades",
-    "section": "La raíz, el tema morfológico, y la base",
-    "text": "La raíz, el tema morfológico, y la base\nCategorías sin género flexivo:\nSustantivos\n\n\nlibros\nTema: libro\nRaíz: libr-\n\n\nAlgunos adjetivos\n\n\nalegras\nTema: alegre\nRaíz: alegr-"
-  },
-  {
-    "objectID": "w1d2.html#la-raíz-el-tema-morfológico-y-la-base-5",
-    "href": "w1d2.html#la-raíz-el-tema-morfológico-y-la-base-5",
-    "title": "Las unidades",
-    "section": "La raíz, el tema morfológico, y la base",
-    "text": "La raíz, el tema morfológico, y la base\nCategorías con género flexivo (o sea por concordancia):\n\n\nrojas\nTema: roj-\nRaíz: roj-\n\n\nrojizas\nTema: rojiz-\nRaíz: roj-"
-  },
-  {
-    "objectID": "w1d2.html#la-raíz-el-tema-morfológico-y-la-base-6",
-    "href": "w1d2.html#la-raíz-el-tema-morfológico-y-la-base-6",
-    "title": "Las unidades",
-    "section": "La raíz, el tema morfológico, y la base",
-    "text": "La raíz, el tema morfológico, y la base\n\nBase: La unidad (en cualquier nivel de constitución) sobre el que puede operar un proceso morfológico.\nClase morfológica: tanto la vocal temática de los verbos, como el género de los sustantivos marcan o definen la clase morfológica de la palabra"
-  },
-  {
-    "objectID": "w1d2.html#temas-grecolatinosneoclásicos-1",
-    "href": "w1d2.html#temas-grecolatinosneoclásicos-1",
-    "title": "Las unidades",
-    "section": "Temas grecolatinos/neoclásicos",
-    "text": "Temas grecolatinos/neoclásicos\n\nTemas (=“stems”) que viene etimológicamente del vocabulario dellatín culto o del griego clásico y se portan como las raíces en algunos aspectos, pero no en otros\n\n\nfobo, filo, logo, hidro, peda etc."
-  },
-  {
-    "objectID": "w1d2.html#temas-grecolatinosneoclásicos-2",
-    "href": "w1d2.html#temas-grecolatinosneoclásicos-2",
-    "title": "Las unidades",
-    "section": "Temas grecolatinos/neoclásicos",
-    "text": "Temas grecolatinos/neoclásicos\n\nComo las raíces:\n\n\nDenotan conceptos del mundo.\n\n\nfobo = miedo; hidro = agua; peda - experto/profesor\n\n\nTiene libertad de posicionamiento.\n\n\nlogopeda; pedagogo"
-  },
-  {
-    "objectID": "w1d2.html#temas-grecolatinosneoclásicos-3",
-    "href": "w1d2.html#temas-grecolatinosneoclásicos-3",
-    "title": "Las unidades",
-    "section": "Temas grecolatinos/neoclásicos",
-    "text": "Temas grecolatinos/neoclásicos\n\nNo como las raíces:\n\n\nNo pueden aparece solos (sin afijo derivativo)\n\n\nfób-ic-o; pediatra\n\n\nPueden formar palabras al combinarse entre sí; las raíces necesitan una marca de clase léxica\n\n\nlogopeda; pedagogo → parasol; sordomudo\n\n\nMás ejemplos: morfología, pedagogía, filosofía, antropología, filántropo, fragante, fragancia, francófilo, insípido…"
-  },
-  {
-    "objectID": "w1d2.html#clase-de-morfemas-por-su-posicionamiento-1",
-    "href": "w1d2.html#clase-de-morfemas-por-su-posicionamiento-1",
-    "title": "Las unidades",
-    "section": "Clase de morfemas por su posicionamiento",
-    "text": "Clase de morfemas por su posicionamiento\n\nPrefijo: Afijo que aparece a la izquierda de la raíz. (Nota: Los prefijos nunca cambian la categoría de la base con que se combinan.)\n\n\n\nin-útil\nex-jugador\ndes-hacer"
-  },
-  {
-    "objectID": "w1d2.html#clase-de-morfemas-por-su-posicionamiento-2",
-    "href": "w1d2.html#clase-de-morfemas-por-su-posicionamiento-2",
-    "title": "Las unidades",
-    "section": "Clase de morfemas por su posicionamiento",
-    "text": "Clase de morfemas por su posicionamiento\nSufijo: Afijo que aparece a la derecha de la raíz\n\n\nmes-ita\nfrut-ero\nregal-an"
-  },
-  {
-    "objectID": "w1d2.html#clase-de-morfemas-por-su-posicionamiento-3",
-    "href": "w1d2.html#clase-de-morfemas-por-su-posicionamiento-3",
-    "title": "Las unidades",
-    "section": "Clase de morfemas por su posicionamiento",
-    "text": "Clase de morfemas por su posicionamiento\n\nInfijo: Afijo que aparece en el interior de la raíz:\n\n\n\nazucar → azuquitar\nlejos → lejitos\nCarlos → Carlitos\nMassachusetts → Massafreakinchusetts"
-  },
-  {
-    "objectID": "w1d2.html#clase-de-morfemas-por-su-posicionamiento-4",
-    "href": "w1d2.html#clase-de-morfemas-por-su-posicionamiento-4",
-    "title": "Las unidades",
-    "section": "Clase de morfemas por su posicionamiento",
-    "text": "Clase de morfemas por su posicionamiento\n\nInterfijo: Afijo que aparece entre dos morfemas\n\n\n\nancho → ensanchar\ngordo → engordar"
-  },
-  {
-    "objectID": "w1d2.html#clase-de-morfemas-por-su-posicionamiento-5",
-    "href": "w1d2.html#clase-de-morfemas-por-su-posicionamiento-5",
-    "title": "Las unidades",
-    "section": "Clase de morfemas por su posicionamiento",
-    "text": "Clase de morfemas por su posicionamiento\n\nCircunfijo: Afijo discontinuo una parte del que parece un prefijo y la otra un sufijo.\n\n\narbeiten → gearbeitet"
-  },
-  {
-    "objectID": "w1d2.html#clase-de-morfemas-por-su-posicionamiento-6",
-    "href": "w1d2.html#clase-de-morfemas-por-su-posicionamiento-6",
-    "title": "Las unidades",
-    "section": "Clase de morfemas por su posicionamiento",
-    "text": "Clase de morfemas por su posicionamiento\n\nParasíntesis: Parece circunfijación en la formación de verbos en español.\n\n\n\npluma → desplumar\nsucio → ensuciar"
-  },
-  {
-    "objectID": "w1d2.html#clase-de-morfemas-por-su-posicionamiento-7",
-    "href": "w1d2.html#clase-de-morfemas-por-su-posicionamiento-7",
-    "title": "Las unidades",
-    "section": "Clase de morfemas por su posicionamiento",
-    "text": "Clase de morfemas por su posicionamiento\n\nMorfología templática: Afijos no continuos.\n\n\n\nRaíz: k_t_b\nkita:b - lo escrito, libro\nkutub - los escritos, libros\nka:tib - el que escribe, escritor"
-  },
-  {
-    "objectID": "w1d2.html#clase-de-morfemas-por-su-posicionamiento-8",
-    "href": "w1d2.html#clase-de-morfemas-por-su-posicionamiento-8",
-    "title": "Las unidades",
-    "section": "Clase de morfemas por su posicionamiento",
-    "text": "Clase de morfemas por su posicionamiento\n\nMorfología templática: Afijos no continuos.\n\n\n\nLas plantillas (“templates”)\nCVCV:C - nombre de resultado, sg.\nCVCVC - nombre de resultado, pl.\nCV:CVC - nombre de agente"
-  },
-  {
-    "objectID": "hualde2010.html",
-    "href": "hualde2010.html",
-    "title": "Hualde et al. (2010)",
-    "section": "",
-    "text": "It appears you don't have a PDF plugin for this browser.\n    No biggie... you can click here to\n    download the PDF file."
-  },
-  {
-    "objectID": "hualde2010.html#hualde-et-al.-2010---pgs.-137-149",
-    "href": "hualde2010.html#hualde-et-al.-2010---pgs.-137-149",
-    "title": "Hualde et al. (2010)",
-    "section": "",
-    "text": "It appears you don't have a PDF plugin for this browser.\n    No biggie... you can click here to\n    download the PDF file."
-  },
-  {
-    "objectID": "hualde2010.html#hualde-et-al.-2010---pgs.-155-178",
-    "href": "hualde2010.html#hualde-et-al.-2010---pgs.-155-178",
-    "title": "Hualde et al. (2010)",
-    "section": "Hualde et al. (2010) - pgs. 155-178",
-    "text": "Hualde et al. (2010) - pgs. 155-178\n\n    It appears you don't have a PDF plugin for this browser.\n    No biggie... you can click here to\n    download the PDF file."
-  },
-  {
-    "objectID": "hualde2010.html#hualde-et-al.-2010---pgs.-178-196",
-    "href": "hualde2010.html#hualde-et-al.-2010---pgs.-178-196",
-    "title": "Hualde et al. (2010)",
-    "section": "Hualde et al. (2010) - pgs. 178-196",
-    "text": "Hualde et al. (2010) - pgs. 178-196\n\n    It appears you don't have a PDF plugin for this browser.\n    No biggie... you can click here to\n    download the PDF file."
-  },
-  {
-    "objectID": "handout9.html#la-estructura-jerárquica-de-la-palabra",
-    "href": "handout9.html#la-estructura-jerárquica-de-la-palabra",
-    "title": "La estructura",
-    "section": "La estructura jerárquica de la palabra",
-    "text": "La estructura jerárquica de la palabra\n\nLas palabras tienen estructura interna, como las oraciones:\n\n\n\nTocaron al oso con una rama.\n\ntocaron [el oso con una rama] → “oso tiene la rama”\n[tocaron [el oso] con una rama] → “utilizaron la rama para tocarlo”\n\n\ninutilizable\n\n[in [utilizable]] → “que no puede ser utilizado”\n[[inutil] izable] → “que puede ser inutilizado”"
-  },
-  {
-    "objectID": "handout9.html#la-estructura-jerárquica-de-la-palabra-1",
-    "href": "handout9.html#la-estructura-jerárquica-de-la-palabra-1",
-    "title": "La estructura",
-    "section": "La estructura jerárquica de la palabra",
-    "text": "La estructura jerárquica de la palabra\n\nLa estructura implica que no hay línea secuencial de morfemas.\n\n\n\ninutilizable\n\n*in + util + iz + a + ble\n\n\nIgual que las oraciónes"
-  },
-  {
-    "objectID": "handout9.html#las-combinaciones-de-los-morfemas",
-    "href": "handout9.html#las-combinaciones-de-los-morfemas",
-    "title": "La estructura",
-    "section": "Las combinaciones de los morfemas",
-    "text": "Las combinaciones de los morfemas\n\nLa subcategorización: La categoría que requiere de su base el afijo para combinarse.\n\n\n\ncazar → cazador\n\njugar → jugador\n\nfalso/a → *falsador\nclase → *clasedor\ncosa → cosificar\nclase → clasificar\n\n\n/dor/ ↔︎ N/Adj, subcategorización: V\nV + -dor → N/Adj"
-  },
-  {
-    "objectID": "handout9.html#las-combinaciones-de-los-morfemas-1",
-    "href": "handout9.html#las-combinaciones-de-los-morfemas-1",
-    "title": "La estructura",
-    "section": "Las combinaciones de los morfemas",
-    "text": "Las combinaciones de los morfemas\n\n\n/ific/ ↔︎ V, subcategorización: N, Adj\nN/Adj + -ific → V"
-  },
-  {
-    "objectID": "handout9.html#las-combinaciones-de-los-morfemas-2",
-    "href": "handout9.html#las-combinaciones-de-los-morfemas-2",
-    "title": "La estructura",
-    "section": "Las combinaciones de los morfemas",
-    "text": "Las combinaciones de los morfemas\n\n\nclasificador\n\nfalsificador\n\n\nincansable\npremeditación"
-  },
-  {
-    "objectID": "handout9.html#estructuras",
-    "href": "handout9.html#estructuras",
-    "title": "La estructura",
-    "section": "Estructuras",
-    "text": "Estructuras\n\nNúcleo morfológico: El nudo más importante, el que determina la categoría de toda la palabra, y por lo tanto su distribución y el significado."
-  },
-  {
-    "objectID": "handout9.html#estructuras-1",
-    "href": "handout9.html#estructuras-1",
-    "title": "La estructura",
-    "section": "Estructuras",
-    "text": "Estructuras\n\n\npremeditación"
-  },
-  {
-    "objectID": "handout9.html#estructuras-2",
-    "href": "handout9.html#estructuras-2",
-    "title": "La estructura",
-    "section": "Estructuras",
-    "text": "Estructuras\n\n\nincansable"
-  },
-  {
-    "objectID": "handout9.html#estructuras-3",
-    "href": "handout9.html#estructuras-3",
-    "title": "La estructura",
-    "section": "Estructuras",
-    "text": "Estructuras\n\n\nLa inesperada premeditación llamaba la atención.\nEse joven es realmente incansable.\n\n\n*Yo premieditaciono todas las mañanas.\n*Yo nunca (me) incansablo en los partidos."
-  },
-  {
-    "objectID": "handout9.html#la-atomicidad-de-las-estructuras-morfológicas",
-    "href": "handout9.html#la-atomicidad-de-las-estructuras-morfológicas",
-    "title": "La estructura",
-    "section": "La atomicidad de las estructuras morfológicas",
-    "text": "La atomicidad de las estructuras morfológicas\n\nLa estructura interna es invisible a las operaciones sintácticas\n\n\n\n*Yo premieditaciono todas las mañanas.\n*Yo nunca (me) incansablo en los partidos.\n\n\nUn chico sordomudo.\n*Unas chicas sordasmudas."
-  },
-  {
-    "objectID": "handout9.html#la-atomicidad-de-las-estructuras-morfológicas-1",
-    "href": "handout9.html#la-atomicidad-de-las-estructuras-morfológicas-1",
-    "title": "La estructura",
-    "section": "La atomicidad de las estructuras morfológicas",
-    "text": "La atomicidad de las estructuras morfológicas\n\nNo se puedes modificar (por regla general).\n\n\n\n*La inesperadamente premeditación….\nEse loco inesperadamente premeditaba…\n\n\n*Ese joven es incansable mucho.\nEse joven no se cansa mucho.\n\n\nTengo un sacacorchos, que puede con corchos grandes.\n*Tengo un sacagrandescorchos/sacacorchosgrandes."
-  },
-  {
-    "objectID": "handout9.html#refinando-la-representación",
-    "href": "handout9.html#refinando-la-representación",
-    "title": "La estructura",
-    "section": "Refinando la representación",
-    "text": "Refinando la representación\n\nModificadores: Hay segmentos en el análisis morfológico que no proyectan una categoría por sí: las vocales temáticas (VT) y los prefijos."
-  },
-  {
-    "objectID": "handout9.html#refinando-la-representación-1",
-    "href": "handout9.html#refinando-la-representación-1",
-    "title": "La estructura",
-    "section": "Refinando la representación",
-    "text": "Refinando la representación\n\nLa representación refleja la subcategorización de los afijos.\n\n\n\n/ción/ ↔︎ N, subcategorización: V\n/ble/ ↔︎ Adj, subcategorización: V\n\n\n\nUna consecuencia: La VT no convierte la raíz en verbo, que se espera ya que la VT es un marcador de clase morfológica de los verbos.\n\nEn (19), el morfema ific verbaliza la raíz."
-  },
-  {
-    "objectID": "handout9.html#refinando-la-representación-2",
-    "href": "handout9.html#refinando-la-representación-2",
-    "title": "La estructura",
-    "section": "Refinando la representación",
-    "text": "Refinando la representación\n\nUna suposición: Supongamos que la VT nunca convierte una raíz en verbo.\nLa implicación: Por lo tanto, tenemos que proponer un morfo cero para verbos simples."
-  },
-  {
-    "objectID": "handout9.html#refinando-la-representación-3",
-    "href": "handout9.html#refinando-la-representación-3",
-    "title": "La estructura",
-    "section": "Refinando la representación",
-    "text": "Refinando la representación\n\nConsecuencia: Nuestras representaciones de premeditación y incansable, (y inutilizable (las dos)), tienen que modificarse."
-  },
-  {
-    "objectID": "handout9.html#refinando-la-representación-4",
-    "href": "handout9.html#refinando-la-representación-4",
-    "title": "La estructura",
-    "section": "Refinando la representación",
-    "text": "Refinando la representación\n\nLos prefijos: Como la VT, los prefijos tampoco cambian la categoría y en este sentido modifican.\n\n\n\nRepresenta la estructura interna de las dos interpretaciones de inutilizable con nuestro refinamiento."
-  },
-  {
-    "objectID": "handout9.html#refinando-la-representación-5",
-    "href": "handout9.html#refinando-la-representación-5",
-    "title": "La estructura",
-    "section": "Refinando la representación",
-    "text": "Refinando la representación\n\nLos sustantivos: El género es marcador de clase morfológica.\n\n\n\nEl ruidoso cantar de los pájaros por la mañana me despierta.\nEl encontrar las llaves esta mañana fue poco emocionante."
-  },
-  {
-    "objectID": "handout9.html#refinando-la-representación-6",
-    "href": "handout9.html#refinando-la-representación-6",
-    "title": "La estructura",
-    "section": "Refinando la representación",
-    "text": "Refinando la representación\n\n\nLe despertó el goteo de la pila.\nEl blanqueo de la portada del libro resulta feo.\n\n\n\nRepresenta la estructura interna de cantar en (26a) y goteo en (27a)."
-  },
-  {
-    "objectID": "431calendar.html",
-    "href": "431calendar.html",
-    "title": "Programa del curso",
-    "section": "",
-    "text": "Este es al programa para el semester.\n\nQuiero mantenerme flexible en cuanto al programa del curso para poder adaptarlo a las necesidades de la clase. Por lo tanto, el siguiente programa está sujeto a cambios, aunque sirve de guía para el curso.\n\nEl semestre se divide en tres partes:\n\nIntroducción a la morfología y las unidades de analysis: analizar la estructura interna de las palabras; la estuctura de las palabras (su sintaxis) - Semanas 1-4\nLas teorías sobre la morfología - Semanas 5-6\nLa morfología más extendida – Lecturas - Semanas 7 - final\n\n\n\n\n\n\n\n\n\nSemana\nMartes\nJueves\n\n\n\n\nSemana 1\nAugust 27\nIntroducción al curso\n\nFábregas (2013): 17-27\n\n29\nLas unidades del análisis morfológico\n\nFabregas (2013): 35-46\nPena (1999): 4312-4318\n\n\n\nSemana 2\nSeptember 3\nLa alomorfía y el análisis morfológico\n\nFábregas (2013): 47-51\nPena 1999: 4346-4358\n\n5\nLas estradas léxicas, la flexión nominal y\nla flexión verbal\n\nFábregas (2013): 64-69\nHualde et al. 2010: 137-149\n\nEjercicio 1\n\n\nSemana 3\n10\nLos verbos irregulares y el grado de los adjectivos y la derivación (la nominalización)\n\nHualde et al. (2010): 150-155, 163-178\n\n12\nLa derivación, la composición y otros procesos morfológicos y limitaciones del análisis morfológico\n\nHualde et al. (2010): 178-196\nPena (1999): 4358-4364\n\n\n\nSemana 4\n17\nLa estructura interna de la palabra\n\nFábregas (2013): 73-105\n\n19\nLa noción de “palabra” y el lugar de la morfología\n\nPena (1999): 4327-4329\nFábregas (2013): 51-54\nFábregas (2013): 27-31\n\nEjercicio 2\n\n\nSemana 5\n24\nMorfofonología y morfosintaxis\n\nFábregas (2013): 109-143\n\n26\nLa flexión y su análisis\n\nFábregas (2013): 175-209\n\n\n\nSemana 6\nOctober 1\nLa derivación y su análisis\n\nFábregas (2013): 211-244\n\n3\nLa composición y su análisis\n\nFábregas (2013): 247-276\n\nEjercicio 3\n\n\nSemana 7\n8\nPresentación de artículo\n\nRodrigo\n\n10\nPresentación de artículo\n\nRodrigo\n\n\n\nSemana 8\n15\n\nStudent presentation\n\nVariation\n17\n\nStudent presentation\n\nVariation\n\nEjercicio 4\n\n\nSemana 9\n22\n\nStudent presentation\n\nChild acquisition\n24\n\nStudent presentation\n\nChild acquisition\n\n\nSemana 10\n29\n\nStudent presentation\n*Sociolinguistics**\n\n31\n\nStudent presentation\n*Sociolinguistics**\n\nEjercicio 5\n\n\nSemana 11\nNovember 5\n\nStudent presentation\n\nHeritage speakers\n7\n\nStudent presentation\n\nHeritage speakers\n\n\nSemana 12\n12\n\nStudent presentation\n\nDistributed Morphology\n14\n\nStudent presentation\n\nDistributed Morphology\nEjercicio 6\n\n\nSemana 13\n19\n\nStudent presentation\n\nCode-switching\n21\n\nStudent presentation\n\nCode-switching\n\n\nFall break\nFall break\nFall break\n\n\nSemana 14\nDecember 3\nConferencia - No hay clase\n5\nConferencia - No hay clase\n\n\nSemana 15\n10\nPresentación del trabajo final\n12\nReading day (no hay clase)"
-  },
-  {
-    "objectID": "bd1999.html",
-    "href": "bd1999.html",
-    "title": "Bosque & Demonte (1999)",
-    "section": "",
-    "text": "It appears you don't have a PDF plugin for this browser.\n    No biggie... you can click here to\n    download the PDF file."
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
-  },
-  {
-    "objectID": "Fabregas2013.html",
-    "href": "Fabregas2013.html",
-    "title": "Fabregas (2013)",
-    "section": "",
-    "text": "It appears you don't have a PDF plugin for this browser.\n    No biggie... you can click here to\n    download the PDF file."
-  },
-  {
-    "objectID": "handout7.html#problemas-de-identificación",
-    "href": "handout7.html#problemas-de-identificación",
-    "title": "Las limitaciones",
-    "section": "Problemas de identificación",
-    "text": "Problemas de identificación\n\nMorfema: Un segmento mínimo con significado mínimo que recurre.\nRelación formal (de forma) y semántica (de significado) en la derivación\n\n\n\nleer → releer\nanimar → animación"
-  },
-  {
-    "objectID": "handout7.html#problemas-de-identificación-1",
-    "href": "handout7.html#problemas-de-identificación-1",
-    "title": "Las limitaciones",
-    "section": "Problemas de identificación",
-    "text": "Problemas de identificación\n\nEn (2) solo hay una relación formal entre los pares, y en (3) solo hay una relación semántica\n\n\n\ntener → retener\nestar → estación\n\n\noír → audición\nvarón → hembra"
-  },
-  {
-    "objectID": "handout7.html#problemas-de-identificación-2",
-    "href": "handout7.html#problemas-de-identificación-2",
-    "title": "Las limitaciones",
-    "section": "Problemas de identificación",
-    "text": "Problemas de identificación\n\nHay una escala en el grado de discordancia en la relación formal y semántica entre las palabras:\n\n\nPalabras relacionadas formalmente con distintos grados de irregularidades en la relación semántica\nPalabras relacionadas semánticamente con distintos grados de irregularidades en la relación formal"
-  },
-  {
-    "objectID": "handout7.html#relación-formal-con-variabilidad-en-la-relación-semántica",
-    "href": "handout7.html#relación-formal-con-variabilidad-en-la-relación-semántica",
-    "title": "Las limitaciones",
-    "section": "Relación formal con variabilidad en la relación semántica",
-    "text": "Relación formal con variabilidad en la relación semántica\n\nsufijo -miento\n\n\n\nplegamiento → “acción de V”\nagotamiento → “acción o estado resultante de V”\nalojamiento → “acción o lugar donde se realiza V”"
-  },
-  {
-    "objectID": "handout7.html#relación-formal-con-variabilidad-en-la-relación-semántica-1",
-    "href": "handout7.html#relación-formal-con-variabilidad-en-la-relación-semántica-1",
-    "title": "Las limitaciones",
-    "section": "Relación formal con variabilidad en la relación semántica",
-    "text": "Relación formal con variabilidad en la relación semántica\n\nsufijo -ada\n\n\ncabronada → “acto propio de N”\npedrada → “golpe dado con N”\ntorada → “colectivo de N”\ncucharada → “cantidad determinada por N”"
-  },
-  {
-    "objectID": "handout7.html#relación-semántica-con-variabilidad-en-la-relación-formal",
-    "href": "handout7.html#relación-semántica-con-variabilidad-en-la-relación-formal",
-    "title": "Las limitaciones",
-    "section": "Relación semántica con variabilidad en la relación formal",
-    "text": "Relación semántica con variabilidad en la relación formal\n\nSufijos -al y -ico “relacionado con N”\n\n\ninvierno → invernal\ncuerpo → corporal\nhermano → fraternal\n\n\nmago → mágico\nleche → láctico\njuego → lúdico"
-  },
-  {
-    "objectID": "handout7.html#relación-semántica-con-variabilidad-en-la-relación-formal-1",
-    "href": "handout7.html#relación-semántica-con-variabilidad-en-la-relación-formal-1",
-    "title": "Las limitaciones",
-    "section": "Relación semántica con variabilidad en la relación formal",
-    "text": "Relación semántica con variabilidad en la relación formal\n\nMisma relación semántica, pero sufijo distinto\n\n\nexperimento → experimental\nreglamento → reglamentario\n\n\nbobo → bobada\nchulo → chulería"
-  },
-  {
-    "objectID": "handout7.html#nombres-y-adjetivos-gentílicos",
-    "href": "handout7.html#nombres-y-adjetivos-gentílicos",
-    "title": "Las limitaciones",
-    "section": "Nombres y adjetivos gentílicos",
-    "text": "Nombres y adjetivos gentílicos\n\n\nMálaga → malagueño\nBoston → bostoniano\nChile → chileno\nArgentina → argentino\nJapón → japonés"
-  },
-  {
-    "objectID": "handout7.html#existen-los-morfemas",
-    "href": "handout7.html#existen-los-morfemas",
-    "title": "Las limitaciones",
-    "section": "¿Existen los morfemas?",
-    "text": "¿Existen los morfemas?\n\nHay varias razones para dudar de la existencia de los morfemas:\n\n\nNo siempre se puede aislar unidades segmentables que codifiquen parte del significado.\nLos segmentos que aislamos no siempre tienen significado.\nLos cambios fonológicos no siempre pueden analizarse como segmentos."
-  },
-  {
-    "objectID": "handout7.html#existen-los-morfemas-1",
-    "href": "handout7.html#existen-los-morfemas-1",
-    "title": "Las limitaciones",
-    "section": "¿Existen los morfemas?",
-    "text": "¿Existen los morfemas?\n\nLos segmentos con mucha información\n\n\n(yo) canto → cant-o\n\nQuiero que ella cante. → cant-e\n\n\n\nLos segmentos sin información: los morfos cero\n\n\ncanto vs. canta\n\n-o primera persona singular\nnulo - presente\nnulo - indicativo"
-  },
-  {
-    "objectID": "handout7.html#existen-los-morfemas-2",
-    "href": "handout7.html#existen-los-morfemas-2",
-    "title": "Las limitaciones",
-    "section": "¿Existen los morfemas?",
-    "text": "¿Existen los morfemas?\n\nSustitución (en vez de la adición) de un segmento\n\n\ntenemos\ntuvimos\n\n\nsomos\nfuimos\n\n\nvamos\nfuimos"
-  },
-  {
-    "objectID": "handout7.html#existen-los-morfemas-3",
-    "href": "handout7.html#existen-los-morfemas-3",
-    "title": "Las limitaciones",
-    "section": "¿Existen los morfemas?",
-    "text": "¿Existen los morfemas?\n\nCambio categorial sin la adición de un segmento (explícito)\n\n\n\nYo encuentro…\nEl encuentro\n\n\nYo le abrigo a…\nel abrigo"
-  },
-  {
-    "objectID": "handout7.html#existen-los-morfemas-4",
-    "href": "handout7.html#existen-los-morfemas-4",
-    "title": "Las limitaciones",
-    "section": "¿Existen los morfemas?",
-    "text": "¿Existen los morfemas?\n\nExponencia extendida: ¿un segmento? ¿dos?\n\n\n\nloco/a → enloquece\nviejo/a → envejece"
-  },
-  {
-    "objectID": "handout7.html#existen-los-morfemas-5",
-    "href": "handout7.html#existen-los-morfemas-5",
-    "title": "Las limitaciones",
-    "section": "¿Existen los morfemas?",
-    "text": "¿Existen los morfemas?\n\nLas palabras “cranberry”\n\n\ncranberry\nstrawberry\nblackberry\nraspberry\n\n\nsustituir\nprostituir\nconstituir\ndestituir"
-  },
-  {
-    "objectID": "handout7.html#existen-los-morfemas-6",
-    "href": "handout7.html#existen-los-morfemas-6",
-    "title": "Las limitaciones",
-    "section": "¿Existen los morfemas?",
-    "text": "¿Existen los morfemas?\n\n\nretener/contener\nreducir/conducir\nrecurrir/concurrir\n\n\nconducir\nseducir\ntraducir\ninducir\nproducir\nreducir"
-  },
-  {
-    "objectID": "handout10.html#una-palabra",
-    "href": "handout10.html#una-palabra",
-    "title": "La palabra",
-    "section": "Una palabra",
-    "text": "Una palabra\n\nLa morfología: el estudio de la palabra.\nPero: ¿Qué es una palabra? ¿Cómo se define?"
-  },
-  {
-    "objectID": "handout10.html#pena-1999",
-    "href": "handout10.html#pena-1999",
-    "title": "La palabra",
-    "section": "Pena 1999",
-    "text": "Pena 1999\n\nParece una unidad de rango intermedio entre el morfema y el sintagma (la frase): Las frases consisten en palabras y las palabras consisten en morfemas."
-  },
-  {
-    "objectID": "handout10.html#posible-acercamiento-1-como-unidad-constituida-de-morfemas",
-    "href": "handout10.html#posible-acercamiento-1-como-unidad-constituida-de-morfemas",
-    "title": "La palabra",
-    "section": "Posible acercamiento 1: como unidad constituida de morfemas",
-    "text": "Posible acercamiento 1: como unidad constituida de morfemas\n\n\nUn orden fijo de morfemas: En contraste con las palabras dentro de la frase, los morfemas de una palabra tiene un orden fijo.\n\n\nLarg-a-s *largsa\n\nPero: yo, tu, la"
-  },
-  {
-    "objectID": "handout10.html#posible-acercamiento-1-como-unidad-constituida-de-morfemas-1",
-    "href": "handout10.html#posible-acercamiento-1-como-unidad-constituida-de-morfemas-1",
-    "title": "La palabra",
-    "section": "Posible acercamiento 1: como unidad constituida de morfemas",
-    "text": "Posible acercamiento 1: como unidad constituida de morfemas\n\n\nNo admite más que morfemas ligados:\n\n\nblanc-o; blanc-uzc-o; blanc-ot-e\n\nPero: parasol; sacacorches; hombrerana; sapoperra"
-  },
-  {
-    "objectID": "handout10.html#posible-acercamiento-1-como-unidad-constituida-de-morfemas-2",
-    "href": "handout10.html#posible-acercamiento-1-como-unidad-constituida-de-morfemas-2",
-    "title": "La palabra",
-    "section": "Posible acercamiento 1: como unidad constituida de morfemas",
-    "text": "Posible acercamiento 1: como unidad constituida de morfemas\n\n\nLa inseparabilidad de morfemas ligados:\n\n\n*cantaré y rás; *estanca y pobrecimiento\n\n\nNo puede ser interrumpida en la conversación normal"
-  },
-  {
-    "objectID": "handout10.html#posible-acercamiento-2-como-unidad-de-las-frases",
-    "href": "handout10.html#posible-acercamiento-2-como-unidad-de-las-frases",
-    "title": "La palabra",
-    "section": "Posible acercamiento 2: como unidad de las frases",
-    "text": "Posible acercamiento 2: como unidad de las frases\n\n\nUna definición clásica (por Bloomfield): a minimum free form, o sea que puede aparecer aislada en el habla constituyendo un enunciado.\n\n\nJuan, mesa, suyo\n\nPero: la, a, de, con, su"
-  },
-  {
-    "objectID": "handout10.html#posible-acercamiento-2-como-unidad-de-las-frases-1",
-    "href": "handout10.html#posible-acercamiento-2-como-unidad-de-las-frases-1",
-    "title": "La palabra",
-    "section": "Posible acercamiento 2: como unidad de las frases",
-    "text": "Posible acercamiento 2: como unidad de las frases\n\n\nPosibilidad de cambiar la posición en la secuencia y de mantener distintas relaciones secuenciales con otros elementos\n\n\nÉl siempre va a casa; Él va a casa siempre; Siempre va él a casa; A casa siempre va él\n\nPero: las casas → *casas las; dos libros → *libros dos\nestos mis otros libros → *mis estos otros libros → *otros estos mis libros"
-  },
-  {
-    "objectID": "handout10.html#posible-acercamiento-2-como-unidad-de-las-frases-2",
-    "href": "handout10.html#posible-acercamiento-2-como-unidad-de-las-frases-2",
-    "title": "La palabra",
-    "section": "Posible acercamiento 2: como unidad de las frases",
-    "text": "Posible acercamiento 2: como unidad de las frases\n\n\nLa separabilidad: entre dos palabras es posible insertar otra u otras unidades.\n\n\nEl niño es de Juanita; El hermoso niño es de Juanita; El niño que ve ahí es de mi hermana Juanita\na casa; a tu casa; a la otra casa; a esta nueva casa\n\nPero: *se lo siempre doy; *voy a mañana comerlo"
-  },
-  {
-    "objectID": "handout10.html#posible-acercamiento-2-como-unidad-de-las-frases-3",
-    "href": "handout10.html#posible-acercamiento-2-como-unidad-de-las-frases-3",
-    "title": "La palabra",
-    "section": "Posible acercamiento 2: como unidad de las frases",
-    "text": "Posible acercamiento 2: como unidad de las frases\n\n\nLa pausa potencial: en la emisión de un enunciado, el hablante puede hacer una pausa antes y/o después de una palabra determinada."
-  },
-  {
-    "objectID": "handout10.html#fábregas-2020",
-    "href": "handout10.html#fábregas-2020",
-    "title": "La palabra",
-    "section": "Fábregas 2020",
-    "text": "Fábregas 2020\n\nPosibles criterios para definir la palabra:\n\nCriterio ortográfico: la palabra es una secuencia acotada por dos espacios en blanco en la escritura.\n\n\nProblema 1: Hay lenguas que no tienen escritura, por lo tanto esas lenguas no tendrían palabras.\nProblema 2: La secuencia ‘se lo quiero decir’ y ‘quiero decírselo’ tienen un numero disanto de palabras."
-  },
-  {
-    "objectID": "handout10.html#fábregas-2020-1",
-    "href": "handout10.html#fábregas-2020-1",
-    "title": "La palabra",
-    "section": "Fábregas 2020",
-    "text": "Fábregas 2020\n\n\nCriterio fonológico: una palabra es la unidad más pequeña que se puede pronunciar sola como una unidad continua y sin pausas.\n\nProblema principal: No está claro que hay pausas entre las palabras al hablar.\n\nme he enterado del plan\nvas a ir?"
-  },
-  {
-    "objectID": "handout10.html#fábregas-2020-2",
-    "href": "handout10.html#fábregas-2020-2",
-    "title": "La palabra",
-    "section": "Fábregas 2020",
-    "text": "Fábregas 2020\n\n\nCriterio semántico: una palabra corresponde a un único concepto\n\n\nJuan desayunó. vs. Juan tomó el desayuno.\nJuan descansó. vs. Juan tomó un descanso.\nJuan mató las plantas. vs. Juan causó que las plantas murieran.\nLa madre de Juan."
-  },
-  {
-    "objectID": "handout10.html#fábregas-2020-3",
-    "href": "handout10.html#fábregas-2020-3",
-    "title": "La palabra",
-    "section": "Fábregas 2020",
-    "text": "Fábregas 2020\n\n\nCriterio léxico: una palabra es aquello que tiene una entrada única en nuestro léxico.\n\n\nProblema: los morfemas: -dor, -ción, etc."
-  },
-  {
-    "objectID": "handout10.html#fábregas-2020-4",
-    "href": "handout10.html#fábregas-2020-4",
-    "title": "La palabra",
-    "section": "Fábregas 2020",
-    "text": "Fábregas 2020\n\nEntonces: ¿Existe la palabra?\n\nLas teorías construccionistas: NO.\nLas teorías lexicalistas: SÍ"
-  },
-  {
-    "objectID": "handout10.html#el-lugar-de-la-morfología",
-    "href": "handout10.html#el-lugar-de-la-morfología",
-    "title": "La palabra",
-    "section": "El lugar de la morfología",
-    "text": "El lugar de la morfología\n\nEs útil recordar nuestra suposición sobre la “arquitectura de la facultad de la lengua”"
-  },
-  {
-    "objectID": "handout10.html#el-lugar-de-la-morfología-1",
-    "href": "handout10.html#el-lugar-de-la-morfología-1",
-    "title": "La palabra",
-    "section": "El lugar de la morfología",
-    "text": "El lugar de la morfología\n\nRefleja la idea de que el lenguaje es un sistema que nos permite combinar unidades simples para formar elementos complejos que se materializan mediate sonidos (o gestos) y que contienen un significado determinado.\nDos teorías sobre el lugar de la morfología:\n\nel lexicalismo y el construccionismo"
-  },
-  {
-    "objectID": "handout10.html#el-lexicalismo",
-    "href": "handout10.html#el-lexicalismo",
-    "title": "La palabra",
-    "section": "El lexicalismo",
-    "text": "El lexicalismo\n\nLos supuestos:\n\nla morfología es autónoma, existe un componente morfológico que impone estructuras, restricciones y reglas\nel componente morfológico se ocupa de crear palabras y el componente sintáctico se ocupa de crear frases (sintagmas)\nel output del componente morfológico (las palabras) es el input al componente sintáctico"
-  },
-  {
-    "objectID": "handout10.html#el-lexicalismo-1",
-    "href": "handout10.html#el-lexicalismo-1",
-    "title": "La palabra",
-    "section": "El lexicalismo",
-    "text": "El lexicalismo"
-  },
-  {
-    "objectID": "handout10.html#el-lexicalismo-2",
-    "href": "handout10.html#el-lexicalismo-2",
-    "title": "La palabra",
-    "section": "El lexicalismo",
-    "text": "El lexicalismo\n\nTres propiedades principales\n\nLa morfología tiene sus propias reglas de combinaciones y sus propias unidades.\n\n\n\n\n*Juan vio sol\nun parasol"
-  },
-  {
-    "objectID": "handout10.html#el-lexicalismo-3",
-    "href": "handout10.html#el-lexicalismo-3",
-    "title": "La palabra",
-    "section": "El lexicalismo",
-    "text": "El lexicalismo\n\n\nLa morfología regula lo que “ve” la sintaxis y por lo tanto como lo trata la sintaxis → perspectiva endoesquelética\n\n\n\n\nLa jefa clasificó el objeto.\nEl objeto es difícilmente clasificable."
-  },
-  {
-    "objectID": "handout10.html#el-lexicalismo-4",
-    "href": "handout10.html#el-lexicalismo-4",
-    "title": "La palabra",
-    "section": "El lexicalismo",
-    "text": "El lexicalismo\n\n\nLa integridad léxica: la sintaxis no puede operar sobre la estructura interna de la palabras - son átomicas\n\n\n\n\nUn chico sordomudo.\n*Unas chicas sordasmudas.\n\n\nCompró unos corchos María.\n¿Qué compró ____ María?\n\n\nCompró un sacacorchos María.\n*¿Qué compró saca____ María?"
-  },
-  {
-    "objectID": "handout10.html#el-construccionismo",
-    "href": "handout10.html#el-construccionismo",
-    "title": "La palabra",
-    "section": "El construccionismo",
-    "text": "El construccionismo\n\nEl supuesto principal:\nSolo hay un sistema combinatorio que crea tanto las palabras como las frases (los sintagmas). El mismo que crea sintagmas crea las palabras."
-  },
-  {
-    "objectID": "handout10.html#el-construccionismo-1",
-    "href": "handout10.html#el-construccionismo-1",
-    "title": "La palabra",
-    "section": "El construccionismo",
-    "text": "El construccionismo\n(8)"
-  },
-  {
-    "objectID": "handout10.html#el-construccionismo-2",
-    "href": "handout10.html#el-construccionismo-2",
-    "title": "La palabra",
-    "section": "El construccionismo",
-    "text": "El construccionismo\n\nPor lo tanto:\n\nLas reglas combinatorias y las unidades manejadas son iguales para la morfología y la sintaxis.\nLas palabras no pueden ser distintas que los sintagmas, lo que implica que las palabras no existen como tal.\n\nPregunta: ¿Cómo se explican las propiedades asociadas con la integridad léxica?\nRespuesta: Mediante explicaciones sintácticas, fonológicas y semánticas independientes."
-  },
-  {
-    "objectID": "handout10.html#el-construccionismo-3",
-    "href": "handout10.html#el-construccionismo-3",
-    "title": "La palabra",
-    "section": "El construccionismo",
-    "text": "El construccionismo\n\nPerspectiva exoesquelética: La sintaxis define las propiedades de las palabras. Las palabras (o raíces) adquieren su esqueleto (categorial y más) en la sintaxis.\n\n\n\nLa jefa clasificó el objeto.\n\n\nes verbo porque así lo ha construido la sintaxis\n\n\nEl objeto es difícilmente clasificable.\n\n\nes adjetivo porque así lo ha construido la sintaxis"
-  },
-  {
-    "objectID": "handout10.html#dos-teorías-construccionistas",
-    "href": "handout10.html#dos-teorías-construccionistas",
-    "title": "La palabra",
-    "section": "Dos teorías construccionistas",
-    "text": "Dos teorías construccionistas\n\nLa morfología distribuida (distributed morphology DM)\nHay un componente morfológico que adopta las estructuras formadas por la sintaxis y las puede reinterpretar."
-  },
-  {
-    "objectID": "handout10.html#dos-teorías-construccionistas-1",
-    "href": "handout10.html#dos-teorías-construccionistas-1",
-    "title": "La palabra",
-    "section": "Dos teorías construccionistas",
-    "text": "Dos teorías construccionistas"
-  },
-  {
-    "objectID": "handout10.html#dm",
-    "href": "handout10.html#dm",
-    "title": "La palabra",
-    "section": "DM",
-    "text": "DM"
-  },
-  {
-    "objectID": "handout10.html#unos-ejemplos-de-reajustes",
-    "href": "handout10.html#unos-ejemplos-de-reajustes",
-    "title": "La palabra",
-    "section": "Unos ejemplos de “reajustes”",
-    "text": "Unos ejemplos de “reajustes”\n\n\nDimos un regalo a Mario.\n*Le lo dimos.\nSe lo dimos."
-  },
-  {
-    "objectID": "handout10.html#unos-ejemplos-de-reajustes-1",
-    "href": "handout10.html#unos-ejemplos-de-reajustes-1",
-    "title": "La palabra",
-    "section": "Unos ejemplos de “reajustes”",
-    "text": "Unos ejemplos de “reajustes”\n\nImportante: Estos cambios NO afectan ni la sintaxis ni la semántica. Eso es una consecuencia de la arquitectura, es decir, que la morfología opera después de la sintaxis y en una rama distinta que la semántica."
-  },
-  {
-    "objectID": "handout10.html#la-nanosintaxis",
-    "href": "handout10.html#la-nanosintaxis",
-    "title": "La palabra",
-    "section": "La nanosintaxis",
-    "text": "La nanosintaxis\n\nUna propiedad fundamental: la forma en que las estructuras sintácticas se relacionan con los segmentos fonológicos que las materializan y hacen posible su pronunciación.\nPara poder entenderlo mejor, hace falta otros conceptos que veremos más adelante."
-  },
-  {
-    "objectID": "handout4.html#la-entrada-básica",
-    "href": "handout4.html#la-entrada-básica",
-    "title": "Las entradas léxicas",
-    "section": "La entrada básica",
-    "text": "La entrada básica\n\nLa entrada léxica: un emparejamiento de una forma fonémica y un significado; también se le añade una categoría (léxica/sintáctica). Son tripletes de información.\n\n\n/león/ ↔︎ felino, rey de la jungla, N\n\n\nPuede haber información gramatical, sin significado, como la Vocal Temática de un verbo, como en (2)\n\n\n/a/ ↔︎ primera conjugación"
-  },
-  {
-    "objectID": "handout4.html#la-entrada-básica-1",
-    "href": "handout4.html#la-entrada-básica-1",
-    "title": "Las entradas léxicas",
-    "section": "La entrada básica",
-    "text": "La entrada básica\n\nMorfema léxico: Morfema que contienen significado (sustancial, conceptual del mundo), como león en (1).\nMorfema gramatical: Morfema que NO contienen significado (sustancial, conceptual del mundo), pero sí aporta información morfosintáctica, como a en (2).\n\n\n\nganador\nganan\nganamos"
-  },
-  {
-    "objectID": "handout4.html#qué-más-contienen-las-entradas-léxicas",
-    "href": "handout4.html#qué-más-contienen-las-entradas-léxicas",
-    "title": "Las entradas léxicas",
-    "section": "¿Qué más contienen las entradas léxicas?",
-    "text": "¿Qué más contienen las entradas léxicas?\n\nAparte del significado, la fonología y la categoría, todo lo que hay que memorizar sobre una palabra forma para de la entrada léxica, las connotaciones, usos únicos/especiales, etc."
-  },
-  {
-    "objectID": "handout4.html#el-contexto-morfosintáctico-del-uso",
-    "href": "handout4.html#el-contexto-morfosintáctico-del-uso",
-    "title": "Las entradas léxicas",
-    "section": "El contexto morfosintáctico del uso",
-    "text": "El contexto morfosintáctico del uso\n\nEn muchos casos, hace falta representar el contexto en que se usa.\n\n\n\nganaba\n∅ ↔︎ 1a sg.\n∅ ↔︎ 1a sg.\n        /-ba__\n*yo gana"
-  },
-  {
-    "objectID": "handout4.html#el-contexto-morfosintáctico-del-uso-1",
-    "href": "handout4.html#el-contexto-morfosintáctico-del-uso-1",
-    "title": "Las entradas léxicas",
-    "section": "El contexto morfosintáctico del uso",
-    "text": "El contexto morfosintáctico del uso\n\n\nganábamos\nganáramos\nganamos\n∅ ↔︎ TAM: pretérito\n      /-a__mos"
-  },
-  {
-    "objectID": "handout4.html#la-información-gramatical-de-la-base-de-un-afijo",
-    "href": "handout4.html#la-información-gramatical-de-la-base-de-un-afijo",
-    "title": "Las entradas léxicas",
-    "section": "La información gramatical de la base de un afijo",
-    "text": "La información gramatical de la base de un afijo\n\nMuchos piensan que la categoría de la base con que combina un afijo forma parte de la entrada léxica.\nSubcategorización: La categoría que requiere de su base el afijo para combinarse."
-  },
-  {
-    "objectID": "handout4.html#la-información-gramatical-de-la-base-de-un-afijo-1",
-    "href": "handout4.html#la-información-gramatical-de-la-base-de-un-afijo-1",
-    "title": "Las entradas léxicas",
-    "section": "La información gramatical de la base de un afijo",
-    "text": "La información gramatical de la base de un afijo\n\n\ncazar → cazador\njugar → jugador\nalto/a → *altador\nmesa → *mesador\n\n/dor/ ↔︎ N, subcategorización: V\n“agente de X”"
-  },
-  {
-    "objectID": "handout4.html#la-información-gramatical-de-la-base-de-un-afijo-2",
-    "href": "handout4.html#la-información-gramatical-de-la-base-de-un-afijo-2",
-    "title": "Las entradas léxicas",
-    "section": "La información gramatical de la base de un afijo",
-    "text": "La información gramatical de la base de un afijo\n\n\naceite\naceitoso\namor\namoroso\nfuria\nfurioso\nespacio\nespacioso"
-  },
-  {
-    "objectID": "handout4.html#información-puramente-morfológico",
-    "href": "handout4.html#información-puramente-morfológico",
-    "title": "Las entradas léxicas",
-    "section": "Información puramente morfológico",
-    "text": "Información puramente morfológico\n\nLa posición relativa a la base/raíz que toma un afijo.\n\n\nCIÓN ↔︎ N, subcategorización: V\n            “acción o efecto de”\n            [sufijo]\n            -ión/s_\n            -ción/el resto de casos\n/re/ ↔︎ V, subcategorización: V\n            “hacer X otra vez”\n            [prefijo]"
-  },
-  {
-    "objectID": "handout4.html#las-raíces",
-    "href": "handout4.html#las-raíces",
-    "title": "Las entradas léxicas",
-    "section": "Las raíces",
-    "text": "Las raíces\n\nPuede faltar la forma fonémica (morfo cero); puede faltar el significado conceptual del mundo (en la vocal temática)\n¿Puede faltar la información gramatical? Para la Morfología Distribuida sí, la información gramatical puede faltar en las raíces."
-  },
-  {
-    "objectID": "handout4.html#las-raíces-1",
-    "href": "handout4.html#las-raíces-1",
-    "title": "Las entradas léxicas",
-    "section": "Las raíces",
-    "text": "Las raíces\n\n/grit/ ↔︎ “relacionados con sonidos muy fuertes”\n\n[[grit]-a]V “producir sonidos muy fuertes”\n[[grit]-o]N “acción o efecto de producir sonidos muy fuertes”"
-  },
-  {
-    "objectID": "handout4.html#las-raíces-2",
-    "href": "handout4.html#las-raíces-2",
-    "title": "Las entradas léxicas",
-    "section": "Las raíces",
-    "text": "Las raíces\n\n\nabrazar\nacomodar\n/braz/ ↔︎ “relacionado con apéndices del torso”\n/comod/ ↔︎ “relacionado con el bienestar”\n\n\n[[braz]-o]N “apéndice del torso”\n[[cómod]-o/a]Adj “propiedad del bienestar”\n\n\n[a-[braz]-a]V “envolver con apéndices del torso”\n[a-[comod]-a]V “lograr el bienestar”"
+    "objectID": "articles.html#semana-13---code-switching-and-dm",
+    "href": "articles.html#semana-13---code-switching-and-dm",
+    "title": "Articles",
+    "section": "Semana 13 - Code-switching and DM",
+    "text": "Semana 13 - Code-switching and DM\n\nLópez, L. (forth). Distributed Morphology and Bilingualism: Code-switching and Mixed Languages. The Cambridge Handbook of Distributed Morphology\n\nJaylene\n\nLópez, L. (2020). Bilingual grammar: Toward an integrated model. Cambridge University Press.\n\nVarious chapters"
   },
   {
     "objectID": "handout3.html#aspectos-básicos-del-análisis-morfológico",

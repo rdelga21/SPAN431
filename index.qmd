@@ -5,5 +5,5 @@ title: "SPAN431"
 This is the website for the class.
 
 # Announcements 
-git
-Pleas check here for annoucements.
+
+Please check here for annoucements.

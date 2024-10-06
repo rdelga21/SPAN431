@@ -44,6 +44,9 @@ website:
       - section: "Semana 6"
         contents: 
         - handout13.qmd
+      - section: "Semana 7"
+        contents: 
+        - fabregas_gallegos_2014.qmd
 format:
   html:
     theme: cosmo
