@@ -1,0 +1,37 @@
+---
+title: "Fábregas and Gallegos (2014)"
+format:
+  revealjs:
+    slide-number: true
+---
+
+## 
+
+1. Qué pensaron de la escritura?
+    a. Todo estaba claro? Was it too dense?
+    b. Were there things that needed to be clarified?
+    c. Did the authors provide all the necessary information?
+    d. was it organized well?
+
+##
+
+How do the authors explain the relationship between morphological variation and language change? What evidence do they provide that supports their claims about this relationship?
+
+##
+
+Pueden pensar en otros ejemplos en que language contact tiene un efecto an la variación morfológica?
+
+##
+
+Can we use these asymetries to think about code-switching research?
+
+
+##
+
+- Subjunctive
+- DOM
+
+##
+
+How would we study DOM variation and sociolinguistic factors?
+
