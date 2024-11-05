@@ -55,6 +55,15 @@ website:
         contents: 
         - clahsen_roca_2002.qmd
         - mariscal_2009.qmd
+      - section: "Semana 10"
+        contents:
+        - barnes.qmd
+        - montrul.qmd
+      - section: "Semana 11"
+        contents:
+        - scontras.qmd
+        - dominguez.qmd
+        - lopez.qmd
       
 format:
   html:

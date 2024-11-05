@@ -127,7 +127,7 @@ El semestre se divide en tres partes:
 |                | -   Barnes, S.        | -   Montrul, S.       |
 |                |     (2012).           |     (2010)            |
 |                |                       |                       |
-|                |     -   Alonso        | -   Edwin             |
+|                |     -   Alonso        |     -   Edwin         |
 |                |                       |                       |
 |                |                       | **Ejercicio 5**       |
 +----------------+-----------------------+-----------------------+
