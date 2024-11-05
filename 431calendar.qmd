@@ -128,8 +128,6 @@ El semestre se divide en tres partes:
 |                |     (2012).           |     (2010)            |
 |                |                       |                       |
 |                |     -   Alonso        |     -   Edwin         |
-|                |                       |                       |
-|                |                       | **Ejercicio 5**       |
 +----------------+-----------------------+-----------------------+
 | Semana 11      | November 5            | 7                     |
 |                |                       |                       |
@@ -139,6 +137,8 @@ El semestre se divide en tres partes:
 |                |     -   Brenda        |     -   Ella          |
 |                |                       | -   López, L. (forth) |
 |                |                       |     -   Jaylene       |
+|                |                       |                       |
+|                |                       | **Ejercicio 5**       |
 +----------------+-----------------------+-----------------------+
 | Semana 12      | 12                    | 14                    |
 |                |                       |                       |
@@ -147,8 +147,6 @@ El semestre se divide en tres partes:
 |                |     -   Izaro         |     -   Jaylene       |
 |                |                       |     -   Alonso        |
 |                |                       |     -   Ella          |
-|                |                       |                       |
-|                |                       | **Ejercicio 6**       |
 +----------------+-----------------------+-----------------------+
 | Semana 13      | 19                    | 21                    |
 |                |                       |                       |
@@ -157,6 +155,8 @@ El semestre se divide en tres partes:
 |                |     -   Edwin         |     -   Franco        |
 |                |     -   Kamila        |     -   Izaro         |
 |                |     -   Brenda        |     -   Micah         |
+|                |                       |                       |
+|                |                       | **Ejercicio 6**       |
 +----------------+-----------------------+-----------------------+
 | **Fall break** | **Fall break**        | **Fall break**        |
 +----------------+-----------------------+-----------------------+
