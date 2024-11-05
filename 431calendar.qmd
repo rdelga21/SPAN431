@@ -164,7 +164,9 @@ El semestre se divide en tres partes:
 |                | **Conferencia - No    | **Conferencia - No    |
 |                | hay clase**           | hay clase**           |
 +----------------+-----------------------+-----------------------+
-| Semana 15      | 10\                   | 12\                   |
+| Semana 15      | 10                    | 12\                   |
 |                |                       | **Reading day** (no   |
-|                |                       | hay clase)            |
+|                | -   Comodín           | hay clase)            |
+|                |                       |                       |
+|                | -   Wrap-up\          |                       |
 +----------------+-----------------------+-----------------------+
