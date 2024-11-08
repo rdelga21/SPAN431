@@ -64,6 +64,10 @@ website:
         - scontras.qmd
         - dominguez.qmd
         - lopez.qmd
+      - section: "Semana 12"
+        contents:
+        - lopez20205.qmd
+        - lopez20207.qmd
       
 format:
   html:
